@@ -1,0 +1,33 @@
+{
+  "animals": [
+    {
+      "name": "Bobby",
+      "description": "Fastest sloth alive",
+      "donations": 12
+    },
+    {
+      "id": "5",
+      "name": "Bae",
+      "donations": 10,
+      "description": "Fearless baby bear that thinks its the king of the zoo"
+    },
+    {
+      "id": "6",
+      "name": "Ivan",
+      "donations": 17,
+      "description": "cute brown-white cuddly but feisty mama cat"
+    },
+    {
+      "id": "b9db",
+      "name": "Ivan",
+      "donations": 2,
+      "description": "A cute white playful polar bear"
+    },
+    {
+      "id": "ad75",
+      "name": "Cassie",
+      "donations": 20,
+      "description": "A cute white playful polar bear"
+    }
+  ]
+}
