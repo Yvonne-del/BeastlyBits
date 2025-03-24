@@ -1,33 +1,1604 @@
 {
   "animals": [
     {
-      "name": "Bobby",
-      "description": "Fastest sloth alive",
-      "donations": 12
+      "id": 1,
+      "name": "African Elephant",
+      "scientific_name": "Loxodonta africana",
+      "category": "mammal",
+      "description": "The African elephant is the largest land animal on Earth, known for its intelligence, complex social structures, and strong family bonds. They are characterized by their large ears, which help regulate their body temperature, and long trunks that are used for a variety of tasks like feeding, drinking, and communication.",
+      "habitat": "Savannas, forests, and grasslands.",
+      "diet": "Herbivore - primarily feeds on grasses, leaves, fruits, and bark.",
+      "fun_facts": [
+        "Elephants can communicate with each other using infrasound, which is inaudible to humans.",
+        "They have excellent memories and can recognize individuals even after many years.",
+        "African elephants are known to create tools, such as using branches to swat away flies."
+      ],
+      "population": "Estimated 415,000 in the wild.",
+      "image_url": "https://example.com/african_elephant.jpg"
     },
     {
-      "id": "5",
-      "name": "Bae",
-      "donations": 10,
-      "description": "Fearless baby bear that thinks its the king of the zoo"
+      "id": 2,
+      "name": "Bald Eagle",
+      "scientific_name": "Haliaeetus leucocephalus",
+      "category": "bird",
+      "description": "The Bald Eagle is a powerful bird of prey and the national symbol of the United States. Known for its striking white head and tail contrasting with a dark brown body, it represents strength and freedom. Bald Eagles are skilled hunters and have incredible vision, allowing them to spot prey from great distances.",
+      "habitat": "Near large bodies of open water with abundant food supply, including lakes, rivers, and coastal regions.",
+      "diet": "Carnivore - feeds mainly on fish but will also eat birds, small mammals, and carrion.",
+      "fun_facts": [
+        "Bald eagles can fly up to 100 mph when diving for prey.",
+        "They build massive nests, some weighing up to 2,000 pounds, and can reuse nests for many years.",
+        "Adult Bald Eagles can live to be 20-30 years old in the wild."
+      ],
+      "population": "Over 300,000 in the wild.",
+      "image_url": "https://example.com/bald_eagle.jpg"
     },
     {
-      "id": "6",
-      "name": "Ivan",
-      "donations": 17,
-      "description": "cute brown-white cuddly but feisty mama cat"
+      "id": 3,
+      "name": "Tiger",
+      "scientific_name": "Panthera tigris",
+      "category": "mammal",
+      "description": "The tiger is the largest species of the cat family and is known for its beautiful orange coat marked with black stripes. Each tiger has a unique pattern of stripes. Tigers are solitary animals and are skilled hunters, primarily hunting at night. Their keen senses and powerful bodies make them one of the most formidable predators in their habitat.",
+      "habitat": "Forests, mangroves, and grasslands.",
+      "diet": "Carnivore - primarily feeds on deer, wild boar, and other wildlife.",
+      "fun_facts": [
+        "Tigers can leap up to 15 feet in a single jump.",
+        "They are strong swimmers and often play in water.",
+        "Tigers can be found in various natural habitats across Asia."
+      ],
+      "population": "Estimated 3,900 in the wild.",
+      "image_url": "https://example.com/tiger.jpg"
     },
     {
-      "id": "b9db",
-      "name": "Ivan",
-      "donations": 2,
-      "description": "A cute white playful polar bear"
+      "id": 4,
+      "name": "Cheetah",
+      "scientific_name": "Acinonyx jubatus",
+      "category": "mammal",
+      "description": "The cheetah is the fastest land animal, capable of reaching speeds up to 75 mph in short bursts covering distances up to 500 meters. They are characterized by their thin, lightweight frame, black tear stripes on their faces, and distinctive spotted coats. Cheetahs depend on their speed to catch prey and often hunt solo or in small groups.",
+      "habitat": "Savannas and open grasslands.",
+      "diet": "Carnivore - primarily preys on small to medium-sized ungulates such as gazelles.",
+      "fun_facts": [
+        "Unlike other big cats, cheetahs cannot roar; they make a range of vocalizations including chirps and purrs.",
+        "They can accelerate from 0 to 60 mph in just three seconds.",
+        "Cheetahs have a unique adaptation in their respiratory system allowing for more oxygen during speed runs."
+      ],
+      "population": "Estimated 7,100 in the wild.",
+      "image_url": "https://example.com/cheetah.jpg"
     },
     {
-      "id": "ad75",
-      "name": "Cassie",
-      "donations": 20,
-      "description": "A cute white playful polar bear"
+      "id": 5,
+      "name": "Leopard",
+      "scientific_name": "Panthera pardus",
+      "category": "mammal",
+      "description": "Leopards are known for their adaptable nature and are found in a variety of habitats. They have a distinctive golden coat covered in black rosettes and a strong, muscular build. Leopards are solitary animals and are excellent climbers, often hoisting their prey into trees to keep them safe from scavengers.",
+      "habitat": "Forests, grasslands, and mountains.",
+      "diet": "Carnivore - primarily feeds on medium-sized ungulates, monkeys, and birds.",
+      "fun_facts": [
+        "Leopards are nocturnal and primarily hunt at night.",
+        "They have a powerful bite that allows them to crush the skulls of their prey.",
+        "Leopards can run short distances at speeds up to 36 mph."
+      ],
+      "population": "Estimated 250,000 in the wild.",
+      "image_url": "https://example.com/leopard.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Giraffe",
+      "scientific_name": "Giraffa camelopardalis",
+      "category": "mammal",
+      "description": "Giraffes are the tallest land animals, easily recognized by their long necks and legs. They have a unique pattern of patches on their coat that provides camouflage in the savanna. Giraffes are herbivores, primarily feeding on the leaves of trees while using their long tongues to reach high branches.",
+      "habitat": "Savannas and open woodlands.",
+      "diet": "Herbivore - primarily feeds on acacia leaves and other foliage.",
+      "fun_facts": [
+        "A giraffe's tongue can be up to 45 cm long and is prehensile.",
+        "They can go several days without drinking water, obtaining moisture from leaves.",
+        "Giraffes communicate with each other using a variety of vocalizations, including grunts and hisses."
+      ],
+      "population": "Estimated 68,000 in the wild.",
+      "image_url": "https://example.com/giraffe.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Hippopotamus",
+      "scientific_name": "Hippopotamus amphibius",
+      "category": "mammal",
+      "description": "Hippos are large, mostly herbivorous mammals, known for their massive bodies and large mouths. They spend most of their time in water to keep their bodies cool, emerging at night to graze on grass. Despite their size, hippos are known to be highly territorial and can be aggressive when threatened.",
+      "habitat": "Rivers and lakes across sub-Saharan Africa.",
+      "diet": "Herbivore - primarily grazes on grasses.",
+      "fun_facts": [
+        "Despite being semi-aquatic, hippos can run at speeds of up to 19 mph on land.",
+        "Hippos secrete a natural sunscreen that protects them from sunburn.",
+        "They can hold their breath underwater for up to five minutes."
+      ],
+      "population": "Estimated 125,000 in the wild.",
+      "image_url": "https://example.com/hippo.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Zebra",
+      "scientific_name": "Equus quagga",
+      "category": "mammal",
+      "description": "Zebras are known for their distinctive black and white stripes, which serve as camouflage in the wild. They are social animals that live in herds and are primarily grazers, feeding on grass and other vegetation. Each zebra has a unique stripe pattern, much like human fingerprints.",
+      "habitat": "Savannas, grasslands, and woodlands.",
+      "diet": "Herbivore - primarily grazes on grass.",
+      "fun_facts": [
+        "Zebras communicate through vocalizations, body language, and facial expressions.",
+        "They have excellent eyesight, which helps them keep watch for predators.",
+        "Zebras are known to form strong social bonds and can often be seen grooming each other."
+      ],
+      "population": "Estimated 300,000 plains zebras in the wild.",
+      "image_url": "https://example.com/zebra.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Kangaroo",
+      "scientific_name": "Macropus giganteus",
+      "category": "mammal",
+      "description": "Kangaroos are marsupials native to Australia, recognizable by their strong hind legs and long tails. They are unique in their ability to jump great distances and are known for their strong social structures, often living in groups called mobs. Kangaroos are herbivores, feeding mainly on grasses and leaves.",
+      "habitat": "Grasslands and forests across Australia.",
+      "diet": "Herbivore - primarily feeds on grass, leaves, and shoots.",
+      "fun_facts": [
+        "Kangaroos can jump up to 3 meters high and cover 9 meters in a single leap.",
+        "They are the only large animals that use hopping as their primary means of locomotion.",
+        "Kangaroos can maintain a steady speed while hopping for long periods."
+      ],
+      "population": "Estimated 50 million in the wild.",
+      "image_url": "https://example.com/kangaroo.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Polar Bear",
+      "scientific_name": "Ursus maritimus",
+      "category": "mammal",
+      "description": "Polar bears are the largest land carnivores, known for their thick white fur that provides insulation in frigid Arctic climates. They are excellent swimmers and depend mainly on sea ice for hunting seals, their primary food source. Due to climate change, polar bears face significant challenges as their habitat continues to shrink.",
+      "habitat": "Arctic regions, primarily on sea ice.",
+      "diet": "Carnivore - primarily feeds on seals.",
+      "fun_facts": [
+        "Polar bears can swim for days at a time to find food.",
+        "Their skin is black under their fur, which helps absorb heat.",
+        "Polar bears can overheat despite living in cold environments due to their thick layer of fat."
+      ],
+      "population": "Estimated 26,000 in the wild.",
+      "image_url": "https://example.com/polar_bear.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Komodo Dragon",
+      "scientific_name": "Varanus komodoensis",
+      "category": "reptile",
+      "description": "The Komodo dragon is the world's largest living lizard and is known for its formidable size and predatory behavior. Native to the Indonesian islands, these reptiles are powerful hunters with sharp claws and a toxic bite. They use their keen sense of smell to locate prey, which can include large mammals.",
+      "habitat": "Dry, grassy savannas and tropical forests on the islands of Komodo, Rinca, Flores, and Gili Motang.",
+      "diet": "Carnivore - primarily feeds on deer, birds, and carrion.",
+      "fun_facts": [
+        "Komodo dragons can run up to 13 mph over short distances.",
+        "They have a keen sense of smell, allowing them to detect carrion from miles away.",
+        "These lizards can weigh up to 200 pounds."
+      ],
+      "population": "Estimated 3,000 in the wild.",
+      "image_url": "https://example.com/komodo_dragon.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Monarch Butterfly",
+      "scientific_name": "Danaus plexippus",
+      "category": "insect",
+      "description": "The monarch butterfly is known for its remarkable migration journey, traveling thousands of miles from North America to central Mexico each winter to escape the cold. Their striking orange and black wing patterns warn predators of their toxicity. As adults, they primarily feed on nectar.",
+      "habitat": "Fields, meadows, and gardens across North America.",
+      "diet": "Herbivore - feeds on nectar from various flowering plants.",
+      "fun_facts": [
+        "Monarchs can live up to 9 months during their migratory phase.",
+        "Their migration is one of the longest of any insect, covering up to 3,000 miles.",
+        "The lifecycle includes four stages: egg, larva (caterpillar), pupa (chrysalis), and adult."
+      ],
+      "population": "Estimated 30 million during migration season.",
+      "image_url": "https://example.com/monarch_butterfly.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Blue Whale",
+      "scientific_name": "Balaenoptera musculus",
+      "category": "mammal",
+      "description": "The blue whale is the largest animal known to have ever existed, reaching lengths of up to 100 feet and weights of over 200 tons. They are known for their deep blue color, which may appear lighter underwater. Blue whales communicate with low-frequency sounds that can travel long distances in the ocean.",
+      "habitat": "Oceans worldwide, traveling between feeding and breeding grounds.",
+      "diet": "Carnivore - primarily feeds on krill and small fish.",
+      "fun_facts": [
+        "A blue whale's heart can weigh as much as a small car.",
+        "They can consume up to 4 tons of krill a day during feeding season.",
+        "Blue whales are known for their long migrations, traveling thousands of miles each year."
+      ],
+      "population": "Estimated 10,000 in the wild.",
+      "image_url": "https://example.com/blue_whale.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Green Anaconda",
+      "scientific_name": "Eunectes murinus",
+      "category": "reptile",
+      "description": "The green anaconda is one of the largest and heaviest snakes in the world, known for its impressive girth and camouflage abilities in the water. Native to the swamps and rivers of South America, they are constrictors, preying on a variety of animals, including fish, birds, and mammals.",
+      "habitat": "Swamps, marshes, and slow-moving streams in the Amazon basin.",
+      "diet": "Carnivore - feeds on fish, birds, small mammals, and occasionally larger animals like capybaras.",
+      "fun_facts": [
+        "Green anacondas can grow up to 30 feet long.",
+        "They are mainly nocturnal, hunting at night in their aquatic habitats.",
+        "Green anacondas are less aggressive than their reputation suggests, often avoiding encounters with humans."
+      ],
+      "population": "Population numbers are unknown, but they are not considered endangered.",
+      "image_url": "https://example.com/green_anaconda.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Snow Leopard",
+      "scientific_name": "Panthera uncia",
+      "category": "mammal",
+      "description": "Snow leopards are medium-sized big cats that inhabit the mountainous regions of Central and South Asia. Known for their thick fur, long tails, and stunning green eyes, they are highly adapted to cold, rugged environments. Snow leopards are solitary animals and are skilled climbers, making them perfectly suited to their rocky habitats.",
+      "habitat": "Mountain ranges in Central and South Asia, particularly in the Himalayas.",
+      "diet": "Carnivore - primarily feeds on blue sheep, ibex, and various mountain ungulates.",
+      "fun_facts": [
+        "Snow leopards can leap up to six times their body length in one jump.",
+        "They have large nasal cavities that help warm cold air before it enters their lungs.",
+        "Snow leopards are known for their elusive nature, making them difficult to study."
+      ],
+      "population": "Estimated 4,000-6,500 in the wild.",
+      "image_url": "https://example.com/snow_leopard.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Rhinoceros",
+      "scientific_name": "Rhinocerotidae",
+      "category": "mammal",
+      "description": "Rhinoceroses are large, thick-skinned herbivores known for their distinctive horns, which are made of keratin, the same material as human hair and nails. They can be found in various habitats, including grasslands and forests, and are often solitary animals. Rhinos play a crucial role in their ecosystems by grazing and helping to maintain the health of grasslands.",
+      "habitat": "Grasslands, savannas, and tropical forests.",
+      "diet": "Herbivore - primarily feeds on grasses, leaves, and shrubs.",
+      "fun_facts": [
+        "The white rhino is the largest species, weighing up to 2,300 kg (5,000 lbs).",
+        "Rhinos have poor eyesight but an excellent sense of smell.",
+        "They can run at speeds of up to 30 mph."
+      ],
+      "population": "Estimated 27,000 white rhinos in the wild.",
+      "image_url": "https://example.com/rhinoceros.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Gorilla",
+      "scientific_name": "Gorilla gorilla",
+      "category": "mammal",
+      "description": "Gorillas are the largest of all primates, known for their strength and social behavior. They live in family groups led by a dominant male called a silverback. Gorillas are primarily herbivorous, feeding on leaves, fruits, and stems. Their gentle nature often belies their size and strength.",
+      "habitat": "Tropical forests and rainforests in Africa.",
+      "diet": "Herbivore - primarily feeds on leaves, stems, fruit, and flowers.",
+      "fun_facts": [
+        "Gorillas are highly intelligent animals that can use tools and learn sign language.",
+        "They can weigh up to 180 kg (400 lbs) and can be over 6 feet tall.",
+        "Gorillas are known for their strong maternal bonds and care for their young."
+      ],
+      "population": "Estimated 100,000 in the wild.",
+      "image_url": "https://example.com/gorilla.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Chimpanzee",
+      "scientific_name": "Pan troglodytes",
+      "category": "mammal",
+      "description": "Chimpanzees are highly intelligent primates and share about 98% of their DNA with humans. They are known for their complex social structures, using tools, and their ability to communicate through gestures and vocalizations. Chimpanzees are both tree-dwelling and ground-dwelling.",
+      "habitat": "Tropical rainforests and savannas in Africa.",
+      "diet": "Omnivore - feeds on fruits, leaves, seeds, and occasionally small mammals.",
+      "fun_facts": [
+        "Chimpanzees can use tools, such as sticks to access termites for food.",
+        "They live in large communities and have complex social interactions.",
+        "They can communicate using a variety of sounds, gestures, and facial expressions."
+      ],
+      "population": "Estimated 150,000-250,000 in the wild.",
+      "image_url": "https://example.com/chimpanzee.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Orangutan",
+      "scientific_name": "Pongo pygmaeus",
+      "category": "mammal",
+      "description": "Orangutans are highly intelligent and social apes native to the rainforests of Borneo and Sumatra. Known for their reddish-brown fur and long arms, they spend most of their lives in trees. Orangutans have a strong maternal bond with their young, with infants remaining dependent for years.",
+      "habitat": "Tropical rainforests of Borneo and Sumatra.",
+      "diet": "Herbivore - primarily feeds on fruit, leaves, and bark.",
+      "fun_facts": [
+        "Orangutans are known to use leaves as tools for feeding or shelter.",
+        "They can live for up to 30-40 years in the wild.",
+        "Mother orangutans only give birth to one infant every 6-8 years."
+      ],
+      "population": "Estimated 55,000 in the wild.",
+      "image_url": "https://example.com/orangutan.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Koala",
+      "scientific_name": "Phascolarctos cinereus",
+      "category": "mammal",
+      "description": "Koalas are marsupials found in Australia, recognized for their distinctive round faces, large ears, and plush fur. They spend most of their lives in eucalyptus trees, eating leaves that are toxic to most other animals. Koalas are nocturnal and sleep for a significant portion of the day, conserving energy.",
+      "habitat": "Eucalyptus forests in Australia.",
+      "diet": "Herbivore - primarily feeds on eucalyptus leaves.",
+      "fun_facts": [
+        "Koalas can sleep up to 18 hours a day to conserve energy.",
+        "They have a highly developed sense of smell that helps them select the best eucalyptus leaves.",
+        "Despite their cute appearance, koalas can be quite aggressive when threatened."
+      ],
+      "population": "Estimated 80,000 in the wild.",
+      "image_url": "https://example.com/koala.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Panda",
+      "scientific_name": "Ailuropoda melanoleuca",
+      "category": "mammal",
+      "description": "Giant pandas are bear species native to China, known for their distinctive black and white coloring. They primarily eat bamboo, and their diet consists almost entirely of this plant, requiring them to consume large amounts daily to meet their energy needs. Pandas are often seen as a symbol of wildlife conservation.",
+      "habitat": "Bamboo forests in the mountainous regions of China.",
+      "diet": "Herbivore - primarily feeds on bamboo, but also consumes fruits and vegetables.",
+      "fun_facts": [
+        "Giant pandas can eat up to 38 kg (84 lbs) of bamboo in a single day.",
+        "They have a specialized wrist bone that allows them to grasp bamboo efficiently.",
+        "Pandas are excellent climbers and spend much of their time in trees."
+      ],
+      "population": "Estimated 1,864 in the wild.",
+      "image_url": "https://example.com/panda.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Brown Bear",
+      "scientific_name": "Ursus arctos",
+      "category": "mammal",
+      "description": "Brown bears are large mammals found in North America, Europe, and Asia. They are known for their strength and size, with some individuals weighing over 600 pounds. Brown bears have a diverse diet, often foraging for berries, plants, fish, and small mammals. They are also known for their impressive hibernation habits during winter.",
+      "habitat": "Forests, mountains, and tundra areas.",
+      "diet": "Omnivore - feeds on berries, plants, fish, and small mammals.",
+      "fun_facts": [
+        "Brown bears can run at speeds of up to 30 mph.",
+        "Hibernating bears can lose up to 30 percent of their body weight during winter.",
+        "They can be territorial and are known for their aggressive behavior when threatened."
+      ],
+      "population": "Estimated 200,000 in the wild.",
+      "image_url": "https://example.com/brown_bear.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Wolf",
+      "scientific_name": "Canis lupus",
+      "category": "mammal",
+      "description": "Wolves are highly social animals that live and hunt in packs. Known for their intelligence and communication skills, they use vocalizations, body language, and scent marking to coordinate hunting efforts. Wolves primarily prey on ungulates but will scavenge when larger prey is scarce.",
+      "habitat": "Forests, grasslands, and tundras across North America and Eurasia.",
+      "diet": "Carnivore - primarily feeds on deer, elk, and smaller mammals.",
+      "fun_facts": [
+        "Wolves communicate using a variety of vocalizations, including howls and growls.",
+        "They can travel long distances when searching for food, up to 12 miles in a day.",
+        "Wolves establish strong family bonds, often living with their pack for life."
+      ],
+      "population": "Estimated 200,000 in the wild.",
+      "image_url": "https://example.com/wolf.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Fox",
+      "scientific_name": "Vulpes vulpes",
+      "category": "mammal",
+      "description": "Foxes are small to medium-sized omnivores known for their cunning nature and adaptability to different environments. They have sharp hearing and excellent night vision, which makes them effective hunters. Red foxes are the most common species, recognized by their bushy tails and vibrant reddish-orange fur.",
+      "habitat": "Forests, grasslands, mountains, and urban areas worldwide.",
+      "diet": "Omnivore - feeds on small mammals, birds, fruits, and insects.",
+      "fun_facts": [
+        "Foxes can use their tails for balance and communication.",
+        "They have a unique hunting technique known as 'mousing' where they leap to catch prey beneath the snow.",
+        "Foxes are known for their playful behavior and social interactions."
+      ],
+      "population": "Estimated 7 million in the wild.",
+      "image_url": "https://example.com/fox.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Sloth",
+      "scientific_name": "Folivora",
+      "category": "mammal",
+      "description": "Sloths are slow-moving mammals found in Central and South American forests. They are known for their unique adaptations to a low-energy lifestyle, including a diet that primarily consists of leaves. Sloths spend most of their time hanging upside down in trees, where they feel safe from predators.",
+      "habitat": "Tropical rainforests in Central and South America.",
+      "diet": "Herbivore - primarily feeds on leaves, fruits, and flowers.",
+      "fun_facts": [
+        "Sloths can take up to a month to digest a single meal.",
+        "They have a low metabolic rate, which helps them conserve energy.",
+        "Sloths are excellent swimmers and can hold their breath for up to 40 minutes."
+      ],
+      "population": "Population numbers are not well known, but some species are at risk.",
+      "image_url": "https://example.com/sloth.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Dolphin",
+      "scientific_name": "Delphinidae",
+      "category": "mammal",
+      "description": "Dolphins are intelligent marine mammals known for their playful behavior and social structures. They utilize echolocation to navigate and hunt for fish and squid in the ocean. Dolphins live in pods that can consist of a few individuals to several hundred, and they often exhibit cooperative hunting strategies.",
+      "habitat": "Warm and temperate oceans worldwide.",
+      "diet": "Carnivore - primarily feeds on fish, squid, and crustaceans.",
+      "fun_facts": [
+        "Dolphins can communicate with each other using a variety of sounds and clicks.",
+        "They are known for surfing on waves and playing with boats.",
+        "Dolphins have been observed exhibiting altruistic behavior, helping injured individuals."
+      ],
+      "population": "Estimated several million across various species.",
+      "image_url": "https://example.com/dolphin.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Blue Whale",
+      "scientific_name": "Balaenoptera musculus",
+      "category": "mammal",
+      "description": "The blue whale is the largest animal known to have ever existed, reaching lengths of up to 100 feet and weights of over 200 tons. They are known for their deep blue color, which may appear lighter underwater. Blue whales communicate with low-frequency sounds that can travel long distances in the ocean.",
+      "habitat": "Oceans worldwide, traveling between feeding and breeding grounds.",
+      "diet": "Carnivore - primarily feeds on krill and small fish.",
+      "fun_facts": [
+        "A blue whale's heart can weigh as much as a small car.",
+        "They can consume up to 4 tons of krill a day during feeding season.",
+        "Blue whales are known for their long migrations, traveling thousands of miles each year."
+      ],
+      "population": "Estimated 10,000 in the wild.",
+      "image_url": "https://example.com/blue_whale.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Orca (Killer Whale)",
+      "scientific_name": "Orcinus orca",
+      "category": "mammal",
+      "description": "Orcas, or killer whales, are the largest members of the dolphin family. Known for their black and white coloring and striking appearance, they are highly social animals that live in pods. Orcas have diverse diets, feeding on fish, seals, and even larger whales, depending on their hunting strategies.",
+      "habitat": "Cold and temperate oceans worldwide.",
+      "diet": "Carnivore - feeds primarily on fish, but also seals, seabirds, and whales.",
+      "fun_facts": [
+        "Orcas can communicate using distinct calls known as 'dialects' among different pods.",
+        "They are known for their sophisticated hunting techniques and group cooperation.",
+        "Orcas can live for over 90 years in the wild."
+      ],
+      "population": "Estimated 50,000 in the wild.",
+      "image_url": "https://example.com/orca.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Red Panda",
+      "scientific_name": "Ailurus fulgens",
+      "category": "mammal",
+      "description": "Red pandas are small, tree-dwelling mammals native to the eastern Himalayas and southwestern China. They are known for their reddish-brown fur, bushy tails, and adorable faces. Unlike their giant counterparts, red pandas are herbivores that primarily feed on bamboo, but they will also eat fruits and insects.",
+      "habitat": "Temperate forests in the eastern Himalayas.",
+      "diet": "Herbivore - primarily feeds on bamboo, fruits, and small insects.",
+      "fun_facts": [
+        "Red pandas are excellent climbers and spend most of their lives in trees.",
+        "They have a unique wrist bone that acts as a thumb, aiding in climbing and holding food.",
+        "Red pandas are more closely related to raccoons than to giant pandas."
+      ],
+      "population": "Estimated 10,000 in the wild.",
+      "image_url": "https://example.com/red_panda.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Arctic Fox",
+      "scientific_name": "Vulpes lagopus",
+      "category": "mammal",
+      "description": "The Arctic fox is a small, adaptable fox species found in the Arctic and subarctic regions. They are known for their thick white fur in winter, which provides insulation against the cold and camouflage against the snow. In summer, their fur turns a browner color. Arctic foxes are opportunistic feeders, preying on small mammals, birds, and scavenging.",
+      "habitat": "Tundra and coastal regions in the Arctic.",
+      "diet": "Omnivore - feeds on small mammals, birds, and carrion.",
+      "fun_facts": [
+        "Arctic foxes can lower their body temperature to survive in extreme cold.",
+        "They have keen hearing and can locate prey buried under the snow.",
+        "Their fur changes color with the seasons, providing effective camouflage."
+      ],
+      "population": "Estimated several hundred thousand in the wild.",
+      "image_url": "https://example.com/arctic_fox.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Hyena",
+      "scientific_name": "Hyaenidae",
+      "category": "mammal",
+      "description": "Hyenas are carnivorous mammals known for their scavenging habits and complex social structures. Often regarded as scavengers, they are also skilled hunters, preying on various animals. Hyenas have strong jaws and are known for their distinctive vocalizations, including their famous 'laugh.'",
+      "habitat": "Grasslands, savannas, and woodlands in Africa.",
+      "diet": "Carnivore - primarily feeds on carrion but also hunts prey.",
+      "fun_facts": [
+        "Hyenas can consume bones and tough hides due to their powerful jaws.",
+        "They are known for their complex social hierarchies and cooperative hunting strategies.",
+        "Hyenas can run for long distances at speeds of up to 30 mph."
+      ],
+      "population": "Estimated several hundred thousand in the wild.",
+      "image_url": "https://example.com/hyena.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Bison",
+      "scientific_name": "Bison bison",
+      "category": "mammal",
+      "description": "Bison are large, herbivorous mammals that once roamed the plains of North America in vast herds. Known for their massive size, woolly coats, and curved horns, bison are adaptable creatures that graze on grasses and other vegetation. They play a crucial role in maintaining the health of the prairie ecosystem.",
+      "habitat": "Grasslands and plains in North America.",
+      "diet": "Herbivore - primarily feeds on grasses and sedges.",
+      "fun_facts": [
+        "Bison can weigh up to 2,000 pounds and run at speeds of 35 mph.",
+        "They are social animals that live in herds, often led by a dominant female.",
+        "Bison have a unique digestive system that allows them to efficiently break down tough plant material."
+      ],
+      "population": "Estimated 500,000 in the wild.",
+      "image_url": "https://example.com/bison.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Otter",
+      "scientific_name": "Lutrinae",
+      "category": "mammal",
+      "description": "Otters are playful, aquatic mammals known for their streamlined bodies, webbed feet, and thick fur. They are often found near rivers, lakes, and coastal areas. Otters are social animals that can live in family groups and are skilled hunters, primarily feeding on fish, crustaceans, and small mammals.",
+      "habitat": "Freshwater and coastal areas worldwide.",
+      "diet": "Carnivore - primarily feeds on fish, crustaceans, and other aquatic animals.",
+      "fun_facts": [
+        "Otters use rocks to crack open shellfish, showcasing their tool-using abilities.",
+        "They have a unique grooming behavior to keep their fur waterproof.",
+        "Otters can hold their breath underwater for up to 5 minutes."
+      ],
+      "population": "Population numbers vary by species; North American river otters are common.",
+      "image_url": "https://example.com/otter.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Armadillo",
+      "scientific_name": "Dasypodidae",
+      "category": "mammal",
+      "description": "Armadillos are unique mammals known for their shell-like armor, made of bony plates. They are primarily nocturnal and are found in a variety of habitats, including grasslands and forests. Most commonly associated with the nine-banded armadillo, they are insectivorous and also feed on plants.",
+      "habitat": "Grasslands, forests, and shrublands in the Americas.",
+      "diet": "Insectivore - primarily feeds on insects, grubs, and plants.",
+      "fun_facts": [
+        "Armadillos can roll into a ball for protection against predators.",
+        "They have a keen sense of smell, which helps them locate food.",
+        "Nine-banded armadillos are known for their ability to carry leprosy bacteria without showing symptoms."
+      ],
+      "population": "Estimated in the millions across various species.",
+      "image_url": "https://example.com/armadillo.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Capybara",
+      "scientific_name": "Hydrochoerus hydrochaeris",
+      "category": "mammal",
+      "description": "Capybaras are the world's largest rodents, known for their semi-aquatic lifestyle and social behavior. They live in groups near water bodies and are highly adaptable, feeding on grasses and aquatic plants. Capybaras are known for their calm demeanor and friendly interactions with other species.",
+      "habitat": "Wetlands, rivers, and grasslands in South America.",
+      "diet": "Herbivore - primarily feeds on grasses and aquatic plants.",
+      "fun_facts": [
+        "Capybaras can weigh up to 150 pounds and reach lengths of about 4 feet.",
+        "They have webbed feet, which help them swim efficiently.",
+        "Capybaras are known to be social animals, often seen grooming each other."
+      ],
+      "population": "Estimated 1 million in the wild.",
+      "image_url": "https://example.com/capybara.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Wombat",
+      "scientific_name": "Vombatidae",
+      "category": "mammal",
+      "description": "Wombats are stout, burrowing marsupials native to Australia. They are known for their strong, built bodies and the ability to dig extensive burrow systems. Wombats primarily feed on grasses and herbs and have a unique digestive system that allows them to extract maximum nutrients from their fibrous diet.",
+      "habitat": "Forests, grasslands, and mountainous areas of Australia.",
+      "diet": "Herbivore - primarily feeds on grasses, roots, and bark.",
+      "fun_facts": [
+        "Wombats have cube-shaped poop, which prevents it from rolling away and helps mark territory.",
+        "They can run at speeds of up to 25 mph.",
+        "Wombats are nocturnal and spend most of their time foraging for food."
+      ],
+      "population": "Estimated 90,000 in the wild.",
+      "image_url": "https://example.com/wombat.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Bald Eagle",
+      "scientific_name": "Haliaeetus leucocephalus",
+      "category": "bird",
+      "description": "The Bald Eagle is known for its striking white head and tail feathers, combined with its dark brown body. As a powerful bird of prey, it is the national symbol of the United States. Bald Eagles built large nests using sticks and can often be seen soaring high in the sky searching for fish.",
+      "habitat": "Near large bodies of open water with abundant food supply, including lakes, rivers, and coastal areas.",
+      "diet": "Carnivore - feeds primarily on fish but will also eat birds, small mammals, and carrion.",
+      "fun_facts": [
+        "Bald eagles can fly up to 100 mph when diving for prey.",
+        "They build massive nests, some weighing up to 2,000 pounds, and can reuse nests for many years.",
+        "Adult Bald Eagles can live to be 20-30 years old in the wild."
+      ],
+      "population": "Over 300,000 in the wild.",
+      "image_url": "https://example.com/bald_eagle.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Peregrine Falcon",
+      "scientific_name": "Falco peregrinus",
+      "category": "bird",
+      "description": "The peregrine falcon is renowned for being the fastest bird in the world, capable of reaching speeds over 240 mph during its hunting stoop (high-speed dive). This bird of prey is recognized for its distinctive blue-gray feathers and black markings. They are known for their incredible hunting skills and adaptability to various environments.",
+      "habitat": "Urban areas, cliffs, and open fields worldwide.",
+      "diet": "Carnivore - primarily feeds on other birds.",
+      "fun_facts": [
+        "Peregrine falcons can spot prey from a distance of over a mile.",
+        "They are capable of rapid dives, which help them catch fast-moving prey.",
+        "Peregrines are known to adapt to urban environments, nesting on tall buildings and bridges."
+      ],
+      "population": "Estimated 1.5 million worldwide.",
+      "image_url": "https://example.com/peregrine_falcon.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Barn Owl",
+      "scientific_name": "Tyto alba",
+      "category": "bird",
+      "description": "Barn owls are known for their heart-shaped faces and distinctive white and golden plumage. They are nocturnal birds of prey, primarily hunting small mammals like voles and mice. Their silent flight and excellent hearing make them highly effective hunters in low-light conditions.",
+      "habitat": "Open fields, farmlands, and barns across the world.",
+      "diet": "Carnivore - mainly feeds on small rodents and small mammals.",
+      "fun_facts": [
+        "Barn owls can hunt prey in complete darkness, aided by their exceptional hearing.",
+        "They are often found nesting in abandoned buildings and grain stores.",
+        "The barn owl's call is a distinct screech, unlike the typical hoot of other owls."
+      ],
+      "population": "Estimated 1 million in the wild.",
+      "image_url": "https://example.com/barn_owl.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Snowy Owl",
+      "scientific_name": "Bubo scandiacus",
+      "category": "bird",
+      "description": "Snowy owls are large, white owls known for their striking appearance and powerful presence. Native to the Arctic regions, they are well-adapted to cold environments. Snowy owls primarily hunt small mammals like lemmings, and they are known for their impressive flying abilities.",
+      "habitat": "Tundra regions, particularly in the Arctic.",
+      "diet": "Carnivore - primarily feeds on small mammals like lemmings.",
+      "fun_facts": [
+        "Snowy owls have a unique feather structure that provides insulation in frigid temperatures.",
+        "They can hunt both during the day and night, unlike many other owl species.",
+        "The male snowy owl is predominantly white, while females have darker markings."
+      ],
+      "population": "Estimated 200,000 in the wild.",
+      "image_url": "https://example.com/snowy_owl.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Flamingo",
+      "scientific_name": "Phoenicopteridae",
+      "category": "bird",
+      "description": "Flamingos are large wading birds known for their distinctive pink color and long legs. Their coloration comes from the carotenoid pigments in their diet of algae and crustaceans. Flamingos are highly social birds that often congregate in large colonies, exhibiting elaborate courtship displays.",
+      "habitat": "Shallow lakes, lagoons, and mudflats.",
+      "diet": "Herbivore - primarily feeds on algae, crustaceans, and small invertebrates.",
+      "fun_facts": [
+        "Flamingos can filter-feed by lowering their heads in the water and using their specialized beaks.",
+        "They can stand on one leg for extended periods, resting the other leg.",
+        "Flamingos are known for their vibrant display rituals during mating season."
+      ],
+      "population": "Estimated 2 million in the wild.",
+      "image_url": "https://example.com/flamingo.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Peacock",
+      "scientific_name": "Pavo cristatus",
+      "category": "bird",
+      "description": "Peacocks are large, colorful birds known for their extravagant tail feathers, which they fan out during courtship displays. Native to South Asia, the male peacock is known for its striking plumage, while females, called peahens, are less colorful. Peacocks are ground birds that can fly short distances.",
+      "habitat": "Forests and open areas in South Asia.",
+      "diet": "Omnivore - feeds on insects, plants, and small animals.",
+      "fun_facts": [
+        "Peacocks can display their feathers to attract mates, showcasing eye-catching patterns.",
+        "Their calls can be heard from over a mile away, often sounding like loud honks.",
+        "Peafowl (the term for peacocks and peahens) have been kept as pets for thousands of years."
+      ],
+      "population": "Estimated several million in the wild.",
+      "image_url": "https://example.com/peacock.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Ostrich",
+      "scientific_name": "Struthio camelus",
+      "category": "bird",
+      "description": "Ostriches are the largest living birds, native to Africa. They are flightless but are excellent runners, capable of reaching speeds up to 45 mph. With their long necks and legs, ostriches are well-adapted to the open savannas where they live, often foraging for seeds, plants, and insects.",
+      "habitat": "Savannas and grasslands in Africa.",
+      "diet": "Herbivore - primarily feeds on seeds, plants, and insects.",
+      "fun_facts": [
+        "Ostriches can lay the largest eggs of any bird, weighing up to 3 lbs.",
+        "They have a unique two-toed foot structure, which helps with balance and running.",
+        "Despite their size, ostriches can be elusive and are capable of hiding from predators."
+      ],
+      "population": "Estimated 1.6 million in the wild.",
+      "image_url": "https://example.com/ostrich.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Emu",
+      "scientific_name": "Dromaius novaehollandiae",
+      "category": "bird",
+      "description": "Emus are large, flightless birds native to Australia, recognized for their long necks and legs. They are the second-largest birds in the world after ostriches and are known for their soft, shaggy feathers. Emus are social creatures often found in small groups, foraging for seeds, fruits, and insects.",
+      "habitat": "Open forests, grasslands, and scrubland in Australia.",
+      "diet": "Herbivore - primarily feeds on seeds, fruits, and green vegetation.",
+      "fun_facts": [
+        "Emus can run at speeds of up to 30 mph and can maintain a steady pace for long distances.",
+        "They are known for their distinctive booming calls, used for communication.",
+        "Emus have very few natural predators, thanks to their size and speed."
+      ],
+      "population": "Estimated 600,000 in the wild.",
+      "image_url": "https://example.com/emu.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Parrot",
+      "scientific_name": "Psittaciformes",
+      "category": "bird",
+      "description": "Parrots are colorful, intelligent birds known for their vibrant plumage and ability to mimic sounds, including human speech. They are highly social animals, often living in flocks and exhibiting complex behaviors. Parrots have strong beaks used to crack open seeds and nuts.",
+      "habitat": "Tropical and subtropical regions worldwide.",
+      "diet": "Herbivore - primarily feeds on seeds, fruits, nuts, and flowers.",
+      "fun_facts": [
+        "Some parrot species can live for over 50 years in captivity.",
+        "Parrots are known for their playful behavior and problem-solving skills.",
+        "They have a highly developed vocal system that allows them to imitate sounds with accuracy."
+      ],
+      "population": "Population varies widely among species; several species are endangered.",
+      "image_url": "https://example.com/parrot.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Macaw",
+      "scientific_name": "Ara ararauna",
+      "category": "bird",
+      "description": "Macaws are large, colorful parrots native to Central and South America. Recognized for their bright plumage and long tails, they are highly social birds that often live in large flocks. Macaws have strong beaks that allow them to crack open tough nuts and seeds.",
+      "habitat": "Tropical rainforests and savannas.",
+      "diet": "Herbivore - primarily feeds on nuts, seeds, fruits, and flowers.",
+      "fun_facts": [
+        "Macaws can live for over 60 years in captivity.",
+        "They are known for their intelligence and playful nature.",
+        "Macaws often engage in mutual grooming, strengthening social bonds."
+      ],
+      "population": "Estimated 50,000 in the wild for blue-and-yellow macaws.",
+      "image_url": "https://example.com/macaw.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Emperor Penguin",
+      "scientific_name": "Aptenodytes forsteri",
+      "category": "bird",
+      "description": "Emperor penguins are the largest species of penguin, well-known for their impressive size and distinct black and yellow markings. They are unique among birds for their breeding behavior, where the males incubate the eggs on their feet beneath a flap of skin. Emperor penguins are excellent swimmers, hunting for fish and krill under the ice.",
+      "habitat": "Antarctic ice and surrounding waters.",
+      "diet": "Carnivore - primarily feeds on fish, krill, and squid.",
+      "fun_facts": [
+        "Emperor penguins can dive to depths of over 1,800 feet and can hold their breath for up to 20 minutes.",
+        "They breed during the harsh Antarctic winter, with males going without food for months while incubating eggs.",
+        "Emperor penguins can huddle together in large groups to conserve warmth in freezing temperatures."
+      ],
+      "population": "Estimated 600,000 in the wild.",
+      "image_url": "https://example.com/emperor_penguin.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Hummingbird",
+      "scientific_name": "Trochilidae",
+      "category": "bird",
+      "description": "Hummingbirds are small, colorful birds known for their ability to hover in mid-air thanks to their rapid wing flapping. They are unique among birds for their iridescent feathers and are vital pollinators. Hummingbirds primarily feed on nectar but also consume small insects.",
+      "habitat": "Gardens, forests, and open areas across the Americas.",
+      "diet": "Herbivore - primarily feeds on nectar, supplemented with insects.",
+      "fun_facts": [
+        "Hummingbirds can flap their wings up to 80 times per second.",
+        "They can fly forwards, backwards, and even upside down.",
+        "Some species migrate over 3,000 miles each year between breeding and wintering grounds."
+      ],
+      "population": "Estimates vary; many species are common with local populations in the millions.",
+      "image_url": "https://example.com/hummingbird.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Albatross",
+      "scientific_name": "Diomedeidae",
+      "category": "bird",
+      "description": "Albatrosses are large seabirds known for their long wingspans, which can reach up to 12 feet. They are highly skilled flyers, capable of gliding over vast distances without flapping their wings. Albatrosses primarily feed on fish and squid, using their keen eyesight to locate prey from the air.",
+      "habitat": "Open ocean, particularly in the Southern Hemisphere.",
+      "diet": "Carnivore - primarily feeds on fish, squid, and carrion.",
+      "fun_facts": [
+        "Albatrosses can travel over 10,000 miles in a single trip while searching for food.",
+        "They have a unique courtship ritual that involves elaborate flying displays.",
+        "Some species can live for more than 50 years."
+      ],
+      "population": "Population varies; some species are endangered.",
+      "image_url": "https://example.com/albatross.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Pelican",
+      "scientific_name": "Pelecanus",
+      "category": "bird",
+      "description": "Pelicans are large water birds known for their distinctive long bills and large throat pouches, which they use to catch fish. They are often seen near coastlines, estuaries, and lakes. Pelicans are social birds that can often be seen in groups, diving simultaneously while fishing.",
+      "habitat": "Coastal regions, lakes, and rivers worldwide.",
+      "diet": "Carnivore - primarily feeds on fish.",
+      "fun_facts": [
+        "Pelicans can hold large amounts of water in their pouches while fishing.",
+        "They use cooperative hunting tactics to catch fish by forming a line.",
+        "Pelicans can dive from heights of up to 10 feet to catch fish."
+      ],
+      "population": "Estimated several hundred thousand to over a million worldwide, depending on the species.",
+      "image_url": "https://example.com/pelican.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Swan",
+      "scientific_name": "Cygnus",
+      "category": "bird",
+      "description": "Swans are large waterfowl known for their graceful movements and beautiful plumage. They are often seen gliding on lakes and rivers, and are strong swimmers. Swans are known for their elaborate courtship displays, which often involve synchronized swimming and vocalizations.",
+      "habitat": "Lakes, rivers, and wetlands worldwide.",
+      "diet": "Herbivore - primarily feeds on aquatic plants, grasses, and grains.",
+      "fun_facts": [
+        "Swans can live for over 20 years in the wild.",
+        "They are known to form monogamous pairs that mate for life.",
+        "Swans' wings can produce a loud noise when in flight, often referred to as a 'whoosh.'"
+      ],
+      "population": "Estimated several hundred thousand worldwide, depending on the species.",
+      "image_url": "https://example.com/swan.jpg"
+    },
+    {
+      "id": 52,
+      "name": "Raven",
+      "scientific_name": "Corvus corax",
+      "category": "bird",
+      "description": "Ravens are highly intelligent birds known for their problem-solving abilities and complex vocalizations. They are large, black birds often associated with mythology and folklore. Ravens are social animals that can be found in pairs or groups, exhibiting playful behaviors.",
+      "habitat": "Mountains, forests, and urban areas worldwide.",
+      "diet": "Omnivore - feeds on insects, small mammals, and carrion.",
+      "fun_facts": [
+        "Ravens have been observed using tools and adapting their behavior to acquire food.",
+        "They can mimic a variety of sounds, including human voices and other animal calls.",
+        "Ravens can live up to 15 years in the wild."
+      ],
+      "population": "Estimated 1 million worldwide.",
+      "image_url": "https://example.com/raven.jpg"
+    },
+    {
+      "id": 53,
+      "name": "Vulture",
+      "scientific_name": "Cathartidae",
+      "category": "bird",
+      "description": "Vultures are large birds known for their scavenging behavior, primarily feeding on carrion. They play a vital role in ecosystems by helping to clean up dead animals and prevent the spread of disease. Vultures have excellent eyesight and can spot food from great distances.",
+      "habitat": "Open spaces, savannas, and mountainous regions worldwide.",
+      "diet": "Carnivore - primarily feeds on dead animals and carrion.",
+      "fun_facts": [
+        "Vultures can soar at heights of up to 15,000 feet while searching for food.",
+        "They have strong stomach acids that allow them to safely digest decaying meat.",
+        "Vultures often gather in large groups at feeding sites."
+      ],
+      "population": "Population varies; some species are endangered due to habitat loss and poisoning.",
+      "image_url": "https://example.com/vulture.jpg"
+    },
+    {
+      "id": 54,
+      "name": "Woodpecker",
+      "scientific_name": "Picidae",
+      "category": "bird",
+      "description": "Woodpeckers are easily recognized by their strong beaks and distinctive drumming sounds. They are known for their ability to peck at tree trunks to find insects, develop nesting sites, and create territories. Woodpeckers have specialized feet and tails that aid in climbing trees.",
+      "habitat": "Forests, woodlands, and urban areas worldwide.",
+      "diet": "Insectivore - primarily feeds on insects, larvae, and sap.",
+      "fun_facts": [
+        "Woodpeckers can peck on trees at a rate of up to 20 times per second.",
+        "They have shock-absorbing anatomy to prevent brain injury from pecking.",
+        "Some species use their drumming as a form of communication to attract mates."
+      ],
+      "population": "Estimated several million worldwide, varies by species.",
+      "image_url": "https://example.com/woodpecker.jpg"
+    },
+    {
+      "id": 55,
+      "name": "Crane",
+      "scientific_name": "Gruidae",
+      "category": "bird",
+      "description": "Cranes are large, long-legged birds known for their graceful movements and elaborate courtship dances. They inhabit a variety of habitats, including wetlands and grasslands. Cranes are social birds that often form strong pair bonds and migrate long distances between breeding and wintering grounds.",
+      "habitat": "Wetlands, grasslands, and open fields worldwide.",
+      "diet": "Omnivore - feeds on seeds, grains, insects, and small animals.",
+      "fun_facts": [
+        "Cranes are known for their intricate courtship rituals that involve dancing and calling.",
+        "They can fly at altitudes of up to 15,000 feet during migration.",
+        "Cranes are known to live for over 20 years in the wild."
+      ],
+      "population": "Estimated several hundred thousand worldwide; varies by species.",
+      "image_url": "https://example.com/crane.jpg"
+    },
+    {
+      "id": 56,
+      "name": "Stork",
+      "scientific_name": "Ciconiidae",
+      "category": "bird",
+      "description": "Storks are large, long-legged wading birds known for their impressive wingspans and graceful flight. Often associated with traditional folklore regarding delivering babies, they inhabit wetlands and marshes. Storks primarily feed on fish, amphibians, and small mammals.",
+      "habitat": "Wetlands, marshes, and coastal areas worldwide.",
+      "diet": "Carnivore - primarily feeds on fish and small animals.",
+      "fun_facts": [
+        "Storks can migrate long distances, traveling thousands of miles between breeding and wintering grounds.",
+        "They build large nests that can be reused for many years.",
+        "Storks are known for their impressive aerial displays during courtship."
+      ],
+      "population": "Estimated several hundred thousand worldwide; varies by species.",
+      "image_url": "https://example.com/stork.jpg"
+    },
+    {
+      "id": 57,
+      "name": "Cockatoo",
+      "scientific_name": "Cacatuidae",
+      "category": "bird",
+      "description": "Cockatoos are striking birds characterized by their colorful plumage and unique crests. They are highly social and intelligent animals, often kept as pets for their strong bond with humans. Cockatoos require mental stimulation and social interaction due to their intelligence.",
+      "habitat": "Tropical and subtropical forests in Australia and nearby islands.",
+      "diet": "Herbivore - primarily feeds on seeds, nuts, fruits, and flowers.",
+      "fun_facts": [
+        "Cockatoos are known for their ability to mimic sounds and human speech.",
+        "Some species can live for over 60 years in captivity.",
+        "They often form strong social bonds with their owners and can be very affectionate."
+      ],
+      "population": "Population varies; some species are endangered due to habitat loss.",
+      "image_url": "https://example.com/cockatoo.jpg"
+    },
+    {
+      "id": 58,
+      "name": "King Cobra",
+      "scientific_name": "Ophiophagus hannah",
+      "category": "reptile",
+      "description": "King cobras are the longest venomous snakes in the world, known for their distinctive hood and powerful neurotoxic venom. They primarily prey on other snakes, including other cobras. King cobras are highly territorial and can be aggressive when threatened.",
+      "habitat": "Forests and grasslands in Southeast Asia.",
+      "diet": "Carnivore - primarily feeds on other snakes.",
+      "fun_facts": [
+        "King cobras can reach lengths of up to 18 feet.",
+        "They have a unique ability to raise the front part of their body off the ground and spread their hood.",
+        "King cobras can deliver enough venom in a single bite to kill an elephant."
+      ],
+      "population": "Estimated several million in the wild.",
+      "image_url": "https://example.com/king_cobra.jpg"
+    },
+    {
+      "id": 59,
+      "name": "Reticulated Python",
+      "scientific_name": "Malayopython reticulatus",
+      "category": "reptile",
+      "description": "Reticulated pythons are one of the longest snake species in the world, known for their intricately patterned scales. They are non-venomous constrictors, subduing prey by wrapping around it tightly. Reticulated pythons can be found in various habitats, including rainforests, swamps, and grasslands.",
+      "habitat": "Tropical forests, swamps, and grasslands in Southeast Asia.",
+      "diet": "Carnivore - primarily feeds on mammals and birds.",
+      "fun_facts": [
+        "Reticulated pythons can reach lengths of up to 30 feet or more.",
+        "They are excellent swimmers and can hunt in both water and land environments.",
+        "Reticulated pythons are known for their extreme flexibility and strength."
+      ],
+      "population": "Estimated several million in the wild.",
+      "image_url": "https://example.com/reticulated_python.jpg"
+    },
+    {
+      "id": 60,
+      "name": "Nile Crocodile",
+      "scientific_name": "Crocodylus niloticus",
+      "category": "reptile",
+      "description": "The Nile crocodile is a large and powerful reptile, known for its strong jaws and aggressive behavior. They are opportunistic hunters found in freshwater habitats such as rivers, lakes, and marshes. Nile crocodiles have an impressive size, with adults reaching 16 to 20 feet in length.",
+      "habitat": "Freshwater rivers, lakes, and marshes across Africa.",
+      "diet": "Carnivore - primarily feeds on fish, birds, and mammals.",
+      "fun_facts": [
+        "Nile crocodiles can remain submerged for hours while waiting for prey.",
+        "They can exert a bite force of over 1,500 psi, among the strongest of any animal.",
+        "Nile crocodiles are known to be excellent swimmers and can move quickly in the water."
+      ],
+      "population": "Estimated over 200,000 in the wild.",
+      "image_url": "https://example.com/nile_crocodile.jpg"
+    },
+    {
+      "id": 61,
+      "name": "Alligator",
+      "scientific_name": "Alligator mississippiensis",
+      "category": "reptile",
+      "description": "Alligators are large reptiles native to the wetlands of North America. They have a broad snout, powerful tail, and strong jaws, making them skilled predators. Alligators are more tolerant of cold than their crocodilian relatives and can often be found basking in the sun.",
+      "habitat": "Freshwater swamps, marshes, and rivers in the southeastern United States and China.",
+      "diet": "Carnivore - primarily feeds on fish, birds, and small mammals.",
+      "fun_facts": [
+        "Alligators can hold their breath underwater for over an hour.",
+        "They have a unique mating call that can be heard from great distances.",
+        "Alligator skulls are lightweight, making them buoyant for swimming."
+      ],
+      "population": "Estimated 1 million in the wild.",
+      "image_url": "https://example.com/alligator.jpg"
+    },
+    {
+      "id": 62,
+      "name": "Chameleon",
+      "scientific_name": "Chamaeleonidae",
+      "category": "reptile",
+      "description": "Chameleons are distinctive reptiles known for their ability to change color, a feature used for communication and camouflage. They have zygodactylous feet, allowing them to grip branches easily, and long, sticky tongues for capturing insects. Chameleons are primarily arboreal and require specific environmental conditions to thrive.",
+      "habitat": "Tropical forests and shrublands in Africa, Madagascar, and parts of Asia.",
+      "diet": "Carnivore - primarily feeds on insects.",
+      "fun_facts": [
+        "Chameleons can change color in response to their mood, temperature, and light.",
+        "They have excellent vision, with eyes that can move independently of each other.",
+        "Chameleons use their long tongues to catch prey with great precision."
+      ],
+      "population": "Population varies by species; many are threatened due to habitat loss.",
+      "image_url": "https://example.com/chameleon.jpg"
+    },
+    {
+      "id": 63,
+      "name": "Gecko",
+      "scientific_name": "Gekkonidae",
+      "category": "reptile",
+      "description": "Geckos are small to medium-sized lizards known for their distinctive vocalizations and adhesive toe pads, which allow them to climb smooth surfaces easily. They exhibit a wide range of colors and patterns and are able to thrive in diverse habitats, from deserts to rainforests.",
+      "habitat": "Tropical to temperate regions, including forests, deserts, and urban areas.",
+      "diet": "Insectivore - primarily feeds on insects and small invertebrates.",
+      "fun_facts": [
+        "Geckos can make a variety of sounds, including chirps and barks, to communicate.",
+        "Some gecko species can grow their tails back after losing them, a trait known as autotomy.",
+        "Geckos are nocturnal and have excellent night vision, aiding in their predation."
+      ],
+      "population": "Estimated several million globally; varies by species.",
+      "image_url": "https://example.com/gecko.jpg"
+    },
+    {
+      "id": 64,
+      "name": "Galápagos Tortoise",
+      "scientific_name": "Chelonoidis nigra",
+      "category": "reptile",
+      "description": "Galápagos tortoises are the largest tortoise species in the world, known for their longevity and unique shell shape. They play a vital role in the ecosystems of the Galápagos Islands by dispersing seeds and creating paths through dense vegetation. These tortoises are known for their slow movement and need for specific environmental conditions.",
+      "habitat": "Galápagos Islands, inhabiting a variety of habitats from dry grasslands to lush highlands.",
+      "diet": "Herbivore - primarily feeds on grasses, leaves, and fruits.",
+      "fun_facts": [
+        "Galápagos tortoises can live for over 100 years.",
+        "They use their large size to store water for long periods during drought.",
+        "Each tortoise has a unique shell shape that provides insight into their habitat."
+      ],
+      "population": "Estimated 20,000 in the wild.",
+      "image_url": "https://example.com/galapagos_tortoise.jpg"
+    },
+    {
+      "id": 65,
+      "name": "Green Sea Turtle",
+      "scientific_name": "Chelonia mydas",
+      "category": "reptile",
+      "description": "Green sea turtles are large marine reptiles known for their beautiful shells and distinct greenish color, which comes from their diet of seagrass. They are migratory animals, often traveling long distances between feeding and breeding grounds. Green sea turtles play a vital role in maintaining healthy seagrass ecosystems.",
+      "habitat": "Coastal and oceanic regions worldwide, often found in shallow waters.",
+      "diet": "Herbivore - primarily feeds on seagrass and algae.",
+      "fun_facts": [
+        "Green sea turtles can hold their breath for up to five hours while submerged.",
+        "They are the only species of sea turtle that is primarily herbivorous.",
+        "Green sea turtles can weigh up to 350 pounds and are known to nest on sandy beaches."
+      ],
+      "population": "Estimated 200,000 breeding females globally.",
+      "image_url": "https://example.com/green_sea_turtle.jpg"
+    },
+    {
+      "id": 66,
+      "name": "Iguana",
+      "scientific_name": "Iguanidae",
+      "category": "reptile",
+      "description": "Iguanas are large, herbivorous lizards often found in tropical and subtropical regions. They are recognized by their distinctive crests of spines along their backs and long tails. Iguanas are excellent climbers, spending much of their time in trees, and are generally solitary in nature.",
+      "habitat": "Trees and shrubs in tropical forests and dry regions.",
+      "diet": "Herbivore - primarily feeds on leaves, flowers, and fruits.",
+      "fun_facts": [
+        "Iguanas can detach their tails as a defense mechanism, allowing them to escape predators.",
+        "They are known for their ability to change color based on temperature and mood.",
+        "Some iguana species are adept swimmers and can dive underwater to escape threats."
+      ],
+      "population": "Population varies by species; some are threatened due to habitat loss.",
+      "image_url": "https://example.com/iguana.jpg"
+    },
+    {
+      "id": 67,
+      "name": "Monitor Lizard",
+      "scientific_name": "Varanidae",
+      "category": "reptile",
+      "description": "Monitor lizards are large, carnivorous reptiles known for their keen senses and opportunistic feeding behaviors. Found in various habitats, including forests, savannas, and deserts, they have strong limbs and sharp claws, making them efficient hunters. Some monitor lizards can grow to impressive lengths, with some species reaching over 10 feet.",
+      "habitat": "Forests, grasslands, and deserts across Africa, Asia, and Australia.",
+      "diet": "Carnivore - primarily feeds on small mammals, birds, and eggs.",
+      "fun_facts": [
+        "Monitor lizards have potent venom that can subdue their prey.",
+        "They have a keen sense of smell, aided by their forked tongues.",
+        "Some species of monitor lizard are known to engage in complex social behaviors."
+      ],
+      "population": "Population varies widely; some species can be common while others are endangered.",
+      "image_url": "https://example.com/monitor_lizard.jpg"
+    },
+    {
+      "id": 68,
+      "name": "Gila Monster",
+      "scientific_name": "Heloderma suspectum",
+      "category": "reptile",
+      "description": "The Gila monster is one of the few venomous lizard species, recognized for its distinctive black and orange or pink coloration. This lizard is native to the southwestern United States and northwestern Mexico. While Gila monsters are slow-moving, they possess potent venom in their bite, which they use to subdue prey.",
+      "habitat": "Deserts and scrublands in the southwestern United States and Mexico.",
+      "diet": "Carnivore - primarily feeds on small mammals, birds, and eggs.",
+      "fun_facts": [
+        "Gila monsters have a powerful bite that can inject venom, used primarily for defense.",
+        "They are known to store fat in their bodies, allowing them to survive long periods without food.",
+        "Gila monsters are mostly nocturnal and spend time in burrows during the day."
+      ],
+      "population": "Estimated several thousand in the wild.",
+      "image_url": "https://example.com/gila_monster.jpg"
+    },
+    {
+      "id": 69,
+      "name": "Rattlesnake",
+      "scientific_name": "Crotalus",
+      "category": "reptile",
+      "description": "Rattlesnakes are venomous snakes known for the distinctive rattle on their tails, which they use as a warning signal to potential threats. Found predominantly in the Americas, these snakes have heat-sensing pits that help them locate prey, usually small mammals and birds.",
+      "habitat": "Deserts, grasslands, and forests across the Americas.",
+      "diet": "Carnivore - primarily feeds on small mammals, birds, and reptiles.",
+      "fun_facts": [
+        "Rattlesnakes can detect infrared radiation from warm-blooded prey, aiding in hunting.",
+        "Their venom is composed of enzymes and proteins used to immobilize prey.",
+        "Rattlesnake populations can be found in a variety of habitats, adapting to their environments."
+      ],
+      "population": "Estimated several million in the wild.",
+      "image_url": "https://example.com/rattlesnake.jpg"
+    },
+    {
+      "id": 70,
+      "name": "Great White Shark",
+      "scientific_name": "Carcharodon carcharias",
+      "category": "fish",
+      "description": "Great white sharks are one of the most well-known predatory fish in the ocean, recognized for their size, strength, and intimidating presence. They are apex predators, primarily preying on marine mammals, fish, and seabirds. Great whites have a keen sense of smell and can detect blood in the water from miles away.",
+      "habitat": "Coastal and offshore waters in temperate and tropical regions.",
+      "diet": "Carnivore - primarily feeds on seals, fish, and other marine mammals.",
+      "fun_facts": [
+        "Great white sharks can swim at speeds of up to 25 mph.",
+        "They can grow up to 20 feet long and weigh over 5,000 pounds.",
+        "Great whites are known for breaching the surface when attacking prey."
+      ],
+      "population": "Estimated 3,500 in the wild.",
+      "image_url": "https://example.com/great_white_shark.jpg"
+    },
+    {
+      "id": 71,
+      "name": "Hammerhead Shark",
+      "scientific_name": "Sphyrna",
+      "category": "fish",
+      "description": "Hammerhead sharks are easily recognized by their unique head shape, which helps them have a better visual range and enhances their ability to locate prey. They are found in warm waters and are known for their social behavior, often swimming in schools. Hammerheads primarily feed on fish, including stingrays and other small sharks.",
+      "habitat": "Coastal areas, especially near the continental shelf.",
+      "diet": "Carnivore - primarily feeds on fish and cephalopods.",
+      "fun_facts": [
+        "Hammerhead sharks can swim in schools of up to 100 individuals.",
+        "Their wide-set eyes provide them with a 360-degree view of their surroundings.",
+        "They can grow up to 20 feet long, depending on the species."
+      ],
+      "population": "Population varies by species; some are threatened due to overfishing.",
+      "image_url": "https://example.com/hammerhead_shark.jpg"
+    },
+    {
+      "id": 72,
+      "name": "Clownfish",
+      "scientific_name": "Amphiprioninae",
+      "category": "fish",
+      "description": "Clownfish, also known as anemonefish, are small, brightly colored coral reef fish famous for their symbiotic relationship with sea anemones. They are primarily orange with white stripes and have a unique ability to withstand the anemone's sting. Clownfish are highly territorial and known for their social behavior.",
+      "habitat": "Coral reefs in the warm seas of the Pacific and Indian Oceans.",
+      "diet": "Omnivore - feeds on algae, zooplankton, and small invertebrates.",
+      "fun_facts": [
+        "Clownfish can change sex; if the dominant female dies, the dominant male will change into a female.",
+        "They have a mutualistic relationship with sea anemones, providing protection from predators.",
+        "Clownfish are known for their vibrant colors and distinctive patterns."
+      ],
+      "population": "Population varies; many species are common, but some are threatened.",
+      "image_url": "https://example.com/clownfish.jpg"
+    },
+    {
+      "id": 73,
+      "name": "Anglerfish",
+      "scientific_name": "Lophiiformes",
+      "category": "fish",
+      "description": "Anglerfish are deep-sea fish known for their unique method of predation, using a bioluminescent lure to attract prey. They have large mouths filled with sharp teeth, allowing them to consume prey larger than themselves. Anglerfish exhibit dimorphism, where females are significantly larger than males.",
+      "habitat": "Deep sea environments, particularly in dark oceanic waters.",
+      "diet": "Carnivore - feeds primarily on fish and other small marine creatures.",
+      "fun_facts": [
+        "The lure of an anglerfish is a modified dorsal fin that emits light to attract prey.",
+        "Some species can expand their stomachs to accommodate large prey.",
+        "Male anglerfish are much smaller than females and often attach to them for life."
+      ],
+      "population": "Population varies; generally hard to assess due to deep-sea habitat.",
+      "image_url": "https://example.com/anglerfish.jpg"
+    },
+    {
+      "id": 74,
+      "name": "Lionfish",
+      "scientific_name": "Pterois",
+      "category": "fish",
+      "description": "Lionfish are venomous marine fish known for their striking appearance and long, spiky fins. They are native to the Indo-Pacific region but have become an invasive species in the Atlantic Ocean. Lionfish are skilled hunters and feed on small fish and invertebrates.",
+      "habitat": "Coral reefs and rocky habitats in warm waters.",
+      "diet": "Carnivore - primarily feeds on small fish and crustaceans.",
+      "fun_facts": [
+        "Lionfish have venomous spines that can deliver painful stings to predators and humans.",
+        "They have few natural predators in the Atlantic, leading to population explosions.",
+        "Lionfish can consume prey up to half their body size."
+      ],
+      "population": "Population varies by region; invasive in the Atlantic but native in the Indo-Pacific.",
+      "image_url": "https://example.com/lionfish.jpg"
+    },
+    {
+      "id": 75,
+      "name": "Goldfish",
+      "scientific_name": "Carassius auratus",
+      "category": "fish",
+      "description": "Goldfish are small, domesticated fish known for their bright orange color and playful nature. They are one of the most popular aquarium fish and have been bred for various colors and shapes. Goldfish are social creatures that thrive in groups and need proper care to live healthy lives.",
+      "habitat": "Freshwater habitats, often kept in tanks and ponds.",
+      "diet": "Omnivore - primarily feeds on algae, plant matter, and small invertebrates.",
+      "fun_facts": [
+        "Goldfish have a memory span of several months, contrary to the myth of a three-second memory.",
+        "They can live for over 10 years in captivity, with some individuals reaching 20 years.",
+        "Goldfish come in many varieties, including fancy goldfish like the bubble-eye and lionhead."
+      ],
+      "population": "Highly populated in domestic environments; millions kept as pets.",
+      "image_url": "https://example.com/goldfish.jpg"
+    },
+    {
+      "id": 76,
+      "name": "Stingray",
+      "scientific_name": "Dasyatidae",
+      "category": "fish",
+      "description": "Stingrays are flat-bodied bottom-dwelling fish known for their smooth, rounded bodies and long, whip-like tails. Many species have venomous stingers, used as a defense mechanism against predators. Stingrays are found in coastal waters and can often be seen gliding gracefully along the ocean floor.",
+      "habitat": "Shallow coastal waters and sandy bottoms.",
+      "diet": "Carnivore - primarily feeds on mollusks, crustaceans, and small fish.",
+      "fun_facts": [
+        "Some species can leap out of the water, gliding through the air for short distances.",
+        "Stingrays can bury themselves in sand to hide from predators and ambush prey.",
+        "Their flat bodies are adapted for life on the ocean floor."
+      ],
+      "population": "Population varies by species; some are threatened due to habitat loss.",
+      "image_url": "https://example.com/stingray.jpg"
+    },
+    {
+      "id": 77,
+      "name": "Catfish",
+      "scientific_name": "Siluriformes",
+      "category": "fish",
+      "description": "Catfish are a diverse group of freshwater fish known for their whisker-like barbels, which they use to sense their environment. They are bottom feeders and vary greatly in size and habitat preference. Catfish are highly adaptable and can thrive in many different water conditions.",
+      "habitat": "Freshwater rivers, lakes, and ponds worldwide.",
+      "diet": "Omnivore - feeds on detritus, small fish, and plant matter.",
+      "fun_facts": [
+        "Some catfish can grow to be very large; the Mekong giant catfish can reach over 9 feet long.",
+        "Catfish have excellent taste buds and can taste in all areas of their bodies.",
+        "Some species can produce electric shocks as a form of defense."
+      ],
+      "population": "Population varies widely based on species; many are common.",
+      "image_url": "https://example.com/catfish.jpg"
+    },
+    {
+      "id": 78,
+      "name": "Tuna",
+      "scientific_name": "Thunnus",
+      "category": "fish",
+      "description": "Tuna are large, fast-swimming marine fish known for their sleek bodies and high value in the fishing industry. They are among the fastest fish in the ocean, capable of swimming at speeds up to 75 mph. Tuna are highly migratory and are often found in warm oceanic waters.",
+      "habitat": "Open ocean, particularly in warm and temperate waters.",
+      "diet": "Carnivore - primarily feeds on smaller fish and squid.",
+      "fun_facts": [
+        "Tuna can maintain a body temperature higher than the surrounding water, aiding in their speed.",
+        "They are important both ecologically and economically, as they are a staple in many cultures' diets.",
+        "Some species of tuna can weigh over 1,000 pounds."
+      ],
+      "population": "Population varies by species; some are at risk due to overfishing.",
+      "image_url": "https://example.com/tuna.jpg"
+    },
+    {
+      "id": 79,
+      "name": "Pufferfish",
+      "scientific_name": "Tetraodontidae",
+      "category": "fish",
+      "description": "Pufferfish are unique marine fish known for their ability to inflate their bodies as a defense mechanism. They are often brightly colored and can contain toxins, making them unpalatable to predators. Pufferfish are typically found in warm oceanic waters and coral reefs.",
+      "habitat": "Coral reefs, lagoons, and open ocean.",
+      "diet": "Carnivore - primarily feeds on invertebrates and algae.",
+      "fun_facts": [
+        "Pufferfish contain a potent toxin called tetrodotoxin, which is lethal to predators and humans.",
+        "They can expand their bodies to several times their normal size to deter attackers.",
+        "Some species are considered delicacies in certain cultures, despite the risk of poisoning."
+      ],
+      "population": "Population varies by species; most are common in their habitats.",
+      "image_url": "https://example.com/pufferfish.jpg"
+    },
+    {
+      "id": 80,
+      "name": "Seal",
+      "scientific_name": "Phocidae",
+      "category": "mammal",
+      "description": "Seals are marine mammals known for their streamlined bodies and ability to navigate both land and water. They are often found on rocky shores and ice and are known for their playful behavior in the water. Seals primarily feed on fish and squid.",
+      "habitat": "Oceans and coastal areas worldwide, often near ice or rocky shores.",
+      "diet": "Carnivore - primarily feeds on fish and squid.",
+      "fun_facts": [
+        "Seals can hold their breath for up to 30 minutes while diving for food.",
+        "They have excellent hearing and can locate prey using sound.",
+        "Some species, like the elephant seal, can weigh over two tons."
+      ],
+      "population": "Population varies widely by species; some are common, while others are endangered.",
+      "image_url": "https://example.com/seal.jpg"
+    },
+    {
+      "id": 81,
+      "name": "Walrus",
+      "scientific_name": "Odobenus rosmarus",
+      "category": "mammal",
+      "description": "Walruses are large marine mammals known for their characteristic tusks, whiskers, and blubbery bodies. They often inhabit cold Arctic waters and are social animals, found in groups known as herds. Walruses primarily feed on benthic organisms, including clams and mollusks.",
+      "habitat": "Arctic and subarctic waters, often resting on sea ice or beaches.",
+      "diet": "Carnivore - primarily feeds on clams, mollusks, and other invertebrates.",
+      "fun_facts": [
+        "Walrus tusks are elongated canines used for social interactions and defense.",
+        "They can hold their breath underwater for up to 30 minutes while hunting.",
+        "Walruses are known to be highly social animals, often seen in large groups."
+      ],
+      "population": "Estimated 200,000 in the wild.",
+      "image_url": "https://example.com/walrus.jpg"
+    },
+    {
+      "id": 82,
+      "name": "Manatee",
+      "scientific_name": "Trichechus",
+      "category": "mammal",
+      "description": "Manatees, also known as sea cows, are large marine mammals that inhabit warm coastal waters. They are slow-moving herbivores, primarily feeding on seagrass and aquatic plants. Manatees are known for their gentle nature and are often seen floating leisurely in the water.",
+      "habitat": "Coastal waters, rivers, and estuaries in warm regions.",
+      "diet": "Herbivore - primarily feeds on seagrass and aquatic vegetation.",
+      "fun_facts": [
+        "Manatees can weigh up to 1,200 pounds and grow to lengths of 13 feet.",
+        "They have a low metabolic rate, which allows them to thrive on a vegetarian diet.",
+        "Manatees are known to be great swimmers, capable of moving at speeds of up to 15 mph."
+      ],
+      "population": "Estimated 13,000 in the wild, primarily in Florida.",
+      "image_url": "https://example.com/manatee.jpg"
+    },
+    {
+      "id": 83,
+      "name": "Narwhal",
+      "scientific_name": "Monodon monoceros",
+      "category": "mammal",
+      "description": "Narwhals are unique marine mammals known for their long, spiral tusks, which can reach lengths of up to 10 feet. They inhabit Arctic waters and are known for their ability to dive deep to hunt for fish and squid. Narwhals are often called the 'unicorns of the sea' due to their distinctive tusks.",
+      "habitat": "Arctic waters, particularly in the Canadian Arctic and Greenland.",
+      "diet": "Carnivore - primarily feeds on fish, squid, and shrimp.",
+      "fun_facts": [
+        "Narwhales can dive to depths of over 1,500 meters while hunting.",
+        "The tusk is an elongated tooth; both males and females can have a tusk, but males are more commonly seen with it.",
+        "Narwhal populations can be affected by climate change, as their habitat is heavily dependent on sea ice."
+      ],
+      "population": "Estimated 80,000 in the wild.",
+      "image_url": "https://example.com/narwhal.jpg"
+    },
+    {
+      "id": 84,
+      "name": "Dolphin",
+      "scientific_name": "Delphinidae",
+      "category": "mammal",
+      "description": "Dolphins are intelligent marine mammals known for their playful behavior and social structures. They utilize echolocation to navigate and hunt for fish and squid in the ocean. Dolphins live in pods that can consist of a few individuals to several hundred, and they often exhibit cooperative hunting strategies.",
+      "habitat": "Warm and temperate oceans worldwide.",
+      "diet": "Carnivore - primarily feeds on fish, squid, and crustaceans.",
+      "fun_facts": [
+        "Dolphins can communicate with each other using a variety of sounds and clicks.",
+        "They are known for surfing on waves and playing with boats.",
+        "Dolphins have been observed exhibiting altruistic behavior, helping injured individuals."
+      ],
+      "population": "Estimated several million across various species.",
+      "image_url": "https://example.com/dolphin.jpg"
+    },
+    {
+      "id": 85,
+      "name": "Dugong",
+      "scientific_name": "Dugong dugon",
+      "category": "mammal",
+      "description": "Dugongs are large marine mammals closely related to manatees and known for their herbivorous diets that primarily consist of seagrass. They are slow-moving creatures often found in warm coastal waters. Dugongs have unique paddle-shaped flippers that assist them in swimming through seagrass beds.",
+      "habitat": "Coastal waters and shallow lagoons in warm seas.",
+      "diet": "Herbivore - primarily feeds on seagrass.",
+      "fun_facts": [
+        "Dugongs can hold their breath underwater for up to six minutes while foraging for food.",
+        "They are often seen grazing in seagrass beds alongside manatees.",
+        "Dugongs are known to have long lifespan, living up to 70 years."
+      ],
+      "population": "Estimated 80,000 in the wild.",
+      "image_url": "https://example.com/dugong.jpg"
+    },
+    {
+      "id": 86,
+      "name": "Hedgehog",
+      "scientific_name": "Erinaceinae",
+      "category": "mammal",
+      "description": "Hedgehogs are small, nocturnal mammals known for their spiny coat, which provides protection from predators. They are commonly found in gardens and forests, where they forage for insects, snails, and small invertebrates. Hedgehogs can roll into a tight ball when threatened, hiding their vulnerable areas.",
+      "habitat": "Woodlands, grasslands, and suburban areas.",
+      "diet": "Insectivore - primarily feeds on insects and small invertebrates.",
+      "fun_facts": [
+        "Hedgehogs can run at speeds of up to 4 mph.",
+        "They have a remarkable sense of smell and can find food buried under leaves and soil.",
+        "Hedgehogs hibernate during the winter in colder climates."
+      ],
+      "population": "Estimated several million in the wild:",
+      "image_url": "https://example.com/hedgehog.jpg"
+    },
+    {
+      "id": 87,
+      "name": "Koala",
+      "scientific_name": "Phascolarctos cinereus",
+      "category": "mammal",
+      "description": "Koalas are marsupials native to Australia, recognized for their distinctive round faces, large ears, and plush fur. They spend most of their lives in eucalyptus trees, eating leaves that are toxic to most other animals. Koalas are nocturnal and sleep for a significant portion of the day, conserving energy.",
+      "habitat": "Eucalyptus forests in Australia.",
+      "diet": "Herbivore - primarily feeds on eucalyptus leaves.",
+      "fun_facts": [
+        "Koalas can sleep up to 18 hours a day to conserve energy.",
+        "They have a highly developed sense of smell that helps them select the best eucalyptus leaves.",
+        "Despite their cute appearance, koalas can be quite aggressive when threatened."
+      ],
+      "population": "Estimated 80,000 in the wild.",
+      "image_url": "https://example.com/koala.jpg"
+    },
+    {
+      "id": 88,
+      "name": "Ferret",
+      "scientific_name": "Mustela putorius furo",
+      "category": "mammal",
+      "description": "Ferrets are small, domesticated mammals belonging to the weasel family. Known for their playful and mischievous behavior, they are social animals often kept as pets. Ferrets are curious and intelligent, requiring mental and physical stimulation.",
+      "habitat": "Domesticated; found in homes and farms worldwide.",
+      "diet": "Carnivore - primarily feeds on meat, including small animals and eggs.",
+      "fun_facts": [
+        "Ferrets can sleep up to 18 hours a day but are very active during the remaining hours.",
+        "They have a unique odor, which some owners find endearing, while others may consider it strong.",
+        "Ferrets are known for their playful nature and ability to play games like hide-and-seek."
+      ],
+      "population": "Widely bred and kept as pets; estimated several million globally.",
+      "image_url": "https://example.com/ferret.jpg"
+    },
+    {
+      "id": 89,
+      "name": "Platypus",
+      "scientific_name": "Ornithorhynchus anatinus",
+      "category": "mammal",
+      "description": "The platypus is an egg-laying mammal native to Australia, known for its unique appearance and combination of features from various animal groups. With a flat bill resembling a duck and webbed feet, it is an adept swimmer. The platypus is one of only five extant species of monotremes, which are egg-laying mammals.",
+      "habitat": "Freshwater rivers, lakes, and wetlands in Australia.",
+      "diet": "Carnivore - primarily feeds on insects, larvae, and small aquatic animals.",
+      "fun_facts": [
+        "Platypuses have venomous spurs on their hind legs, used for defense.",
+        "They locate prey using electroreception, sensing electric fields generated by movement.",
+        "Platypuses are one of the few mammals that lay eggs instead of giving birth to live young."
+      ],
+      "population": "Estimated 300,000 in the wild.",
+      "image_url": "https://example.com/platypus.jpg"
+    },
+    {
+      "id": 90,
+      "name": "Tapir",
+      "scientific_name": "Tapiridae",
+      "category": "mammal",
+      "description": "Tapirs are large, herbivorous mammals native to Central and South America and Southeast Asia. They are characterized by their stout bodies and short snouts, which resemble a combination of a pig and an elephant's trunk. Tapirs are semi-aquatic and are known for their excellent swimming abilities.",
+      "habitat": "Forests, grasslands, and wetlands.",
+      "diet": "Herbivore - primarily feeds on leaves, fruits, and aquatic plants.",
+      "fun_facts": [
+        "Tapirs can dive underwater, holding their breath for several minutes.",
+        "They are important seed dispersers for many tree species in their habitat.",
+        "Tapirs are usually solitary animals, coming together only for mating."
+      ],
+      "population": "Population varies by species; some are endangered due to habitat loss.",
+      "image_url": "https://example.com/tapir.jpg"
+    },
+    {
+      "id": 91,
+      "name": "Antelope",
+      "scientific_name": "Bovidae",
+      "category": "mammal",
+      "description": "Antelopes are a diverse group of herbivorous mammals found in various habitats in Africa and Asia. They are known for their speed and agility, which help them escape predators. Antelope species range in size and appearance, with some being solitary while others form large herds.",
+      "habitat": "Grasslands, savannas, and forests.",
+      "diet": "Herbivore - primarily feeds on grasses and leaves.",
+      "fun_facts": [
+        "Antelopes are known for their incredible speed, with some species capable of running over 50 mph.",
+        "Many antelope species engage in migratory behavior, following food and water sources.",
+        "Their social structures vary widely; some live in groups called herds, while others are more solitary."
+      ],
+      "population": "Population varies widely; many species are common while some are endangered.",
+      "image_url": "https://example.com/antelope.jpg"
+    },
+    {
+      "id": 92,
+      "name": "Oryx",
+      "scientific_name": "Oryx",
+      "category": "mammal",
+      "description": "Oryxes are large, antelope-like mammals that inhabit arid regions in Africa and the Middle East. They are known for their long, straight horns and striking appearance. Oryxes are well adapted to their harsh environments and can survive long periods without water.",
+      "habitat": "Deserts and dry savannahs.",
+      "diet": "Herbivore - primarily feeds on grasses and shrubs.",
+      "fun_facts": [
+        "Oryxes can survive without water by extracting moisture from the plants they eat.",
+        "They are known to be able to withstand extreme temperatures, making them adaptable to arid climates.",
+        "Oryxes have excellent eyesight and can detect predators from great distances."
+      ],
+      "population": "Estimated several thousand for certain species; some are endangered.",
+      "image_url": "https://example.com/oryx.jpg"
+    },
+    {
+      "id": 93,
+      "name": "Kudu",
+      "scientific_name": "Tragelaphus strepsiceros",
+      "category": "mammal",
+      "description": "Kudus are large antelopes known for their impressive spiral horns and striking coloration. They inhabit woodlands and savannas in Africa and are known for their agility and ability to leap over obstacles when fleeing from predators.",
+      "habitat": "Woodlands and savanna regions of Africa.",
+      "diet": "Herbivore - primarily feeds on leaves, shrubs, and grasses.",
+      "fun_facts": [
+        "Kudus are known for their stealth and agility, often using their coloration to blend into their surroundings.",
+        "They can jump over obstacles up to 8 feet high when escaping predators.",
+        "Kudus are generally social animals that prefer to stay in small groups."
+      ],
+      "population": "Estimated 300,000 in the wild.",
+      "image_url": "https://example.com/kudu.jpg"
+    },
+    {
+      "id": 94,
+      "name": "Bongo",
+      "scientific_name": "Tragelaphus eurycerus",
+      "category": "mammal",
+      "description": "Bongos are strikingly patterned antelopes found in the rainforests of Central and West Africa. They are known for their reddish-brown fur with white stripes, which help with camouflage. Bongos are primarily nocturnal and prefer dense cover to avoid predators.",
+      "habitat": "Rainforests and thick bush in Central and West Africa.",
+      "diet": "Herbivore - primarily feeds on leaves, fruits, and ferns.",
+      "fun_facts": [
+        "Bongos are excellent climbers and often navigate steep and rugged terrain.",
+        "They have large, spiraled horns that can reach lengths of up to 36 inches in males.",
+        "Bongos are known to communicate with each other through low-frequency vocalizations."
+      ],
+      "population": "Estimated 100,000 in the wild; some populations are threatened.",
+      "image_url": "https://example.com/bongo.jpg"
+    },
+    {
+      "id": 95,
+      "name": "Gazelle",
+      "scientific_name": "Antilopinae",
+      "category": "mammal",
+      "description": "Gazelles are graceful antelopes known for their speed and agility. They are adapted to living in open grasslands and savannas in Africa and Asia. Gazelles are social animals, often found in herds, and are known for their remarkable ability to evade predators through swift movements.",
+      "habitat": "Grasslands and savannas in Africa and parts of the Middle East.",
+      "diet": "Herbivore - primarily feeds on grasses and leaves.",
+      "fun_facts": [
+        "Gazelles can run at speeds up to 60 mph and can leap distances of up to 10 feet.",
+        "They are known for their unique stotting behavior, where they jump high in the air to warn others of danger.",
+        "Gazelles typically live in small groups, known as herds, that are generally matriarchal."
+      ],
+      "population": "Population varies by species; some are common while others are endangered.",
+      "image_url": "https://example.com/gazelle.jpg"
+    },
+    {
+      "id": 96,
+      "name": "Moose",
+      "scientific_name": "Alces alces",
+      "category": "mammal",
+      "description": "Moose are the largest members of the deer family, characterized by their long legs, large bodies, and distinctive palmate antlers, which are found primarily in males. They are found in the northern regions of North America and Europe and are known for their strong swimming abilities.",
+      "habitat": "Forests and wetlands in North America, Europe, and Asia.",
+      "diet": "Herbivore - primarily feeds on leaves, shrubs, and aquatic plants.",
+      "fun_facts": [
+        "Moose can swim for over 6 miles and are known to submerge their bodies to graze on aquatic plants.",
+        "Their antlers can weigh up to 100 pounds and are shed annually in the winter.",
+        "Moose are solitary animals but can sometimes be seen in small groups during mating season."
+      ],
+      "population": "Estimated 1 million in the wild.",
+      "image_url": "https://example.com/moose.jpg"
+    },
+    {
+      "id": 97,
+      "name": "Lynx",
+      "scientific_name": "Lynx",
+      "category": "mammal",
+      "description": "Lynxes are medium-sized wild cats known for their tufted ears, short tails, and long legs. They are solitary and territorial hunters, primarily preying on small mammals and birds. Lynxes are adapted to snowy environments, with large furry paws that act as snowshoes.",
+      "habitat": "Forests and tundra regions in North America, Europe, and Asia.",
+      "diet": "Carnivore - primarily feeds on hares, rodents, and birds.",
+      "fun_facts": [
+        "Lynxes have excellent night vision, enabling them to hunt effectively in low-light conditions.",
+        "They can leap up to 10 feet in a single jump.",
+        "The Eurasian lynx is the largest species, which can weigh up to 40 pounds."
+      ],
+      "population": "Estimated 1 million for all lynx species; specific populations vary.",
+      "image_url": "https://example.com/lynx.jpg"
+    },
+    {
+      "id": 98,
+      "name": "Jaguar",
+      "scientific_name": "Panthera onca",
+      "category": "mammal",
+      "description": "Jaguars are the largest cats in the Americas, known for their powerful build and distinctive coat pattern marked with rosettes. They are solitary hunters and are primarily nocturnal, using their keen senses to find prey, which includes deer, capybaras, and caimans. Jaguars are also excellent swimmers and often hunt in water.",
+      "habitat": "Tropical rainforests, swamps, and grasslands in Central and South America.",
+      "diet": "Carnivore - primarily feeds on mammals, birds, and reptiles.",
+      "fun_facts": [
+        "Jaguars have the strongest bite force of all big cats, allowing them to crush the shells of turtles and the skulls of prey.",
+        "They are known for their stealthy hunting techniques, often ambushing their prey.",
+        "Jaguars are skilled swimmers and often hunt fish and other aquatic animals."
+      ],
+      "population": "Estimated 173,000 in the wild; populations are declining due to habitat loss.",
+      "image_url": "https://example.com/jaguar.jpg"
+    },
+    {
+      "id": 99,
+      "name": "Panther",
+      "scientific_name": "Puma concolor",
+      "category": "mammal",
+      "description": "Panthers, also known as cougars or mountain lions, are large, powerful felines that can be found throughout North America and South America. They are highly adaptable and can thrive in various habitats. Panthers are solitary and territorial hunters, primarily preying on deer and smaller animals.",
+      "habitat": "Forests, mountains, and grasslands in North and South America.",
+      "diet": "Carnivore - primarily feeds on deer, small mammals, and birds.",
+      "fun_facts": [
+        "Panthers can leap up to 40 feet in a single bound and can sprint at speeds of up to 50 mph.",
+        "They are known for their distinctive vocalizations, including growls and purrs.",
+        "Panthers are very adaptable and can thrive in diverse habitats, from deserts to forests."
+      ],
+      "population": "Estimated 50,000 in the wild.",
+      "image_url": "https://example.com/panther.jpg"
+    },
+    {
+      "id": 100,
+      "name": "Squirrel",
+      "scientific_name": "Sciuridae",
+      "category": "mammal",
+      "description": "Squirrels are small, nimble rodents found in a variety of habitats around the world, known for their bushy tails and sharp claws. They are excellent tree climbers and are primarily herbivorous, feeding on nuts, seeds, and fruits. Squirrels are highly social animals and often live in groups.",
+      "habitat": "Forests, parks, and urban areas worldwide.",
+      "diet": "Herbivore - primarily feeds on nuts, seeds, fruits, and vegetation.",
+      "fun_facts": [
+        "Squirrels can jump distances of up to 10 times their body length.",
+        "They have sharp incisor teeth that continuously grow, requiring constant gnawing.",
+        "Squirrels can bury thousands of nuts each season as a food reserve for winter."
+      ],
+      "population": "Estimated several million globally; some species are common in urban areas.",
+      "image_url": "https://example.com/squirrel.jpg"
     }
   ]
 }
