@@ -17,7 +17,7 @@ const likedAnimals = document.getElementById("liked")
 
 //GET animal information
 async function getAnimals(){
-    const res = await fetch(baseURL)
+    const res = await fetch(`${baseURL}/animals`)
     const data = await res.json()
     
     data.forEach(item => {
