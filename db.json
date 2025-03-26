@@ -2,6 +2,7 @@
   "animals": [
     {
       "id": 1,
+      "likes": 70,
       "name": "African Elephant",
       "scientific_name": "Loxodonta africana",
       "category": "mammal",
@@ -18,6 +19,7 @@
     },
     {
       "id": 2,
+      "likes": 70,
       "name": "Bald Eagle",
       "scientific_name": "Haliaeetus leucocephalus",
       "category": "bird",
@@ -34,6 +36,7 @@
     },
     {
       "id": 3,
+      "likes": 70,
       "name": "Tiger",
       "scientific_name": "Panthera tigris",
       "category": "mammal",
@@ -50,6 +53,7 @@
     },
     {
       "id": 4,
+      "likes": 70,
       "name": "Cheetah",
       "scientific_name": "Acinonyx jubatus",
       "category": "mammal",
@@ -66,6 +70,7 @@
     },
     {
       "id": 5,
+      "likes": 70,
       "name": "Leopard",
       "scientific_name": "Panthera pardus",
       "category": "mammal",
@@ -82,6 +87,7 @@
     },
     {
       "id": 6,
+      "likes": 70,
       "name": "Giraffe",
       "scientific_name": "Giraffa camelopardalis",
       "category": "mammal",
@@ -98,6 +104,7 @@
     },
     {
       "id": 7,
+      "likes": 70,
       "name": "Hippopotamus",
       "scientific_name": "Hippopotamus amphibius",
       "category": "mammal",
@@ -114,6 +121,7 @@
     },
     {
       "id": 8,
+      "likes": 70,
       "name": "Zebra",
       "scientific_name": "Equus quagga",
       "category": "mammal",
@@ -130,6 +138,7 @@
     },
     {
       "id": 9,
+      "likes": 70,
       "name": "Kangaroo",
       "scientific_name": "Macropus giganteus",
       "category": "mammal",
@@ -146,6 +155,7 @@
     },
     {
       "id": 10,
+      "likes": 70,
       "name": "Polar Bear",
       "scientific_name": "Ursus maritimus",
       "category": "mammal",
@@ -162,6 +172,7 @@
     },
     {
       "id": 11,
+      "likes": 70,
       "name": "Komodo Dragon",
       "scientific_name": "Varanus komodoensis",
       "category": "reptile",
@@ -178,6 +189,7 @@
     },
     {
       "id": 12,
+      "likes": 70,
       "name": "Monarch Butterfly",
       "scientific_name": "Danaus plexippus",
       "category": "insect",
@@ -194,6 +206,7 @@
     },
     {
       "id": 13,
+      "likes": 70,
       "name": "Blue Whale",
       "scientific_name": "Balaenoptera musculus",
       "category": "mammal",
@@ -210,6 +223,7 @@
     },
     {
       "id": 14,
+      "likes": 70,
       "name": "Green Anaconda",
       "scientific_name": "Eunectes murinus",
       "category": "reptile",
@@ -226,6 +240,7 @@
     },
     {
       "id": 15,
+      "likes": 70,
       "name": "Snow Leopard",
       "scientific_name": "Panthera uncia",
       "category": "mammal",
@@ -242,6 +257,7 @@
     },
     {
       "id": 16,
+      "likes": 70,
       "name": "Rhinoceros",
       "scientific_name": "Rhinocerotidae",
       "category": "mammal",
@@ -258,6 +274,7 @@
     },
     {
       "id": 17,
+      "likes": 70,
       "name": "Gorilla",
       "scientific_name": "Gorilla gorilla",
       "category": "mammal",
@@ -274,6 +291,7 @@
     },
     {
       "id": 18,
+      "likes": 70,
       "name": "Chimpanzee",
       "scientific_name": "Pan troglodytes",
       "category": "mammal",
@@ -290,6 +308,7 @@
     },
     {
       "id": 19,
+      "likes": 70,
       "name": "Orangutan",
       "scientific_name": "Pongo pygmaeus",
       "category": "mammal",
@@ -306,6 +325,7 @@
     },
     {
       "id": 20,
+      "likes": 70,
       "name": "Koala",
       "scientific_name": "Phascolarctos cinereus",
       "category": "mammal",
@@ -322,6 +342,7 @@
     },
     {
       "id": 21,
+      "likes": 70,
       "name": "Panda",
       "scientific_name": "Ailuropoda melanoleuca",
       "category": "mammal",
@@ -338,6 +359,7 @@
     },
     {
       "id": 22,
+      "likes": 70,
       "name": "Brown Bear",
       "scientific_name": "Ursus arctos",
       "category": "mammal",
@@ -354,6 +376,7 @@
     },
     {
       "id": 23,
+      "likes": 70,
       "name": "Wolf",
       "scientific_name": "Canis lupus",
       "category": "mammal",
@@ -370,6 +393,7 @@
     },
     {
       "id": 24,
+      "likes": 70,
       "name": "Fox",
       "scientific_name": "Vulpes vulpes",
       "category": "mammal",
@@ -386,6 +410,7 @@
     },
     {
       "id": 25,
+      "likes": 70,
       "name": "Sloth",
       "scientific_name": "Folivora",
       "category": "mammal",
@@ -402,6 +427,7 @@
     },
     {
       "id": 26,
+      "likes": 70,
       "name": "Dolphin",
       "scientific_name": "Delphinidae",
       "category": "mammal",
@@ -418,6 +444,7 @@
     },
     {
       "id": 28,
+      "likes": 70,
       "name": "Orca (Killer Whale)",
       "scientific_name": "Orcinus orca",
       "category": "mammal",
@@ -434,6 +461,7 @@
     },
     {
       "id": 29,
+      "likes": 70,
       "name": "Red Panda",
       "scientific_name": "Ailurus fulgens",
       "category": "mammal",
@@ -450,6 +478,7 @@
     },
     {
       "id": 30,
+      "likes": 70,
       "name": "Arctic Fox",
       "scientific_name": "Vulpes lagopus",
       "category": "mammal",
@@ -466,6 +495,7 @@
     },
     {
       "id": 31,
+      "likes": 70,
       "name": "Hyena",
       "scientific_name": "Hyaenidae",
       "category": "mammal",
@@ -482,6 +512,7 @@
     },
     {
       "id": 32,
+      "likes": 70,
       "name": "Bison",
       "scientific_name": "Bison bison",
       "category": "mammal",
@@ -498,6 +529,7 @@
     },
     {
       "id": 33,
+      "likes": 70,
       "name": "Otter",
       "scientific_name": "Lutrinae",
       "category": "mammal",
@@ -514,6 +546,7 @@
     },
     {
       "id": 34,
+      "likes": 70,
       "name": "Armadillo",
       "scientific_name": "Dasypodidae",
       "category": "mammal",
@@ -530,6 +563,7 @@
     },
     {
       "id": 35,
+      "likes": 70,
       "name": "Capybara",
       "scientific_name": "Hydrochoerus hydrochaeris",
       "category": "mammal",
@@ -546,6 +580,7 @@
     },
     {
       "id": 36,
+      "likes": 70,
       "name": "Wombat",
       "scientific_name": "Vombatidae",
       "category": "mammal",
@@ -562,6 +597,7 @@
     },
     {
       "id": 38,
+      "likes": 70,
       "name": "Peregrine Falcon",
       "scientific_name": "Falco peregrinus",
       "category": "bird",
@@ -578,6 +614,7 @@
     },
     {
       "id": 39,
+      "likes": 70,
       "name": "Barn Owl",
       "scientific_name": "Tyto alba",
       "category": "bird",
@@ -594,6 +631,7 @@
     },
     {
       "id": 40,
+      "likes": 70,
       "name": "Snowy Owl",
       "scientific_name": "Bubo scandiacus",
       "category": "bird",
@@ -610,6 +648,7 @@
     },
     {
       "id": 41,
+      "likes": 70,
       "name": "Flamingo",
       "scientific_name": "Phoenicopteridae",
       "category": "bird",
@@ -626,6 +665,7 @@
     },
     {
       "id": 42,
+      "likes": 70,
       "name": "Peacock",
       "scientific_name": "Pavo cristatus",
       "category": "bird",
@@ -642,6 +682,7 @@
     },
     {
       "id": 43,
+      "likes": 70,
       "name": "Ostrich",
       "scientific_name": "Struthio camelus",
       "category": "bird",
@@ -658,6 +699,7 @@
     },
     {
       "id": 44,
+      "likes": 70,
       "name": "Emu",
       "scientific_name": "Dromaius novaehollandiae",
       "category": "bird",
@@ -674,6 +716,7 @@
     },
     {
       "id": 45,
+      "likes": 70,
       "name": "Parrot",
       "scientific_name": "Psittaciformes",
       "category": "bird",
@@ -690,6 +733,7 @@
     },
     {
       "id": 46,
+      "likes": 70,
       "name": "Macaw",
       "scientific_name": "Ara ararauna",
       "category": "bird",
@@ -706,6 +750,7 @@
     },
     {
       "id": 47,
+      "likes": 70,
       "name": "Emperor Penguin",
       "scientific_name": "Aptenodytes forsteri",
       "category": "bird",
@@ -722,6 +767,7 @@
     },
     {
       "id": 48,
+      "likes": 70,
       "name": "Hummingbird",
       "scientific_name": "Trochilidae",
       "category": "bird",
@@ -738,6 +784,7 @@
     },
     {
       "id": 49,
+      "likes": 70,
       "name": "Albatross",
       "scientific_name": "Diomedeidae",
       "category": "bird",
@@ -754,6 +801,7 @@
     },
     {
       "id": 50,
+      "likes": 70,
       "name": "Pelican",
       "scientific_name": "Pelecanus",
       "category": "bird",
@@ -770,6 +818,7 @@
     },
     {
       "id": 51,
+      "likes": 70,
       "name": "Swan",
       "scientific_name": "Cygnus",
       "category": "bird",
@@ -786,6 +835,7 @@
     },
     {
       "id": 52,
+      "likes": 70,
       "name": "Raven",
       "scientific_name": "Corvus corax",
       "category": "bird",
@@ -802,6 +852,7 @@
     },
     {
       "id": 53,
+      "likes": 70,
       "name": "Vulture",
       "scientific_name": "Cathartidae",
       "category": "bird",
@@ -818,6 +869,7 @@
     },
     {
       "id": 54,
+      "likes": 70,
       "name": "Woodpecker",
       "scientific_name": "Picidae",
       "category": "bird",
@@ -834,6 +886,7 @@
     },
     {
       "id": 55,
+      "likes": 70,
       "name": "Crane",
       "scientific_name": "Gruidae",
       "category": "bird",
@@ -850,6 +903,7 @@
     },
     {
       "id": 56,
+      "likes": 70,
       "name": "Stork",
       "scientific_name": "Ciconiidae",
       "category": "bird",
@@ -866,6 +920,7 @@
     },
     {
       "id": 57,
+      "likes": 70,
       "name": "Cockatoo",
       "scientific_name": "Cacatuidae",
       "category": "bird",
@@ -882,6 +937,7 @@
     },
     {
       "id": 58,
+      "likes": 70,
       "name": "King Cobra",
       "scientific_name": "Ophiophagus hannah",
       "category": "reptile",
@@ -898,6 +954,7 @@
     },
     {
       "id": 59,
+      "likes": 70,
       "name": "Reticulated Python",
       "scientific_name": "Malayopython reticulatus",
       "category": "reptile",
@@ -914,6 +971,7 @@
     },
     {
       "id": 60,
+      "likes": 70,
       "name": "Nile Crocodile",
       "scientific_name": "Crocodylus niloticus",
       "category": "reptile",
@@ -930,6 +988,7 @@
     },
     {
       "id": 61,
+      "likes": 70,
       "name": "Alligator",
       "scientific_name": "Alligator mississippiensis",
       "category": "reptile",
@@ -946,6 +1005,7 @@
     },
     {
       "id": 62,
+      "likes": 70,
       "name": "Chameleon",
       "scientific_name": "Chamaeleonidae",
       "category": "reptile",
@@ -962,6 +1022,7 @@
     },
     {
       "id": 63,
+      "likes": 70,
       "name": "Gecko",
       "scientific_name": "Gekkonidae",
       "category": "reptile",
@@ -978,6 +1039,7 @@
     },
     {
       "id": 64,
+      "likes": 70,
       "name": "Galápagos Tortoise",
       "scientific_name": "Chelonoidis nigra",
       "category": "reptile",
@@ -994,6 +1056,7 @@
     },
     {
       "id": 65,
+      "likes": 70,
       "name": "Green Sea Turtle",
       "scientific_name": "Chelonia mydas",
       "category": "reptile",
@@ -1010,6 +1073,7 @@
     },
     {
       "id": 66,
+      "likes": 70,
       "name": "Iguana",
       "scientific_name": "Iguanidae",
       "category": "reptile",
@@ -1026,6 +1090,7 @@
     },
     {
       "id": 67,
+      "likes": 70,
       "name": "Monitor Lizard",
       "scientific_name": "Varanidae",
       "category": "reptile",
@@ -1042,6 +1107,7 @@
     },
     {
       "id": 68,
+      "likes": 70,
       "name": "Gila Monster",
       "scientific_name": "Heloderma suspectum",
       "category": "reptile",
@@ -1058,6 +1124,7 @@
     },
     {
       "id": 69,
+      "likes": 70,
       "name": "Rattlesnake",
       "scientific_name": "Crotalus",
       "category": "reptile",
@@ -1074,6 +1141,7 @@
     },
     {
       "id": 70,
+      "likes": 70,
       "name": "Great White Shark",
       "scientific_name": "Carcharodon carcharias",
       "category": "fish",
@@ -1090,6 +1158,7 @@
     },
     {
       "id": 71,
+      "likes": 70,
       "name": "Hammerhead Shark",
       "scientific_name": "Sphyrna",
       "category": "fish",
@@ -1106,6 +1175,7 @@
     },
     {
       "id": 72,
+      "likes": 70,
       "name": "Clownfish",
       "scientific_name": "Amphiprioninae",
       "category": "fish",
@@ -1122,6 +1192,7 @@
     },
     {
       "id": 73,
+      "likes": 70,
       "name": "Anglerfish",
       "scientific_name": "Lophiiformes",
       "category": "fish",
@@ -1138,6 +1209,7 @@
     },
     {
       "id": 74,
+      "likes": 70,
       "name": "Lionfish",
       "scientific_name": "Pterois",
       "category": "fish",
@@ -1154,6 +1226,7 @@
     },
     {
       "id": 75,
+      "likes": 70,
       "name": "Goldfish",
       "scientific_name": "Carassius auratus",
       "category": "fish",
@@ -1170,6 +1243,7 @@
     },
     {
       "id": 76,
+      "likes": 70,
       "name": "Stingray",
       "scientific_name": "Dasyatidae",
       "category": "fish",
@@ -1186,6 +1260,7 @@
     },
     {
       "id": 77,
+      "likes": 70,
       "name": "Catfish",
       "scientific_name": "Siluriformes",
       "category": "fish",
@@ -1202,6 +1277,7 @@
     },
     {
       "id": 78,
+      "likes": 70,
       "name": "Tuna",
       "scientific_name": "Thunnus",
       "category": "fish",
@@ -1218,6 +1294,7 @@
     },
     {
       "id": 79,
+      "likes": 70,
       "name": "Pufferfish",
       "scientific_name": "Tetraodontidae",
       "category": "fish",
@@ -1234,6 +1311,7 @@
     },
     {
       "id": 80,
+      "likes": 70,
       "name": "Seal",
       "scientific_name": "Phocidae",
       "category": "mammal",
@@ -1250,6 +1328,7 @@
     },
     {
       "id": 81,
+      "likes": 70,
       "name": "Walrus",
       "scientific_name": "Odobenus rosmarus",
       "category": "mammal",
@@ -1266,6 +1345,7 @@
     },
     {
       "id": 82,
+      "likes": 70,
       "name": "Manatee",
       "scientific_name": "Trichechus",
       "category": "mammal",
@@ -1282,6 +1362,7 @@
     },
     {
       "id": 83,
+      "likes": 70,
       "name": "Narwhal",
       "scientific_name": "Monodon monoceros",
       "category": "mammal",
@@ -1298,6 +1379,7 @@
     },
     {
       "id": 85,
+      "likes": 70,
       "name": "Dugong",
       "scientific_name": "Dugong dugon",
       "category": "mammal",
@@ -1314,6 +1396,7 @@
     },
     {
       "id": 86,
+      "likes": 70,
       "name": "Hedgehog",
       "scientific_name": "Erinaceinae",
       "category": "mammal",
@@ -1330,6 +1413,7 @@
     },
     {
       "id": 88,
+      "likes": 70,
       "name": "Ferret",
       "scientific_name": "Mustela putorius furo",
       "category": "mammal",
@@ -1346,6 +1430,7 @@
     },
     {
       "id": 89,
+      "likes": 70,
       "name": "Platypus",
       "scientific_name": "Ornithorhynchus anatinus",
       "category": "mammal",
@@ -1362,6 +1447,7 @@
     },
     {
       "id": 90,
+      "likes": 70,
       "name": "Tapir",
       "scientific_name": "Tapiridae",
       "category": "mammal",
@@ -1378,6 +1464,7 @@
     },
     {
       "id": 91,
+      "likes": 70,
       "name": "Antelope",
       "scientific_name": "Bovidae",
       "category": "mammal",
@@ -1394,6 +1481,7 @@
     },
     {
       "id": 92,
+      "likes": 70,
       "name": "Oryx",
       "scientific_name": "Oryx",
       "category": "mammal",
@@ -1410,6 +1498,7 @@
     },
     {
       "id": 93,
+      "likes": 70,
       "name": "Kudu",
       "scientific_name": "Tragelaphus strepsiceros",
       "category": "mammal",
@@ -1426,6 +1515,7 @@
     },
     {
       "id": 94,
+      "likes": 70,
       "name": "Bongo",
       "scientific_name": "Tragelaphus eurycerus",
       "category": "mammal",
@@ -1442,6 +1532,7 @@
     },
     {
       "id": 95,
+      "likes": 70,
       "name": "Gazelle",
       "scientific_name": "Antilopinae",
       "category": "mammal",
@@ -1458,6 +1549,7 @@
     },
     {
       "id": 96,
+      "likes": 70,
       "name": "Moose",
       "scientific_name": "Alces alces",
       "category": "mammal",
@@ -1474,6 +1566,7 @@
     },
     {
       "id": 97,
+      "likes": 70,
       "name": "Lynx",
       "scientific_name": "Lynx",
       "category": "mammal",
@@ -1490,6 +1583,7 @@
     },
     {
       "id": 98,
+      "likes": 70,
       "name": "Jaguar",
       "scientific_name": "Panthera onca",
       "category": "mammal",
@@ -1506,6 +1600,7 @@
     },
     {
       "id": 99,
+      "likes": 70,
       "name": "Panther",
       "scientific_name": "Puma concolor",
       "category": "mammal",
@@ -1522,6 +1617,7 @@
     },
     {
       "id": 100,
+      "likes": 70,
       "name": "Squirrel",
       "scientific_name": "Sciuridae",
       "category": "mammal",
