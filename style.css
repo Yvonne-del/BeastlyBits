@@ -46,6 +46,7 @@ header {
 }
 
 #home {
+    display: block;
     height: 100%;
     align-items: center;
     justify-content: center;
@@ -103,4 +104,7 @@ header {
     transform: scale(1.2.1);
     background-color: rgba(240, 179, 24, 0.5);
     transition: all 0.3s ease-in-out;
+}
+.section{
+    display: none;
 }
