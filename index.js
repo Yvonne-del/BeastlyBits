@@ -7,7 +7,7 @@ function showSection(sectionId) {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-const baseURL = "http://localhost:3000/animals";
+const baseURL = "https://pawprint-c702.onrender.com";
 const mammalList = document.getElementById("land")
 const birdList = document.getElementById("sky")
 const reptileList = document.getElementById("rocks")
