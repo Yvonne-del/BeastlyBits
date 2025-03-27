@@ -157,11 +157,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
             if (isLiked) {
                 delete likedAnimals[item.id];
-                if (button) button.style.backgroundColor = "grey";
+                if (button) button.style.backgroundColor = "rgb(51, 50, 50)";
                 removeFromLikedSection(item.id);
             } else {
                 likedAnimals[item.id] = true;
-                if (button) button.style.backgroundColor = "green";
+                if (button) button.style.backgroundColor = "rgb(4, 143, 37)";
                 addToLikedSection(item);
             }
 

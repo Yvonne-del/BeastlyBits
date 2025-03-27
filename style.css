@@ -216,6 +216,7 @@ header {
 }
 
 .like-button {
+    background: rgb(51, 50, 50);
     color: rgb(0, 0, 0);
     border: none;
     padding: 8px 12px;
@@ -225,12 +226,8 @@ header {
     margin-right: 10px;
 }
 
-.like-button:hover {
-    background:  rgb(73, 73, 73, 0.6); /* Darker blue on hover */
-}
-
 .like-button.liked {
-    background: rgb(32, 218, 75, 0.3); /* Green when liked */
+    background: rgb(4, 143, 37); /* Green when liked */
 }
 
 
