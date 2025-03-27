@@ -9,7 +9,7 @@ function showSection(sectionId, event) {
 
 
 document.addEventListener("DOMContentLoaded", () => {
-    const baseURL = "http://localhost:3000";
+    const baseURL = "https://pawprint-c702.onrender.com";
     const mammalList = document.getElementById("land");
     const birdList = document.getElementById("sky");
     const reptileList = document.getElementById("rocks");
@@ -68,9 +68,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // Update the button's state based on the current state of the likedAnimals object
         if (likedAnimals[item.id]) {
-            likeButton.style.backgroundColor = "rgb(7, 172, 46)";
+            likeButton.style.backgroundColor = "rgb(4, 143, 37)";
         } else {
-            likeButton.style.backgroundColor = "rgb(51, 50, 50,0.3)";
+            likeButton.style.backgroundColor = "rgb(51, 50, 50)";
         }
 
         likeButton.addEventListener("click", async (event) => {
@@ -157,7 +157,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
             if (isLiked) {
                 delete likedAnimals[item.id];
-                if (button) button.style.backgroundColor = "blue";
+                if (button) button.style.backgroundColor = "grey";
                 removeFromLikedSection(item.id);
             } else {
                 likedAnimals[item.id] = true;
@@ -190,13 +190,21 @@ document.addEventListener("DOMContentLoaded", () => {
                 <p class="animal-scientific"><em>${item.scientific_name}</em></p>
                 <p class="animal-habitat"><strong>Habitat:</strong> ${item.habitat}</p>
             `;
-            
+
+            // Likes Container
+            const likesContainer = document.createElement("div");
+            likesContainer.classList.add("likes-container");
+
+            let unlike = document.createElement("p");
+            unlike.classList.add("likes-count");
+            unlike.textContent = `Don't Like this?`;
+
+
             // Create Remove Like Button
             let removeButton = document.createElement("button");
             removeButton.type = "button";
             removeButton.classList.add("remove-like-button");
             removeButton.textContent = "Remove Like";
-            removeButton.style.backgroundColor = "red";
 
             // Handle unliking
             removeButton.addEventListener("click", async (event) => {
@@ -205,8 +213,11 @@ document.addEventListener("DOMContentLoaded", () => {
                 await updateLikes(item, null, null, true);
             });
             
+            // Append likes and button inside container
+            likesContainer.appendChild(unlike);
+            likesContainer.appendChild(removeButton);
 
-            likedCard.appendChild(removeButton);
+            likedCard.appendChild(likesContainer);
             likedSection.appendChild(likedCard);
 
             likedCard.addEventListener("click", () => showAnimalDetails(item));
@@ -235,7 +246,6 @@ document.addEventListener("DOMContentLoaded", () => {
     function saveLikedAnimals() {
         localStorage.setItem("likedAnimals", JSON.stringify(likedAnimals));
     }
-
 
 
     getAnimals();
