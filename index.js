@@ -197,7 +197,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
             let unlike = document.createElement("p");
             unlike.classList.add("likes-count");
-            unlike.textContent = `Don't Like this?`;
+            unlike.textContent = `Likes: ${item.likes}`;
 
             // Append likes and button inside container
             likesContainer.appendChild(unlike);
