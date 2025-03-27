@@ -199,23 +199,8 @@ document.addEventListener("DOMContentLoaded", () => {
             unlike.classList.add("likes-count");
             unlike.textContent = `Don't Like this?`;
 
-
-            // Create Remove Like Button
-            let removeButton = document.createElement("button");
-            removeButton.type = "button";
-            removeButton.classList.add("remove-like-button");
-            removeButton.textContent = "Remove Like";
-
-            // Handle unliking
-            removeButton.addEventListener("click", async (event) => {
-                event.preventDefault();
-                event.stopPropagation();
-                await updateLikes(item, null, null, true);
-            });
-            
             // Append likes and button inside container
             likesContainer.appendChild(unlike);
-            likesContainer.appendChild(removeButton);
 
             likedCard.appendChild(likesContainer);
             likedSection.appendChild(likedCard);
