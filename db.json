@@ -1595,7 +1595,7 @@
         "The Eurasian lynx is the largest species, which can weigh up to 40 pounds."
       ],
       "population": "Estimated 1 million for all lynx species; specific populations vary.",
-      "image_url": "https://media.istockphoto.com/id/1835504091/photo/the-bobcat-also-known-as-the-red-lynx-is-a-medium-sized-cat-native-to-north-america-it-ranges.webp?a=1&b=1&s=612x612&w=0&k=20&c=JM5EhCpaT26zaW8Atu4pcQHLFVbGTA5zV9M__jj-5hk="
+      "image_url": "https://media.istockphoto.com/id/1475077987/photo/lynx-in-the-bayerischer-wald.webp?a=1&b=1&s=612x612&w=0&k=20&c=8FqL_iOkjLIAubRaF3h80CUfr9CjZhd_vTo8xsb221s="
     },
     {
       "id": "98",
@@ -1647,6 +1647,1127 @@
       ],
       "population": "Estimated several million globally; some species are common in urban areas.",
       "image_url": "https://media.istockphoto.com/id/2150207031/photo/red-squirrel-scotland.webp?a=1&b=1&s=612x612&w=0&k=20&c=r6me5Nf9UWEOlsVGL3jDhaoE79gdTSPiV6WYMY7fUYg="
-    }
+    },
+    {
+        "id": "101",
+        "likes": 15,
+        "name": "Gharial",
+        "scientific_name": "Gavialis gangeticus",
+        "category": "reptile",
+        "description": "The Gharial is a crocodilian known for its long, thin snout, which is adapted for catching fish. This species is primarily found in rivers in the Indian subcontinent.",
+        "habitat": "Rivers and freshwater systems.",
+        "diet": "Carnivore - feeds mainly on fish.",
+        "fun_facts": [
+            "Gharials can hold their breath underwater for up to two hours.",
+            "They have specialized teeth that do not allow them to chew, so they swallow prey whole.",
+            "This species is critically endangered, with fewer than 300 individuals remaining."
+        ],
+        "population": "Estimated at around 300 in the wild.",
+        "image_url": "https://media.istockphoto.com/id/164425016/photo/gharial-crocodile-in-sand.webp?a=1&b=1&s=612x612&w=0&k=20&c=E8ftvqUxdpa3dfP1xZmaf0B0IIf5MT-tX0PNZhOYzBU="
+    },
+    {
+        "id": "103",
+        "likes": 25,
+        "name": "Tuatara",
+        "scientific_name": "Sphenodon punctatus",
+        "category": "reptile",
+        "description": "The Tuatara is a unique reptile native to New Zealand, often referred to as a 'living fossil.' It is the only surviving member of its order, Rhynchocephalia, which thrived around 200 million years ago.",
+        "habitat": "Forests and coastal areas.",
+        "diet": "Carnivore - primarily feeds on insects, small birds, and their eggs.",
+        "fun_facts": [
+            "Tuatara have a third 'eye' on the top of their head that is sensitive to light.",
+            "They can live for over 100 years.",
+            "They take several years to reach sexual maturity."
+        ],
+        "population": "Currently around 60,000 in the wild.",
+        "image_url": "https://media.istockphoto.com/id/487731192/photo/tuatara.jpg?s=612x612&w=0&k=20&c=ptM3-mhEnzMW5NhLqeQoobBKjcRfrpmD0Mz9dAukp_M="
+    },
+    {
+        "id": "104",
+        "likes": 30,
+        "name": "Pygmy Seahorse",
+        "scientific_name": "Hippocampus bargibanti",
+        "category": "fish",
+        "description": "This tiny seahorse is found living among sea fans in coral reefs. It is hard to spot due to its small size and excellent camouflage.",
+        "habitat": "Reef environments, especially around gorgonian corals.",
+        "diet": "Carnivore - feeds on small crustaceans.",
+        "fun_facts": [
+            "Pygmy seahorses are less than 2.5 cm in size.",
+            "They can change color to match their surroundings.",
+            "They are monogamous and form lifelong bonds."
+        ],
+        "population": "Unknown, but not considered endangered.",
+        "image_url": "https://media.istockphoto.com/id/1156323189/photo/master-of-camouflage-denises-pygmy-seahorse-hippocampus-denise-raja-ampat-indonesia.webp?a=1&b=1&s=612x612&w=0&k=20&c=dC3Svtu1p84yuLChhLzApcGNY4mSxgptKSsxMKvVKCU="
+    },
+    {
+        "id": "105",
+        "likes": 40,
+        "name": "Aye-Aye",
+        "scientific_name": "Daubentonia madagascariensis",
+        "category": "mammal",
+        "description": "The Aye-Aye is a type of lemur from Madagascar, known for its distinct long middle finger, which it uses to extract insects from tree bark.",
+        "habitat": "Tropical forests.",
+        "diet": "Omnivore - primarily feeds on wood-boring larvae and fruits.",
+        "fun_facts": [
+            "The Aye-Aye is both nocturnal and solitary.",
+            "It has been misunderstood as an omen of death in local culture.",
+            "Aye-Ayes can live up to 20 years in captivity."
+        ],
+        "population": "Estimated at around 10,000 in the wild.",
+        "image_url": "https://media.istockphoto.com/id/690807138/photo/aye-aye-nocturnal-lemur-of-madagascar.webp?a=1&b=1&s=612x612&w=0&k=20&c=Blc5evKuQhAKO04S_HSVrXenqWNWQASc6_gg5mJbs7A="
+    },
+    {
+        "id": "106",
+        "likes": 50,
+        "name": "Leafcutter Ant",
+        "scientific_name": "Atta cephalotes",
+        "category": "insect",
+        "description": "Leafcutter ants are known for their unique behavior of cutting leaves and using them to cultivate fungus, which serves as their primary food source.",
+        "habitat": "Tropical forests.",
+        "diet": "Herbivore - primarily feeds on the fungus they cultivate.",
+        "fun_facts": [
+            "Leafcutter ants can carry objects up to 50 times their body weight.",
+            "They live in large colonies that can number in the millions.",
+            "The fungus they cultivate is specially adapted to grow on the leaves they cut."
+        ],
+        "population": "Unknown, found in many locations across Central and South America.",
+        "image_url": "https://media.istockphoto.com/id/1491860074/photo/leaf-cutter-ant.webp?a=1&b=1&s=612x612&w=0&k=20&c=z70lxDYHQ-EP_Ok9caLOWa4l_yWwrsPnsMIVkU3pdxw="
+    },
+    {
+        "id": "107",
+        "likes": 60,
+        "name": "Glass Frog",
+        "scientific_name": "Centrolenidae",
+        "category": "reptile",
+        "description": "Glass frogs are known for their translucent skin that allows you to see their internal organs. They are primarily found in Central and South America.",
+        "habitat": "Rainforests near streams.",
+        "diet": "Carnivore - feeds on small insects.",
+        "fun_facts": [
+            "There are over 150 species of glass frogs.",
+            "Their translucent skin provides excellent camouflage.",
+            "Males call to attract females during the breeding season."
+        ],
+        "population": "Varies by species, some are endangered.",
+        "image_url": "https://media.istockphoto.com/id/1364425539/photo/spiny-cochran-glass-frog.webp?a=1&b=1&s=612x612&w=0&k=20&c=Ds7624gYM7jCAVJkHC96CfHN5ZtR0gA4JYo4iwednSk="
+    },
+    {
+        "id": "108",
+        "likes": 70,
+        "name": "Blue Poison Dart Frog",
+        "scientific_name": "Dendrobates tinctorius",
+        "category": "amphibian",
+        "description": "This small, brightly colored frog is native to the tropical forests of Madagascar, known for its potent poison.",
+        "habitat": "Tropical rainforests.",
+        "diet": "Carnivore - feeds on ants and termites.",
+        "fun_facts": [
+            "The bright coloration warns predators of its toxicity.",
+            "Indigenous people have used their poison for hunting.",
+            "In captivity, they lose their toxicity due to diet."
+        ],
+        "population": "Population levels decreasing due to habitat loss.",
+        "image_url": "https://media.istockphoto.com/id/500344673/photo/azure-dart-frog-dendrobates-azureus.webp?a=1&b=1&s=612x612&w=0&k=20&c=Gh5RJohSwsgPMwnuEy1QyOnKI5JBs8U4ya9p2Wo_M8A="
+    },
+    {
+        "id": "109",
+        "likes": 80,
+        "name": "Mudskipper",
+        "scientific_name": "Periophthalmus",
+        "category": "fish",
+        "description": "The Mudskipper is a unique fish that can move on land and use its pectoral fins to walk. They are typically found in intertidal zones.",
+        "habitat": "Mudflats and mangroves.",
+        "diet": "Carnivore - feeds on small invertebrates.",
+        "fun_facts": [
+            "Mudskippers can breathe through their skin and the lining of their mouth.",
+            "They can survive several hours out of water.",
+            "They use their fins to 'walk' across the land."
+        ],
+        "population": "Known to be common, but specific numbers are difficult to determine.",
+        "image_url": "https://media.istockphoto.com/id/2163676101/photo/wild-mudskipper-in-bako-national-park-on-the-malaysian-side-of-borneo-asia.webp?a=1&b=1&s=612x612&w=0&k=20&c=cOpFhTySvYE4i1XOHsHDLb-v6B3KLl6WOUewxHORla0="
+    },
+    {
+        "id": "110",
+        "likes": 90,
+        "name": "Goliath Beetle",
+        "scientific_name": "Goliathus goliatus",
+        "category": "insect",
+        "description": "One of the largest beetles in the world, the Goliath Beetle can grow up to 4 inches long and weighs as much as 3.5 ounces.",
+        "habitat": "Tropical forests in Africa.",
+        "diet": "Herbivore - primarily feeds on tree leaves.",
+        "fun_facts": [
+            "They can lift objects over 850 times their body weight.",
+            "The larvae can take up to two years to mature.",
+            "They undergo complete metamorphosis."
+        ],
+        "population": "Locally common but not assessed globally.",
+        "image_url": "https://media.istockphoto.com/id/104278623/photo/goliath-beetle.webp?a=1&b=1&s=612x612&w=0&k=20&c=8NZ0YGehy67cV5W_sLaUQ8FzHdI_eh2Cud6xlv-oAp8="
+    },
+    {
+        "id": "111",
+        "likes": 25,
+        "name": "Spotted Hyena",
+        "scientific_name": "Crocuta crocuta",
+        "category": "mammal",
+        "description": "The Spotted Hyena is a large carnivore known for its unique vocalizations, social structures, and hunting skills.",
+        "habitat": "Savannas, grasslands, and woodlands.",
+        "diet": "Carnivore - feeds on large mammals, scavenging and hunting.",
+        "fun_facts": [
+            "They have one of the loudest calls in the animal kingdom.",
+            "Hyenas have a matriarchal society, where females dominate males.",
+            "They can run for long distances at a speed of up to 65 km/h."
+        ],
+        "population": "Over 100,000 in the wild.",
+        "image_url": "https://media.istockphoto.com/id/1297773195/photo/spotted-hyena.webp?a=1&b=1&s=612x612&w=0&k=20&c=1wqgxsDhbueNX7qiWqfMydkW2KaDiQMV40TvLMxJv_8="
+    },
+    {
+        "id": "112",
+        "likes": 35,
+        "name": "Marabou Stork",
+        "scientific_name": "Leptoptilos crumeniferus",
+        "category": "bird",
+        "description": "The Marabou Stork is a large scavenging bird known for its large size and distinctive bald head.",
+        "habitat": "Open savanna, wetlands, and near human habitation.",
+        "diet": "Carnivore - primarily feeds on carrion.",
+        "fun_facts": [
+            "They can have a wingspan of up to 10 feet.",
+            "Marabou storks are known for their bizarre courtship displays.",
+            "Their bald heads help keep them clean when feeding on carcasses."
+        ],
+        "population": "Estimated around 300,000 in the wild.",
+        "image_url": "https://plus.unsplash.com/premium_photo-1661959970378-db0e7c798506?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TWFyYWJvdSUyMFN0b3JrfGVufDB8fDR8fHww"
+    },
+    {
+        "id": "113",
+        "likes": 40,
+        "name": "Binturong",
+        "scientific_name": "Arctictis binturong",
+        "category": "mammal",
+        "description": "The Binturong, also known as the bearcat, is a tree-dwelling mammal native to Southeast Asia, recognized for its unique scent similar to buttered popcorn.",
+        "habitat": "Rainforests and tropical forests.",
+        "diet": "Omnivore - eats fruits, leaves, and the occasional small animal.",
+        "fun_facts": [
+            "Binturongs have a prehensile tail that helps them navigate trees.",
+            "They are not related to bears or cats despite their name.",
+            "They have a strong musk smell that helps deter predators."
+        ],
+        "population": "Estimated 10,000 to 20,000 in the wild.",
+        "image_url": "https://media.istockphoto.com/id/1095387808/photo/binturong.webp?a=1&b=1&s=612x612&w=0&k=20&c=xc8F4T1vEs55Yd1B9huOA0wg592geKxeVpSDJlCveuA="
+    },
+    {
+        "id": "114",
+        "likes": 45,
+        "name": "Spoonbill",
+        "scientific_name": "Platalea",
+        "category": "bird",
+        "description": "Spoonbills are wading birds known for their distinctively shaped bills, which they use to forage in shallow waters.",
+        "habitat": "Wetlands, marshes, and coastal regions.",
+        "diet": "Carnivore - feeds on small fish and invertebrates.",
+        "fun_facts": [
+            "There are several species of spoonbills worldwide, including the Roseate Spoonbill.",
+            "They can often be seen foraging in groups.",
+            "Spoonbills are known for their elaborate courtship displays."
+        ],
+        "population": "Varies by species, with some endangered.",
+        "image_url": "https://media.istockphoto.com/id/2169694445/photo/close-up-of-black-faced-spoonbill-with-breeding-plumage-standing-in-water-mai-po-natural.webp?a=1&b=1&s=612x612&w=0&k=20&c=tGgJWKTjOCjOr7XDVa9gA1P3aTIvu4o2Y5-Je3CDcAA="
+    },
+    {
+        "id": "115",
+        "likes": 50,
+        "name": "Takin",
+        "scientific_name": "Budorcas taxicolor",
+        "category": "mammal",
+        "description": "The Takin is a large, muscular herbivore found in the eastern Himalayas and parts of China, known for its unique appearance and thick fur.",
+        "habitat": "Mountainous regions, usually in dense vegetation.",
+        "diet": "Herbivore - feeds on grasses, leaves, and bamboo.",
+        "fun_facts": [
+            "They are the national animal of Bhutan.",
+            "Takin have a very active social structure, known to form herds.",
+            "They can weigh over 600 pounds."
+        ],
+        "population": "Around 20,000 in the wild.",
+        "image_url": "https://media.istockphoto.com/id/513360487/photo/golden-takin.webp?a=1&b=1&s=612x612&w=0&k=20&c=V3RKrlSIxmUGjVDj4CV0li0CdSOw_NyW61bIFus58nY="
+    },
+    {
+        "id": "116",
+        "likes": 55,
+        "name": "Cornsnake",
+        "scientific_name": "Pantherophis guttatus",
+        "category": "reptile",
+        "description": "The Cornsnake is a non-venomous snake native to North America, commonly kept as a pet due to its docile nature.",
+        "habitat": "Grasslands, forests, and farmland.",
+        "diet": "Carnivore - primarily feeds on small rodents.",
+        "fun_facts": [
+            "Cornsnakes can grow up to 6 feet long.",
+            "They are excellent climbers and swimmers.",
+            "Their coloration provides effective camouflage in their natural habitat."
+        ],
+        "population": "Common in the wild; exact numbers unknown.",
+        "image_url": "https://media.istockphoto.com/id/162579385/photo/corn-snake-on-a-branch.webp?a=1&b=1&s=612x612&w=0&k=20&c=uwddEbIesN7Kk-y12K8pEbwVZP6fkom2EKkcQPM2yUA="
+    },
+    {
+        "id": "117",
+        "likes": 60,
+        "name": "Fennec Fox",
+        "scientific_name": "Vulpes zerda",
+        "category": "mammal",
+        "description": "The Fennec Fox is a small nocturnal fox with large ears, adapted for living in the sandy deserts of North Africa.",
+        "habitat": "Sahara Desert and surrounding areas.",
+        "diet": "Omnivore - feeds on insects, small mammals, and plants.",
+        "fun_facts": [
+            "Fennec foxes can tolerate temperatures up to 104°F.",
+            "Their large ears help dissipate heat and improve hearing.",
+            "They are social animals living in family groups."
+        ],
+        "population": "Estimated 250,000 in the wild.",
+        "image_url": "https://media.istockphoto.com/id/172132840/photo/desert-fox.webp?a=1&b=1&s=612x612&w=0&k=20&c=_ZzVV0R3KhkyCKKxN-OIFaZRYHfQJ62yNdJzmof3q1w="
+    },
+    {
+        "id": "118",
+        "likes": 65,
+        "name": "Saola",
+        "scientific_name": "Pseudoryx nghetinhensis",
+        "category": "mammal",
+        "description": "The Saola, also known as the Asian unicorn, is an extremely rare mammal found in the Annamite Range of Vietnam and Laos.",
+        "habitat": "Tropical forests.",
+        "diet": "Herbivore - feeds on leaves and shrubs.",
+        "fun_facts": [
+            "First discovered in 1992, making it a relatively new species in the scientific community.",
+            "Saolas have striking long horns and can grow to about 85 cm at the shoulder.",
+            "They are elusive and rarely seen in the wild."
+        ],
+        "population": "Estimated fewer than 100 in the wild.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Saola_%28Pseudoryx_nghetinhensis%29.jpg"
+    },
+    {
+        "id": "119",
+        "likes": 70,
+        "name": "Musk Ox",
+        "scientific_name": "Ovibos moschatus",
+        "category": "mammal",
+        "description": "The Musk Ox is a large, shaggy mammal native to the Arctic, known for its thick coat and strong odor during mating season.",
+        "habitat": "Tundra and Arctic environments.",
+        "diet": "Herbivore - primarily eats grasses, moss, and lichens.",
+        "fun_facts": [
+            "Musk oxen can weigh up to 900 pounds.",
+            "They have a unique social structure, forming large herds.",
+            "Their thick coat helps them survive extreme cold."
+        ],
+        "population": "About 80,000 in the wild.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Musk_Ox_at_the_Baffin_Island.jpg"
+    },
+    {
+        "id": "120",
+        "likes": 75,
+        "name": "Firefly",
+        "scientific_name": "Lampyridae",
+        "category": "insect",
+        "description": "Fireflies are bioluminescent insects known for their glowing abdomens, which they use for communication and mating.",
+        "habitat": "Moist, humid environments, such as gardens, fields, and forests.",
+        "diet": "Carnivore - larvae feed on small insects and snails; adults may not eat at all.",
+        "fun_facts": [
+            "Fireflies use their light to attract mates; different species have different patterns.",
+            "They glow in response to chemicals in their bodies.",
+            "Not all firefly species produce light."
+        ],
+        "population": "Common in many regions worldwide, but numbers are declining due to habitat loss.",
+        "image_url": "https://media.istockphoto.com/id/2159646624/photo/glowing-firefly-at-night-on-stones.webp?a=1&b=1&s=612x612&w=0&k=20&c=GVQcSRXEc-g0UWrknONbpNQlSmse9sRbYhmHcSgD2h0="
+    },
+    {
+        "id": "121",
+        "likes": 80,
+        "name": "Eurasian Lynx",
+        "scientific_name": "Lynx lynx",
+        "category": "mammal",
+        "description": "The Eurasian Lynx is a medium-sized wild cat known for its tufted ears and spotted fur, primarily found in Europe and Asia.",
+        "habitat": "Forests, mountainous areas, and tundras.",
+        "diet": "Carnivore - feeds on deer, rabbits, and birds.",
+        "fun_facts": [
+            "They can jump up to 3 meters in the air.",
+            "Eurasian lynx are solitary animals.",
+            "They have excellent hearing due to their large ears."
+        ],
+        "population": "Estimated around 50,000 in the wild.",
+        "image_url": "https://media.istockphoto.com/id/1461758643/photo/young-eurasian-lynx.webp?a=1&b=1&s=612x612&w=0&k=20&c=q4cyRzJunEDLOfYzP3gExHzuhRZO7hF8o9Dn0HKXw7U="
+    },
+    {
+        "id": "122",
+        "likes": 85,
+        "name": "Arabian Oryx",
+        "scientific_name": "Oryx leucoryx",
+        "category": "mammal",
+        "description": "The Arabian Oryx is a species of antelope that went extinct in the wild in the 1970s but has been successfully reintroduced.",
+        "habitat": "Deserts and dry regions.",
+        "diet": "Herbivore - primarily grazes on grasses and shrubs.",
+        "fun_facts": [
+            "Arabian oryxes can survive without water for long periods.",
+            "They have long, straight horns, which can be up to 1 meter long.",
+            "They were once hunted to near extinction for their beautiful horns."
+        ],
+        "population": "Around 1,000 in the wild, and more in reserves.",
+        "image_url": "https://media.istockphoto.com/id/174605374/photo/white-oryx-in-dubai.webp?a=1&b=1&s=612x612&w=0&k=20&c=sIk8I6XV1fPh4ZgEEUc9XanO3VDAEn-R1yVpUWc3-9A="
+    },
+    {
+        "id": "123",
+        "likes": 90,
+        "name": "Okapi",
+        "scientific_name": "Okapia johnstoni",
+        "category": "mammal",
+        "description": "The Okapi, often referred to as the zebra giraffe, is a unique herbivore from the rainforests of the Democratic Republic of Congo.",
+        "habitat": "Tropical forests.",
+        "diet": "Herbivore - feeds on leaves, fruits, and grasses.",
+        "fun_facts": [
+            "Despite its zebra-like stripes, the okapi is more closely related to the giraffe.",
+            "They have a very keen sense of hearing.",
+            "Okapis communicate through vocalizations and scent markings."
+        ],
+        "population": "Estimated 25,000 in the wild.",
+        "image_url": "https://media.istockphoto.com/id/115862946/photo/okapi-okapia-johnstoni.webp?a=1&b=1&s=612x612&w=0&k=20&c=pYsDxfkEJ7RowmBXV7YLF92xtNEQdFngP_36JNffdvw="
+    },
+    {
+        "id": "124",
+        "likes": 100,
+        "name": "Emperor Moth",
+        "scientific_name": "Saturnia pavonia",
+        "category": "insect",
+        "description": "The Emperor Moth is one of the largest species of moths in Europe, known for its striking appearances and colorful patterns.",
+        "habitat": "Wooded areas and scrublands.",
+        "diet": "Herbivore - larvae primarily feed on willow and other trees.",
+        "fun_facts": [
+            "Moths are often mistaken for butterflies, but they are nocturnal.",
+            "Emperor moths have a wingspan of up to 6 inches.",
+            "Adults do not eat; they solely rely on their fat reserves."
+        ],
+        "population": "Common throughout Europe, but specific numbers unknown.",
+        "image_url": "https://media.istockphoto.com/id/522316762/photo/small-emperor-moth.webp?a=1&b=1&s=612x612&w=0&k=20&c=CWmQCg1ZND8rrwhMyP2rYU-PR-XXo8bW6vVDEFU8i78="
+    },
+    {
+        "id": "125",
+        "likes": 105,
+        "name": "African Grey Parrot",
+        "scientific_name": "Psittacus erithacus",
+        "category": "bird",
+        "description": "The African Grey Parrot is a medium-sized parrot known for its high intelligence and ability to mimic human speech.",
+        "habitat": "Rainforests and savannas.",
+        "diet": "Herbivore - primarily feeds on seeds, nuts, and fruits.",
+        "fun_facts": [
+            "African Grey Parrots can live up to 60 years in captivity.",
+            "They have an exceptional ability to solve problems and puzzles.",
+            "Recognized for their advanced cognitive skills."
+        ],
+        "population": "Unknown, but habitat loss is a concern.",
+        "image_url": "https://media.istockphoto.com/id/2135539336/photo/two-african-grey-parrots-perched-on-branch-scratching-each-other.webp?a=1&b=1&s=612x612&w=0&k=20&c=bADWNP1qGCcX_iS5a3euWuXqj_IuxXlAh4Z0v4fdJnw="
+    },
+    {
+        "id": "126",
+        "likes": 110,
+        "name": "Mandrill",
+        "scientific_name": "Mandrillus sphinx",
+        "category": "mammal",
+        "description": "The Mandrill is a large primate found in the rainforests of Central Africa, known for its colorful face and rear.",
+        "habitat": "Tropical rainforests.",
+        "diet": "Omnivore - feeds on fruits, seeds, and small animals.",
+        "fun_facts": [
+            "Mandrills are the largest species of monkey.",
+            "Their vivid colors serve as a signal to others in their species.",
+            "They are mostly ground-dwelling but can climb trees."
+        ],
+        "population": "Estimated 1,500 in the wild.",
+        "image_url": "https://media.istockphoto.com/id/943713082/photo/mandrill-at-the-zoo-in-duisburg.webp?a=1&b=1&s=612x612&w=0&k=20&c=i6fMI4QWzKcOgs6E8MarNbsxnwm8nwnpRvgHY1sY1tY="
+    },
+    {
+        "id": "127",
+        "likes": 115,
+        "name": "Indigo Bunting",
+        "scientific_name": "Passerina cyanea",
+        "category": "bird",
+        "description": "The Indigo Bunting is a small migratory songbird known for its vibrant blue plumage in males.",
+        "habitat": "Open woodlands and fields.",
+        "diet": "Omnivore - feeds on seeds, berries, and insects.",
+        "fun_facts": [
+            "The male's bright blue feathers fade during the winter months.",
+            "They are known for their beautiful singing, especially during mating season.",
+            "Indigo Buntings are short-distance migrators."
+        ],
+        "population": "About 2 million in the wild.",
+        "image_url": "https://media.istockphoto.com/id/1684716201/photo/indigo-bunting-with-sunflowers.webp?a=1&b=1&s=612x612&w=0&k=20&c=mLx5JbS-jFVreW3xEZ8Jw9VKkrip8wmZ5uoErtICiMg="
+    },
+    {
+        "id": "128",
+        "likes": 125,
+        "name": "Clouded Leopard",
+        "scientific_name": "Neofelis nebulosa",
+        "category": "mammal",
+        "description": "The Clouded Leopard is a medium-sized wild cat native to the forests of Southeast Asia, noted for its cloud-like patterns on the fur.",
+        "habitat": "Tropical and subtropical rainforests.",
+        "diet": "Carnivore - feeds on birds, monkeys, and deer.",
+        "fun_facts": [
+            "Clouded leopards are excellent climbers and can descend trees headfirst.",
+            "They have a unique hunting style, often ambushing prey from above.",
+            "Their population is declining due to habitat loss and poaching."
+        ],
+        "population": "Estimated 10,000 in the wild.",
+        "image_url": "https://media.istockphoto.com/id/172170247/photo/clouded-leopard.webp?a=1&b=1&s=612x612&w=0&k=20&c=OUExsctJrfnuE69q0NaZOJS-TWrNkQGYwyPguQr-wSo="
+    },
+    {
+        "id": "129",
+        "likes": 130,
+        "name": "Shooters Bee",
+        "scientific_name": "Megachile rotundata",
+        "category": "insect",
+        "description": "The Shooters Bee is a solitary bee species known for pollinating alfalfa and other crops.",
+        "habitat": "Grasslands and fields.",
+        "diet": "Herbivore - feeds on nectar and pollen.",
+        "fun_facts": [
+            "They play a significant role in agricultural productivity.",
+            "Shooters Bees are solitary and do not live in hives.",
+            "They have a very short lifespan."
+        ],
+        "population": "Population numbers decrease due to habitat loss.",
+        "image_url": "https://images.unsplash.com/photo-1502809842744-cad97ee732ac?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2hvb3RlcnMlMjBiZWV8ZW58MHx8NHx8fDA%3D"
+    },
+    {
+        "id": "130",
+        "likes": 135,
+        "name": "Cotton-top Tamarin",
+        "scientific_name": "Saguinus oedipus",
+        "category": "mammal",
+        "description": "The Cotton-top Tamarin is a small monkey native to Colombia, known for its distinctive white crest of fur and sociable nature.",
+        "habitat": "Tropical forests.",
+        "diet": "Omnivore - feeds on fruits, insects, and small vertebrates.",
+        "fun_facts": [
+            "Cotton-top Tamarins are highly social and live in extended family groups.",
+            "They are very vocal and communicate using various calls.",
+            "This species is critically endangered due to habitat destruction."
+        ],
+        "population": "Fewer than 6,000 in the wild.",
+        "image_url": "https://media.istockphoto.com/id/174860834/photo/cotton-top-tamarin.webp?a=1&b=1&s=612x612&w=0&k=20&c=Xb5YZbDzu89V3R2U_53DREAZkj9CZOAo1Uy5QHMVZuk="
+    },
+    {
+        "id": "131",
+        "likes": 140,
+        "name": "Shoebill",
+        "scientific_name": "Balaeniceps rex",
+        "category": "bird",
+        "description": "The Shoebill is a large bird native to the swamps of central tropical Africa, known for its enormous shoe-shaped bill.",
+        "habitat": "Wetlands and swamps.",
+        "diet": "Carnivore - primarily feeds on fish and amphibians.",
+        "fun_facts": [
+            "Shoebills can grow over 4 feet tall.",
+            "They have a unique hunting style, often standing still for long periods to ambush prey.",
+            "Their population is declining due to habitat loss."
+        ],
+        "population": "Estimated under 10,000 in the wild.",
+        "image_url": "https://media.istockphoto.com/id/1166067883/photo/wildlife-shot-of-a-rare-shoebill.webp?a=1&b=1&s=612x612&w=0&k=20&c=7smUQFAgfQkfaUqpSSsI7Iczzrq1UhWOsrkkptnIbS4="
+    },
+    {
+        "id": "132",
+        "likes": 145,
+        "name": "Numbat",
+        "scientific_name": "Myrmecobius fasciatus",
+        "category": "mammal",
+        "description": "The Numbat is an insectivorous marsupial native to Australia, known for its long tongue and affinity for ants and termites.",
+        "habitat": "Woodlands and forests.",
+        "diet": "Carnivore - primarily feeds on termites.",
+        "fun_facts": [
+            "Numbats are diurnal and often found foraging during the day.",
+            "They once roamed widely across Australia but now are confined to a few reserves.",
+            "Numbats have a unique coloration with stripes across their back."
+        ],
+        "population": "Fewer than 1,000 individuals in the wild.",
+        "image_url": "https://media.istockphoto.com/id/1340499129/photo/numbat.webp?a=1&b=1&s=612x612&w=0&k=20&c=jNw2jdY86mrB2JPO6VEvE4DFRn1T1ff3x_hwz-9hnjs="
+    },
+    {
+        "id": "133",
+        "likes": 150,
+        "name": "Zorilla",
+        "scientific_name": "Ictonyx striatus",
+        "category": "mammal",
+        "description": "The Zorilla, also known as the striped polecat, is a small carnivorous mammal found in Africa, noted for its distinct stripes and strong odor.",
+        "habitat": "Savannas and forests.",
+        "diet": "Carnivore - feeds on insects, small mammals, and carrion.",
+        "fun_facts": [
+            "Zorillas can emit a foul-smelling spray to deter predators.",
+            "They are skilled diggers and often create their burrows.",
+            "Despite their appearance, Zorillas are not related to skunks."
+        ],
+        "population": "Common across their range, but exact numbers are unknown.",
+        "image_url": "https://www.joelsartore.com/wp-content/uploads/stock/ANI107/ANI107-00291-1536x1023.jpg"
+    },
+    {
+        "id": "134",
+        "likes": 160,
+        "name": "Sulawesi Cuscus",
+        "scientific_name": "Strigocuscus celebensis",
+        "category": "mammal",
+        "description": "The Sulawesi Cuscus is a tree-dwelling marsupial endemic to Sulawesi, Indonesia, recognized for its large eyes and thick fur.",
+        "habitat": "Tropical rainforests.",
+        "diet": "Herbivore - feeds mainly on leaves and fruits.",
+        "fun_facts": [
+            "They are primarily nocturnal, spending much of the day sleeping.",
+            "Their prehensile tails help them navigate branches.",
+            "Cuscuses can be quite vocal during the night."
+        ],
+        "population": "Locally common; population data is limited.",
+        "image_url": "https://media.istockphoto.com/id/2181983647/photo/sulawesi-bear-cuscus-is-sitting-on-tree.webp?a=1&b=1&s=612x612&w=0&k=20&c=Vs-7jYuQel_epp6Tn2nEOd_kBjtzIV-CL6St-KzC6WI="
+    },
+    {
+        "id": "135",
+        "likes": 170,
+        "name": "Japanese Macaque",
+        "scientific_name": "Macaca fuscata",
+        "category": "mammal",
+        "description": "The Japanese Macaque, also known as the snow monkey, is famous for its habit of bathing in hot springs during winter.",
+        "habitat": "Temperate forests of Japan.",
+        "diet": "Omnivore - feeds on fruits, nuts, seeds, and insects.",
+        "fun_facts": [
+            "They are the northernmost primates, surviving in snowy climates.",
+            "Japanese Macaques are highly social and live in troops.",
+            "Their unique behavior includes grooming and communicating with each other."
+        ],
+        "population": "Approximately 100,000 in the wild.",
+        "image_url": "https://media.istockphoto.com/id/2167884272/photo/japanese-macaques-relaxing-in-hot-spring-during-winter.webp?a=1&b=1&s=612x612&w=0&k=20&c=mZchUtFjYWAp1HJ_E4pcxfdSpPfdSbRtAxwYvVI2N0g="
+    },
+    {
+        "id": "136",
+        "likes": 175,
+        "name": "Pangolin",
+        "scientific_name": "Manis",
+        "category": "mammal",
+        "description": "Pangolins are scaly anteaters known for their unique armor of keratin scales, and they are critically endangered.",
+        "habitat": "Forests and grasslands.",
+        "diet": "Insectivore - primarily feeds on ants and termites.",
+        "fun_facts": [
+            "Pangolins roll into a ball for protection when threatened.",
+            "They have long tongues to extract insects from their burrows.",
+            "They are one of the most trafficked animals in the world."
+        ],
+        "population": "Global population numbers are unknown, but they are critically endangered.",
+        "image_url": "https://media.istockphoto.com/id/1790695464/photo/portrait-of-an-indian-pangolin.webp?a=1&b=1&s=612x612&w=0&k=20&c=hu8QruBQhbv_RfUCsJwAaa3Likzn4Q0Jgl22nqks-n4="
+    },
+    {
+        "id": "137",
+        "likes": 185,
+        "name": "Thorny Devil",
+        "scientific_name": "Moloch horridus",
+        "category": "reptile",
+        "description": "The Thorny Devil is a small lizard from Australia known for its thorny appearance and unique method of capturing water.",
+        "habitat": "Deserts and arid areas.",
+        "diet": "Carnivore - primarily feeds on ants.",
+        "fun_facts": [
+            "Thorny Devils can change color depending on the temperature.",
+            "They collect rainwater and direct it to their mouths using grooves in their skin.",
+            "They can puff up to look larger when threatened."
+        ],
+        "population": "Common in their habitat; exact numbers are unknown.",
+        "image_url": "https://media.istockphoto.com/id/183306593/photo/thorny-devil.webp?a=1&b=1&s=612x612&w=0&k=20&c=0eGoel57XGzvCL6UIqEUCQ-WHes04VYcglQUTDXDcmw="
+    },
+    {
+        "id": "139",
+        "likes": 190,
+        "name": "Lemur Leaf Frog",
+        "scientific_name": "Cruziohyla crayfordi",
+        "category": "amphibian",
+        "description": "The Lemur Leaf Frog is a brightly colored tree frog found in Central America, known for its striking green and yellow hues.",
+        "habitat": "Rainforests near slow-moving streams.",
+        "diet": "Carnivore - primarily feeds on insects.",
+        "fun_facts": [
+            "They change color when they are frightened or stressed.",
+            "The eyes of this species are very prominent, contributing to its unique appearance.",
+            "They are primarily nocturnal."
+        ],
+        "population": "Unknown, but they are experiencing habitat loss.",
+        "image_url": "https://zoo.bca.ac.uk/wp-content/uploads/sites/2/2020/02/BCA-Small-Size-56-1024x684.jpg"
+    },
+    {
+        "id": "139",
+        "likes": 195,
+        "name": "African Wild Dog",
+        "scientific_name": "Lycaon pictus",
+        "category": "mammal",
+        "description": "The African Wild Dog, also known as the painted wolf, is a highly social carnivore known for its unique fur patterns and cooperative hunting.",
+        "habitat": "Savannas and open grasslands.",
+        "diet": "Carnivore - primarily feeds on antelope and small mammals.",
+        "fun_facts": [
+            "They have a success rate of over 80% when hunting in packs.",
+            "African wild dogs are known for their vocalizations and social bonds.",
+            "They are one of the most endangered carnivores in the world."
+        ],
+        "population": "Estimated 6,000 in the wild.",
+        "image_url": "https://media.istockphoto.com/id/1323457138/photo/african-wild-dog.webp?a=1&b=1&s=612x612&w=0&k=20&c=5CHWUdkpthrQKVOb_cPeoDRH2faogciIZk_UO2CLem0="
+    },
+    {
+        "id": "140",
+        "likes": 200,
+        "name": "Kea",
+        "scientific_name": "Nestor notabilis",
+        "category": "bird",
+        "description": "The Kea is a large, intelligent parrot native to New Zealand, known for its curiosity and playful behavior.",
+        "habitat": "Mountainous regions and forests.",
+        "diet": "Omnivore - feeds on fruits, seeds, and even scavenges.",
+        "fun_facts": [
+            "Kea are known for their ability to solve puzzles and use tools.",
+            "They have a strong playful nature and often destroy items out of curiosity.",
+            "Kea can communicate using a range of calls and sounds."
+        ],
+        "population": "Estimated around 3,000 in the wild.",
+        "image_url": "https://images.unsplash.com/photo-1482046187924-50f27dc64333?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8S2VhfGVufDB8fDR8fHww"
+    },
+    {
+        "id": "141",
+        "likes": 205,
+        "name": "Malayan Civet",
+        "scientific_name": "Penelope albiventris",
+        "category": "mammal",
+        "description": "The Malayan Civet is a small, nocturnal mammal known for its long body and distinct markings.",
+        "habitat": "Forests and rural areas.",
+        "diet": "Omnivore - feeds on fruits, insects, and small animals.",
+        "fun_facts": [
+            "Malayan civets are important for seed dispersal.",
+            "They have a strong sense of smell, aiding in foraging.",
+            "Their fur patterns help them blend into their surroundings."
+        ],
+        "population": "Population is decreasing due to habitat loss.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Malay_civet.jpg"
+    },
+    {
+        "id": "142",
+        "likes": 210,
+        "name": "Dhole",
+        "scientific_name": "Cuon alpinus",
+        "category": "mammal",
+        "description": "The Dhole, also known as the Asiatic wild dog, is a highly social carnivore found in Asia, known for its unique pack behavior.",
+        "habitat": "Forests and grasslands.",
+        "diet": "Carnivore - primarily hunts deer and wild boar.",
+        "fun_facts": [
+            "Dholes are known for their unique vocalizations and teamwork in hunts.",
+            "They have a high success rate when hunting in packs.",
+            "Dholes are endangered due to habitat loss and competition with other carnivores."
+        ],
+        "population": "Estimated 2,500-3,000 in the wild.",
+        "image_url": "https://media.istockphoto.com/id/1424883149/photo/portrait-of-dhole.webp?a=1&b=1&s=612x612&w=0&k=20&c=SSDl7Rd-0foORFT29LcNy6OkpzYIu7E-CInxvAvYPSA="
+    },
+    {
+        "id": "143",
+        "likes": 215,
+        "name": "Red-crowned Crane",
+        "scientific_name": "Grus japonensis",
+        "category": "bird",
+        "description": "The Red-crowned Crane is a large bird recognized for its striking white plumage and distinctive red crown.",
+        "habitat": "Wetlands, marshes, and grasslands.",
+        "diet": "Omnivore - feeds on plants, small fish, and insects.",
+        "fun_facts": [
+            "These cranes are known for their elaborate courtship dance.",
+            "The Red-crowned Crane is considered a symbol of longevity in Japanese culture.",
+            "They are socially monogamous and mate for life."
+        ],
+        "population": "Estimated at around 3,000 in the wild.",
+        "image_url": "https://media.istockphoto.com/id/2148501463/photo/red-crowned-cranes-in-spring-in-eastern-hokkaido-parent-and-child-child-rearing-young-birds.webp?a=1&b=1&s=612x612&w=0&k=20&c=EaFZyf9TfgUDPDDlPgO4Xc4v_lzSYZauZ0NCwmyZmS0="
+    },
+    {
+        "id": "144",
+        "likes": 220,
+        "name": "Agama Lizard",
+        "scientific_name": "Agama",
+        "category": "reptile",
+        "description": "Agama Lizards are a type of lizard often recognized for their vibrant colors and social behavior.",
+        "habitat": "Savannahs and rocky areas.",
+        "diet": "Omnivore - feeds on insects, fruits, and vegetables.",
+        "fun_facts": [
+            "Agama lizards can change color to regulate their temperature.",
+            "They are commonly found basking on rocks and walls.",
+            "Agama lizards can live for several years in the wild."
+        ],
+        "population": "Common in their natural habitats; specific numbers vary by species.",
+        "image_url": "https://media.istockphoto.com/id/2177243487/photo/spider-man-agama.webp?a=1&b=1&s=612x612&w=0&k=20&c=wnQm6_WmAO2G6sxGXWMaexMlwBrRzk4E8rGe2YW4We8="
+    },
+    {
+        "id": "145",
+        "likes": 225,
+        "name": "Cuttlefish",
+        "scientific_name": "Sepia",
+        "category": "fish",
+        "description": "Cuttlefish are cephalopods known for their amazing ability to change color and texture for communication and camouflage.",
+        "habitat": "Shallow coastal waters, often in sandy or rocky regions.",
+        "diet": "Carnivore - primarily feeds on crustaceans and fish.",
+        "fun_facts": [
+            "Cuttlefish have a brain-to-body ratio comparable to that of mammals.",
+            "They can display a wide range of colors to communicate.",
+            "Cuttlefish have three hearts and blue blood."
+        ],
+        "population": "Common in many coastal areas; specific numbers not tracked.",
+        "image_url": "https://media.istockphoto.com/id/2170645354/photo/cuttlefish.webp?a=1&b=1&s=612x612&w=0&k=20&c=jZmNE_-X_AmmJttVgMEFQHGBWReXGGxmFUNnN1ucxs4="
+    },
+    {
+        "id": "146",
+        "likes": 230,
+        "name": "Emperor Scorpion",
+        "scientific_name": "Pandinus imperator",
+        "category": "insect",
+        "description": "The Emperor Scorpion is one of the largest scorpions in the world, known for its striking size and intimidating appearance.",
+        "habitat": "Savannas, rainforests, and deserts in Africa.",
+        "diet": "Carnivore - feeds on insects and small arthropods.",
+        "fun_facts": [
+            "They glow under ultraviolet light due to substances in their exoskeletons.",
+            "Emperor scorpions can live for over 8 years in captivity.",
+            "They are relatively docile and are often kept as pets."
+        ],
+        "population": "Common in their range, population numbers vary.",
+        "image_url": "https://media.istockphoto.com/id/2161351263/photo/emperor-scorpion.webp?a=1&b=1&s=612x612&w=0&k=20&c=jLUJBCxxiVurqzTKOObumwoG-OD2bBwBOiLa8r-OQQI="
+    },
+    {
+        "id": "147",
+        "likes": 235,
+        "name": "Giant Anteater",
+        "scientific_name": "Myrmecophaga tridactyla",
+        "category": "mammal",
+        "description": "The Giant Anteater is a large mammal known for its elongated snout and tongue, used to feed predominantly on ants and termites.",
+        "habitat": "Grasslands, savannas, and forests.",
+        "diet": "Insectivore - feeds primarily on ants and termites.",
+        "fun_facts": [
+            "Giant anteaters can consume up to 30,000 insects in a single day.",
+            "They use their strong claws for digging into ant mounds.",
+            "Giant anteaters are solitary animals."
+        ],
+        "population": "About 5,000 in the wild.",
+        "image_url": "https://media.istockphoto.com/id/2162029236/photo/flag-anteater.webp?a=1&b=1&s=612x612&w=0&k=20&c=k4csW_OPajfpoHyvRjm1blInsw4feicLduI283YyXvE="
+    },
+    {
+        "id": "148",
+        "likes": 240,
+        "name": "Asian Arowana",
+        "scientific_name": "Scleropages formosus",
+        "category": "fish",
+        "description": "The Asian Arowana, also known as the Dragon Fish, is considered one of the most auspicious fish in Asia due to its association with good luck.",
+        "habitat": "Freshwater rivers and swamps.",
+        "diet": "Carnivore - feeds on insects and smaller fish.",
+        "fun_facts": [
+            "They can leap out of the water to catch prey.",
+            "Asian arowanas can grow up to 3 feet in length.",
+            "They are popular in aquaculture and may sell for thousands of dollars."
+        ],
+        "population": "Critically endangered due to overfishing and habitat destruction.",
+        "image_url": "https://media.istockphoto.com/id/485352678/photo/arowana-fish.webp?a=1&b=1&s=612x612&w=0&k=20&c=0n9EWWIvu_IxoOgkdQ5A3rf4a9IDf7t9MiaSCDDfQhQ="
+    },
+    {
+        "id": "149",
+        "likes": 245,
+        "name": "North American Porcupine",
+        "scientific_name": "Erethizon dorsatum",
+        "category": "mammal",
+        "description": "The North American Porcupine is known for its defensive quills, which it uses when threatened.",
+        "habitat": "Forests and woodlands.",
+        "diet": "Herbivore - primarily feeds on leaves, bark, and fruits.",
+        "fun_facts": [
+            "Porcupines can release quills when threatened, and these can detach easily.",
+            "They have a strong sense of smell.",
+            "Porcupines are primarily nocturnal."
+        ],
+        "population": "Common across North America; specific numbers are difficult to estimate.",
+        "image_url": "https://media.istockphoto.com/id/2186208557/photo/north-american-porcupine-in-grass-on-a-late-fall-afternoon.webp?a=1&b=1&s=612x612&w=0&k=20&c=uEb7SPwKTzDkiv6XMcIQjE0Zg2w8056VX8QFyvlTjmU="
+    },
+    {
+        "id": "150",
+        "likes": 255,
+        "name": "Violet Green Swallow",
+        "scientific_name": "Tachycineta thalassina",
+        "category": "bird",
+        "description": "The Violet Green Swallow is a small bird known for its agility and vivid green and violet colors.",
+        "habitat": "Open and semi-open areas, often near water.",
+        "diet": "Insectivore - feeds on insects caught in flight.",
+        "fun_facts": [
+            "Violet Green Swallows are known for their aerial acrobatics.",
+            "They build their nests in tree cavities."
+        ],
+        "population": "Estimated 1 million in the wild.",
+        "image_url": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/3/49/349ae755-a6fc-5118-bcaf-683af96ac609/5e8501c3255cf.image.jpg?resize=990%2C811"
+    },
+  {
+      "id": "151",
+      "likes": 260,
+      "name": "Atlas Moth",
+      "scientific_name": "Attacus atlas",
+      "category": "insect",
+      "description": "The Atlas Moth is one of the largest moth species in the world, known for its enormous wingspan and striking appearance.",
+      "habitat": "Tropical and subtropical forests in Southeast Asia.",
+      "diet": "Herbivore - primarily feeds on the leaves of tropical trees.",
+      "fun_facts": [
+          "Its wingspan can reach up to 10 inches.",
+          "Adult Atlas Moths do not eat; they rely on energy stored during the larval stage.",
+          "They are one of the largest moths and can be found in a variety of colors."
+      ],
+      "population": "Common in their range; specific numbers are unknown.",
+      "image_url": "https://media.istockphoto.com/id/2152261803/photo/newly-hatched-atlas-moth-in-butterfly-atrium.webp?a=1&b=1&s=612x612&w=0&k=20&c=mz-C6u9fYPZZ4r8CmOgqFLn_UUgUOoZRndG5HyWf3pM="
+  },
+  {
+      "id": "152",
+      "likes": 265,
+      "name": "Bombardier Beetle",
+      "scientific_name": "Brachinus spp.",
+      "category": "insect",
+      "description": "The Bombardier Beetle is known for its unique defensive mechanism that allows it to expel a hot chemical spray.",
+      "habitat": "Various habitats including forests, grasslands, and gardens.",
+      "diet": "Carnivore - feeds on other insects.",
+      "fun_facts": [
+          "They can spray a boiling chemical cocktail at predators.",
+          "Bombardier Beetles can aim their spray in different directions.",
+          "Their spray can reach temperatures of up to 100°C."
+      ],
+      "population": "Common in many areas; specific numbers vary.",
+      "image_url": "https://media.istockphoto.com/id/2157058893/photo/bombardier-beetle-sitting-on-a-plant-leaf.webp?a=1&b=1&s=612x612&w=0&k=20&c=VzY7yAX_lYiXOUSETrNxnHItp8eSBUyg3ANq1OfN9sc="
+  },
+  {
+      "id": "153",
+      "likes": 270,
+      "name": "Golden Tortoise Beetle",
+      "scientific_name": "Charidotella sexpunctata",
+      "category": "insect",
+      "description": "The Golden Tortoise Beetle is known for its striking metallic gold color and ability to change color when disturbed.",
+      "habitat": "Leafy plants in gardens and fields in the Americas.",
+      "diet": "Herbivore - primarily feeds on morning glory leaves.",
+      "fun_facts": [
+          "When threatened, they can excrete a fluid that turns their golden color to a darker hue.",
+          "They are often called 'golden tortoise' due to their shell-like appearance.",
+          "Their color change is a form of camouflage."
+      ],
+      "population": "Common; not threatened.",
+      "image_url": "https://media.istockphoto.com/id/2152417444/photo/charidotella-sexpunctata.webp?a=1&b=1&s=612x612&w=0&k=20&c=_c7OOxkZLK3fs0Hw0S3bbZdozOb4AbZ31SN7X2jrbIY="
+  },
+  {
+      "id": "154",
+      "likes": 275,
+      "name": "Glasswing Butterfly",
+      "scientific_name": "Greta oto",
+      "category": "insect",
+      "description": "The Glasswing Butterfly is known for its transparent wings and delicate appearance.",
+      "habitat": "Tropical forests in Central and South America.",
+      "diet": "Herbivore - feeds on nectar from flowers.",
+      "fun_facts": [
+          "The transparent wings make them difficult to spot among foliage.",
+          "They are known for their slow, graceful flight.",
+          "Glasswings have a unique way of feeding by siphoning nectar."
+      ],
+      "population": "Common in their habitats; specific numbers are not tracked.",
+      "image_url": "https://media.istockphoto.com/id/108354703/photo/glasswing-butterfly-greta-oto.webp?a=1&b=1&s=612x612&w=0&k=20&c=zAz35ZBYfRN5MVgf4zdmMlTin3OsF5igKgN29etZq-g="
+  },
+  {
+      "id": "155",
+      "likes": 285,
+      "name": "Lanternfish",
+      "scientific_name": "Myctophidae",
+      "category": "fish",
+      "description": "Lanternfish are small deep-sea fish known for their bioluminescence, which they use for communication and camouflage.",
+      "habitat": "Deep ocean waters, often at considerable depths.",
+      "diet": "Carnivore - feeds on zooplankton and other small marine organisms.",
+      "fun_facts": [
+          "They possess photophores, specialized cells that produce light.",
+          "Lanternfish are a crucial part of the marine food web.",
+          "Some species can migrate vertically to the surface at night."
+      ],
+      "population": "Common in deep oceans; specific numbers unknown.",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3Dy9BlxURkMMtlUEbHJ196Xm_r9zCuDU2w&s"
+  },
+  {
+      "id": "156",
+      "likes": 290,
+      "name": "Goblin Shark",
+      "scientific_name": "Mitsukurina owstoni",
+      "category": "fish",
+      "description": "The Goblin Shark is a rare deep-sea shark known for its distinctive protruding jaw and pinkish hue.",
+      "habitat": "Deep ocean waters around the world.",
+      "diet": "Carnivore - feeds on fish and squid.",
+      "fun_facts": [
+          "They are often referred to as 'living fossils' due to their ancient lineage.",
+          "Goblin sharks can extend their jaws to catch prey.",
+          "They are rarely seen by humans, as they inhabit deep waters."
+      ],
+      "population": "Not fully known; uncommon in many areas.",
+      "image_url": "https://media.istockphoto.com/id/1213433623/photo/goblin-shark.webp?a=1&b=1&s=612x612&w=0&k=20&c=JvdL_8a2636qtNPjn2bGp94rjId__rJNYIwjFvbRdPQ="
+  },
+  {
+      "id": "157",
+      "likes": 295,
+      "name": "African Cichlid",
+      "scientific_name": "Cichlidae",
+      "category": "fish",
+      "description": "African Cichlids are a diverse group of freshwater fish known for their bright colors and interesting behaviors.",
+      "habitat": "Freshwater lakes and rivers in Africa.",
+      "diet": "Omnivore - feeds on algae, small invertebrates, and detritus.",
+      "fun_facts": [
+          "They display remarkable color variation, especially during breeding.",
+          "Many species have unique parenting behaviors where males attract females with a vibrant display.",
+          "African Cichlids are popular in the aquarium trade."
+      ],
+      "population": "Common; numerous species exist.",
+      "image_url": "https://media.istockphoto.com/id/517123210/photo/image-of-school-of-malawi-cichlids-in-tropical-aquarium-fish-tank.webp?a=1&b=1&s=612x612&w=0&k=20&c=PlcZXkxXJ51yCvMFsZjhQhiQGwgbtOwue2ZRMabKTQs="
+  },
+  {
+      "id": "158",
+      "likes": 300,
+      "name": "Cleaner Wrasse",
+      "scientific_name": "Labroides dimidiatus",
+      "category": "fish",
+      "description": "The Cleaner Wrasse is a small, brightly colored fish known for its role in cleaning parasites from larger fish.",
+      "habitat": "Coral reefs in the Indo-Pacific region.",
+      "diet": "Carnivore - feeds on parasites and dead tissue of larger fish.",
+      "fun_facts": [
+          "Cleaner wrasses engage in mutualistic relationships, benefiting both themselves and their clients.",
+          "They set up 'cleaning stations' where fish come to be cleaned.",
+          "Their presence is essential for maintaining the health of reef ecosystems."
+      ],
+      "population": "Common on coral reefs; specific numbers are uncertain.",
+      "image_url": "https://media.istockphoto.com/id/119752886/photo/labroides-dimidiatus.webp?a=1&b=1&s=612x612&w=0&k=20&c=gDxLokZDHxymxrUvGtrXtvdtjkFLsw3b4AhLX-OUUHU="
+  },
+  {
+      "id": "159",
+      "likes": 305,
+      "name": "Clown Triggerfish",
+      "scientific_name": "Balistoides conspicillum",
+      "category": "fish",
+      "description": "The Clown Triggerfish is a brightly colored fish known for its bold patterns and behavior.",
+      "habitat": "Coral reefs in the Pacific Ocean.",
+      "diet": "Carnivore - feeds on crustaceans, mollusks, and small fish.",
+      "fun_facts": [
+          "Clown Triggerfish are known for their striking coloration and patterns.",
+          "They possess powerful jaws that help them crack open shells.",
+          "They can be aggressive when defending their territory."
+      ],
+      "population": "Common in coral reefs; not currently threatened.",
+      "image_url": "https://media.istockphoto.com/id/1657007917/photo/clown-triggerfish-swimming-in-aquarium-clownfish-or-balistoides-conspicillum-tropical-fish.webp?a=1&b=1&s=612x612&w=0&k=20&c=GiKTgS_HrsKrtFk3KC4PAq2etqcWN9R8ZyEX3HN8tXc="
+  },
+  {
+      "id": "160",
+      "likes": 310,
+      "name": "Mandarin Dragonet",
+      "scientific_name": "Synchiropus splendidus",
+      "category": "fish",
+      "description": "The Mandarin Dragonet is a small, vibrantly colored fish known for its incredible patterns and beautiful appearance.",
+      "habitat": "Coral reefs in the Pacific Ocean.",
+      "diet": "Carnivore - primarily feeds on small crustaceans and zooplankton.",
+      "fun_facts": [
+          "Mandarin Dragonets are often considered one of the most beautiful reef fish.",
+          "They have a unique mode of swimming that involves fluttering their fins.",
+          "These fish are known for their delicate nature and require a well-maintained environment."
+      ],
+      "population": "Common in their range; not currently threatened.",
+      "image_url": "https://media.istockphoto.com/id/1793485006/photo/synchiropus-splendidus-the-mandarinfish-or-mandarin-dragonet-is-a-small-brightly-colored.webp?a=1&b=1&s=612x612&w=0&k=20&c=mDRgrotw8vSXzTf2M4z4UV41JHDSaYW51P7BNkBHm24="
+  },
+  {
+      "id": "161",
+      "likes": 315,
+      "name": "Ghost Pipefish",
+      "scientific_name": "Solenostomus spp.",
+      "category": "fish",
+      "description": "Ghost Pipefish are slender fish known for their ability to blend in with seaweed and corals.",
+      "habitat": "Coral reefs and seagrass beds in tropical waters.",
+      "diet": "Carnivore - primarily feeds on small crustaceans.",
+      "fun_facts": [
+          "Ghost Pipefish are closely related to seahorses and have similar reproductive behaviors.",
+          "Their camouflage helps them evade predators.",
+          "They come in various shapes and colors, enhancing their disguise."
+      ],
+      "population": "Not well studied; may vary by species.",
+      "image_url": "https://media.istockphoto.com/id/183778501/photo/ghost-pipefish-in-red-sea-whips.webp?a=1&b=1&s=612x612&w=0&k=20&c=5F5MHofnRVZ2WTMvwfZykMzZtnNRSWIMcFIxIhW1AIM="
+  },
+  {
+      "id": "162",
+      "likes": 320,
+      "name": "Surgeonfish",
+      "scientific_name": "Acanthuridae",
+      "category": "fish",
+      "description": "Surgeonfish are brightly colored reef fish known for their sharp spines on either side of their tails.",
+      "habitat": "Coral reefs in warm waters.",
+      "diet": "Herbivore - feeds on algae and seaweed.",
+      "fun_facts": [
+          "The sharp spines of Surgeonfish can be used in defense against predators.",
+          "They are often seen grazing on algae-covered rocks.",
+          "Some surgeonfish can change their color during aggressive interactions."
+      ],
+      "population": "Common; specific numbers depend on species.",
+      "image_url": "https://media.istockphoto.com/id/2164759471/photo/school-of-powderblue-surgeonfish-wide-angle.webp?a=1&b=1&s=612x612&w=0&k=20&c=vlcIX6rZ5TROqiGg_ftk8-yEx0UTuhx_FUojKx-eKgk="
+  },
+  {
+      "id": "163",
+      "likes": 330,
+      "name": "Northern Alligator Lizard",
+      "scientific_name": "Elgaria coerulea",
+      "category": "reptile",
+      "description": "The Northern Alligator Lizard is a medium-sized lizard recognized for its robust body and distinctive patterns.",
+      "habitat": "Forest edges, grasslands, and shrub areas.",
+      "diet": "Carnivore - feeds on insects and small animals.",
+      "fun_facts": [
+          "They are known for their ability to regenerate lost tails.",
+          "Northern Alligator Lizards are often found under rocks or logs.",
+          "They have a wide distribution across the western United States."
+      ],
+      "population": "Common in their native range.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Elgaria_coerulea_Northern_Alligator_Lizard_3.jpg"
+  },
+  {
+      "id": "164",
+      "likes": 335,
+      "name": "Horned Lizard",
+      "scientific_name": "Phrynosoma",
+      "category": "reptile",
+      "description": "Horned Lizards, also known as horn toads, are recognized for their unique body shape and spiny appearance.",
+      "habitat": "Arid and semi-arid regions, such as deserts and scrublands.",
+      "diet": "Insectivore - primarily feeds on ants and other small insects.",
+      "fun_facts": [
+          "They can flatten their bodies when threatened to evade predators.",
+          "Horned Lizards have the ability to shoot blood from their eyes as a defense mechanism.",
+          "They are able to camouflage effectively among rocks and sand."
+      ],
+      "population": "Common in their habitats, but some species are threatened.",
+      "image_url": "https://media.istockphoto.com/id/1340652120/photo/coast-horned-lizard-is-a-species-of-phrynosomatid-lizard-which-can-be-found-in-baja.webp?a=1&b=1&s=612x612&w=0&k=20&c=QG4oWed9pTv-SociBjsK7E9tRlXkaZ7wdJdMbrcuKS4="
+  },
+  {
+      "id": "165",
+      "likes": 340,
+      "name": "Invisible Ladybug",
+      "scientific_name": "Clytra laeviuscula",
+      "category": "insect",
+      "description": "The Invisible Ladybug is a type of beetle known for its unique color-changing ability, allowing it to blend into its surroundings.",
+      "habitat": "Forests and gardens.",
+      "diet": "Herbivore - feeds on aphids and other pests.",
+      "fun_facts": [
+          "When threatened, they can change color to match their environment.",
+          "They are beneficial for pest control in gardens.",
+          "Some species can emit a foul smell to deter predators."
+      ],
+      "population": "Common; specific numbers are not well documented.",
+      "image_url": "https://images.unsplash.com/photo-1470317596697-cbdeda56f999?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fEludmlzaWJsZSUyMExhZHlidWd8ZW58MHx8NHx8fDA%3D"
+  },
+  {
+      "id": "166",
+      "likes": 345,
+      "name": "Redback Spider",
+      "scientific_name": "Latrodectus hasselti",
+      "category": "insect",
+      "description": "The Redback Spider is a highly venomous spider known for its distinctive red hourglass marking on its abdomen.",
+      "habitat": "Urban areas, gardens, and under rocks.",
+      "diet": "Carnivore - feeds on insects and small invertebrates.",
+      "fun_facts": [
+          "They are closely related to the black widow spider.",
+          "Redback Spiders can produce silk for webs that can stretch several meters.",
+          "The venom of the female is highly neurotoxic."
+      ],
+      "population": "Common in Australia and nearby regions.",
+      "image_url": "https://media.istockphoto.com/id/2193238637/photo/australian-redback-spider.webp?a=1&b=1&s=612x612&w=0&k=20&c=dGJ_3T9Hz-z2ktbKCj0abAsvGWV1aSqmEvyQlpZM3mg="
+  },
+  {
+      "id": "167",
+      "likes": 350,
+      "name": "Atlas Beetle",
+      "scientific_name": "Chalcosoma atlas",
+      "category": "insect",
+      "description": "The Atlas Beetle is one of the largest beetles in the world, featuring a striking horned appearance.",
+      "habitat": "Tropical forests in Southeast Asia.",
+      "diet": "Herbivore - primarily feeds on decaying wood.",
+      "fun_facts": [
+          "Males have large horns that they use in fights for mates.",
+          "Atlas Beetles can grow up to 4-6 inches in length.",
+          "They are often collected for display due to their impressive size."
+      ],
+      "population": "Common in tropical areas.",
+      "image_url": "https://media.istockphoto.com/id/1069985516/photo/wild-atlas-beetles.webp?a=1&b=1&s=612x612&w=0&k=20&c=kJ-nVK1VW3WEmmb1TWvPA12mXbXXyILjVBQkaSb7Xrs="
+  }
   ]
 }

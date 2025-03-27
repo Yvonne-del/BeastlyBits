@@ -17,6 +17,9 @@ JSON Server (Fake backend using db.json)
 
 Local Storage (For saving liked animals)
 
+# Link to live site
+https://paw-print-delta.vercel.app/
+
 # 🚀 How to Run This Project
 1️⃣ Clone this repo:
 
