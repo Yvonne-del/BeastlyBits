@@ -68,9 +68,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // Update the button's state based on the current state of the likedAnimals object
         if (likedAnimals[item.id]) {
-            likeButton.style.backgroundColor = "green";
+            likeButton.style.backgroundColor = "rgb(7, 172, 46)";
         } else {
-            likeButton.style.backgroundColor = "blue";
+            likeButton.style.backgroundColor = "rgb(51, 50, 50,0.3)";
         }
 
         likeButton.addEventListener("click", async (event) => {
@@ -86,9 +86,53 @@ document.addEventListener("DOMContentLoaded", () => {
         showAnimal.appendChild(likesContainer);
 
         showAnimal.addEventListener("click", () => showAnimalDetails(item));
-
         return showAnimal;
     }
+
+
+      // Function to show detailed animal information
+    function showAnimalDetails(item) {
+        const detailsDiv = document.getElementById("animal-details");
+
+        // Store the last visible section before hiding it
+        lastSectionId = document.querySelector(".section:not([style*='display: none'])")?.id || "home";
+
+        detailsDiv.innerHTML = `
+            <div class="details-container">
+                <img src="${item.image_url}" alt="${item.name}" class="detail-img">
+                <div class="info">
+                    <h3 class="animal-name">${item.name}</h3>
+                    <p class="animal-scientific"><em>${item.scientific_name}</em></p>
+                    <p class="animal-desc">${item.description}</p>
+                    <p class="animal-habitat"><strong>Habitat:</strong> ${item.habitat}</p>
+                    <p class="animal-diet"><strong>Diet:</strong> ${item.diet}</p>
+                    <p class="animal-population"><strong>Population:</strong> ${item.population}</p>
+                    <br>
+                    <p class="animal-facts"><strong>Did you know?</strong><br>${item.fun_facts}</p>
+                </div>
+            </div>
+        `;
+
+        // Hide all category sections
+        document.querySelectorAll(".section").forEach(section => {
+            section.style.display = "none";
+        });
+
+        // Show the details section
+        detailsDiv.style.display = "block";
+
+        // Close button event to go back to the last section
+        document.addEventListener("keydown", handleEscapeKey);
+
+        // Function to handle Escape key
+        function handleEscapeKey(event) {
+            if (event.key === "Escape") {
+                detailsDiv.style.display = "none";
+                document.getElementById(lastSectionId).style.display = "block"; // Restore the last section
+            }
+        }
+    }
+    
 
     // Toggle like and update database
     const updateLikes = async (item, likeCountElement, button, isFromLikedSection = false) => {
@@ -146,7 +190,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <p class="animal-scientific"><em>${item.scientific_name}</em></p>
                 <p class="animal-habitat"><strong>Habitat:</strong> ${item.habitat}</p>
             `;
-
+            
             // Create Remove Like Button
             let removeButton = document.createElement("button");
             removeButton.type = "button";
@@ -164,6 +208,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
             likedCard.appendChild(removeButton);
             likedSection.appendChild(likedCard);
+
+            likedCard.addEventListener("click", () => showAnimalDetails(item));
         }
     }
     

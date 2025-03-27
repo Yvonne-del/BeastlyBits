@@ -36,7 +36,7 @@
     },
     {
       "id": "3",
-      "likes": -7,
+      "likes": -6,
       "name": "Tiger",
       "scientific_name": "Panthera tigris",
       "category": "mammal",
@@ -70,7 +70,7 @@
     },
     {
       "id": "5",
-      "likes": 70,
+      "likes": 71,
       "name": "Leopard",
       "scientific_name": "Panthera pardus",
       "category": "mammal",
@@ -597,7 +597,7 @@
     },
     {
       "id": "38",
-      "likes": 69,
+      "likes": 70,
       "name": "Peregrine Falcon",
       "scientific_name": "Falco peregrinus",
       "category": "bird",
@@ -1158,7 +1158,7 @@
     },
     {
       "id": "71",
-      "likes": 70,
+      "likes": 71,
       "name": "Hammerhead Shark",
       "scientific_name": "Sphyrna",
       "category": "fish",
