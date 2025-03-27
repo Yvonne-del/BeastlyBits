@@ -1,26 +1,49 @@
 // Function to hide all sections and show one
-function showSection(sectionId) {
+function showSection(sectionId, event) {
+    if (event && event.preventDefault) event.preventDefault();
     document.querySelectorAll(".section").forEach(section => {
         section.style.display = "none";
     });
     document.getElementById(sectionId).style.display = "block";
 }
 
-document.addEventListener("DOMContentLoaded", () => {
-const baseURL = "https://pawprint-c702.onrender.com";
-const mammalList = document.getElementById("land")
-const birdList = document.getElementById("sky")
-const reptileList = document.getElementById("rocks")
-const fishList = document.getElementById("water")
-const insectList = document.getElementById("flower")
-const likedAnimals = document.getElementById("liked")
 
-//GET animal information
-async function getAnimals(){
-    const res = await fetch(`${baseURL}/animals`)
-    const data = await res.json()
-    
-    data.forEach(item => {
+document.addEventListener("DOMContentLoaded", () => {
+    const baseURL = "http://localhost:3000";
+    const mammalList = document.getElementById("land");
+    const birdList = document.getElementById("sky");
+    const reptileList = document.getElementById("rocks");
+    const fishList = document.getElementById("water");
+    const insectList = document.getElementById("flower");
+    const likedSection = document.getElementById("liked"); // Liked animals section
+
+    // Load liked animals from local storage
+    let likedAnimals = JSON.parse(localStorage.getItem("likedAnimals")) || {};
+
+    // GET animal information
+    async function getAnimals() {
+        const res = await fetch(`${baseURL}/animals`);
+        const data = await res.json();
+
+        data.forEach(item => {
+            const showAnimal = createAnimalCard(item);
+            
+            // Append to the correct category
+            if (item.category === "mammal") mammalList.appendChild(showAnimal);
+            else if (item.category === "bird") birdList.appendChild(showAnimal);
+            else if (item.category === "reptile") reptileList.appendChild(showAnimal);
+            else if (item.category === "fish") fishList.appendChild(showAnimal);
+            else if (item.category === "insect") insectList.appendChild(showAnimal);
+
+            // If the animal was previously liked, add it to the liked section
+            if (likedAnimals[item.id]) {
+                addToLikedSection(item);
+            }
+        });
+    }
+
+    // Function to create an animal card
+    function createAnimalCard(item) {
         const showAnimal = document.createElement("div");
         showAnimal.classList.add("animal-card");
         showAnimal.innerHTML = `
@@ -30,61 +53,144 @@ async function getAnimals(){
             <p class="animal-habitat"><strong>Habitat:</strong> ${item.habitat}</p>
         `;
 
-        // Add event listener with correct reference to item
-        showAnimal.addEventListener("click", () => {
-            console.log(item.name)
-            showAnimalDetails(item)});
+        // Likes Container
+        const likesContainer = document.createElement("div");
+        likesContainer.classList.add("likes-container");
+
+        let numberOfLike = document.createElement("p");
+        numberOfLike.classList.add("likes-count");
+        numberOfLike.textContent = `Likes: ${item.likes}`;
+
+        let likeButton = document.createElement("button");
+        likeButton.type = "button";
+        likeButton.classList.add("like-button");
+        likeButton.textContent = "Like";
+
+        // Update the button's state based on the current state of the likedAnimals object
+        if (likedAnimals[item.id]) {
+            likeButton.style.backgroundColor = "green";
+        } else {
+            likeButton.style.backgroundColor = "blue";
+        }
+
+        likeButton.addEventListener("click", async (event) => {
+            event.preventDefault();
+            event.stopPropagation();
+            await updateLikes(item, numberOfLike, likeButton);
+        });
         
 
-        // Append to the correct category
-        if (item.category === "mammal") mammalList.appendChild(showAnimal);
-        else if (item.category === "bird") birdList.appendChild(showAnimal);
-        else if (item.category === "reptile") reptileList.appendChild(showAnimal);
-        else if (item.category === "fish") fishList.appendChild(showAnimal);
-        else if (item.category === "insect") insectList.appendChild(showAnimal);
-    });
+        // Append likes and button inside container
+        likesContainer.appendChild(numberOfLike);
+        likesContainer.appendChild(likeButton);
+        showAnimal.appendChild(likesContainer);
 
-}
+        showAnimal.addEventListener("click", () => showAnimalDetails(item));
 
-let lastSectionId = ""; // Store the last section before showing details
+        return showAnimal;
+    }
 
-// Function to show detailed animal information
-function showAnimalDetails(item) {
-    const detailsDiv = document.getElementById("animal-details");
+    // Toggle like and update database
+    const updateLikes = async (item, likeCountElement, button, isFromLikedSection = false) => {
+        const isLiked = likedAnimals[item.id]; // Check if already liked
+        const newLikes = isLiked ? item.likes - 1 : item.likes + 1; // Increase or decrease likes
 
-    // Store the last visible section before hiding it
-    lastSectionId = document.querySelector(".section:not([style*='display: none'])")?.id || "home";
+        try {
+            const res = await fetch(`${baseURL}/animals/${item.id}`, {
+                method: "PATCH",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ likes: newLikes })
+            });
 
-    detailsDiv.innerHTML = `
-        <div class="details-container">
-            <img src="${item.image_url}" alt="${item.name}" class="detail-img">
-            <div class="info">
+            if (!res.ok) throw new Error("Failed to update likes");
+
+            const updatedData = await res.json();
+            item.likes = updatedData.likes; // Update local item data
+
+            if (likeCountElement) {
+                likeCountElement.textContent = `Likes: ${item.likes}`;
+            }
+
+            if (isLiked) {
+                delete likedAnimals[item.id];
+                if (button) button.style.backgroundColor = "blue";
+                removeFromLikedSection(item.id);
+            } else {
+                likedAnimals[item.id] = true;
+                if (button) button.style.backgroundColor = "green";
+                addToLikedSection(item);
+            }
+
+            saveLikedAnimals() // Save changes
+
+            // If removing from liked section, also update the main card
+            if (isFromLikedSection) {
+                updateMainAnimalCard(item);
+            }
+
+        } catch (error) {
+            console.error("Error updating likes:", error);
+        }
+    };
+
+    
+    // Function to add an animal to the liked section
+    function addToLikedSection(item) {
+        if (!document.getElementById(`liked-${item.id}`)) {
+            const likedCard = document.createElement("div");
+            likedCard.classList.add("animal-card");
+            likedCard.id = `liked-${item.id}`;
+            likedCard.innerHTML = `
+                <img src="${item.image_url}" alt="${item.name}" class="animal-img">
                 <h3 class="animal-name">${item.name}</h3>
                 <p class="animal-scientific"><em>${item.scientific_name}</em></p>
-                <p class="animal-desc">${item.description}</p>
                 <p class="animal-habitat"><strong>Habitat:</strong> ${item.habitat}</p>
-                <p class="animal-diet"><strong>Diet:</strong> ${item.diet}</p>
-            </div>
-            <button id="close-details">Back</button>
-        </div>
-    `;
+            `;
 
-    // Hide all category sections
-    document.querySelectorAll(".section").forEach(section => {
-        section.style.display = "none";
-    });
+            // Create Remove Like Button
+            let removeButton = document.createElement("button");
+            removeButton.type = "button";
+            removeButton.classList.add("remove-like-button");
+            removeButton.textContent = "Remove Like";
+            removeButton.style.backgroundColor = "red";
 
-    // Show the details section
-    detailsDiv.style.display = "block";
+            // Handle unliking
+            removeButton.addEventListener("click", async (event) => {
+                event.preventDefault();
+                event.stopPropagation();
+                await updateLikes(item, null, null, true);
+            });
+            
 
-    // Close button event to go back to the last section
-    document.getElementById("close-details").addEventListener("click", () => {
-        detailsDiv.style.display = "none";
-        document.getElementById(lastSectionId).style.display = "block"; // Restore the last section
-    });
-}
+            likedCard.appendChild(removeButton);
+            likedSection.appendChild(likedCard);
+        }
+    }
+    
+    function updateMainAnimalCard(item) {
+        const mainAnimalCards = document.querySelectorAll(".animal-card");
+        mainAnimalCards.forEach(card => {
+            if (card.querySelector("h3").textContent === item.name) {
+                const likeButton = card.querySelector("button");
+                const likesText = card.querySelector("p");
+
+                likesText.textContent = `Likes: ${item.likes}`;
+                likeButton.style.backgroundColor = item.likes > 0 ? "green" : "blue";
+            }
+        });
+    }
+    // Function to remove an animal from the liked section
+    function removeFromLikedSection(itemId) {
+        const likedCard = document.getElementById(`liked-${itemId}`);
+        if (likedCard) {
+            likedCard.remove();
+        }
+    }
+    function saveLikedAnimals() {
+        localStorage.setItem("likedAnimals", JSON.stringify(likedAnimals));
+    }
 
 
-getAnimals()
 
+    getAnimals();
 });

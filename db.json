@@ -1,8 +1,8 @@
 {
   "animals": [
     {
-      "id": 1,
-      "likes": 70,
+      "id": "1",
+      "likes": 5,
       "name": "African Elephant",
       "scientific_name": "Loxodonta africana",
       "category": "mammal",
@@ -18,7 +18,7 @@
       "image_url": "https://tsavotrust.org/wp-content/uploads/2021/07/MALE-ELEPHANT-KM-RESIZE-e1643371005936.jpg"
     },
     {
-      "id": 2,
+      "id": "2",
       "likes": 70,
       "name": "Bald Eagle",
       "scientific_name": "Haliaeetus leucocephalus",
@@ -35,8 +35,8 @@
       "image_url": "https://media.istockphoto.com/id/1769528218/photo/bald-eagle-diving.webp?a=1&b=1&s=612x612&w=0&k=20&c=DrrI7tMDSB27apSfnf3Yp3Jk_ec-gnu-i1DBmt5BH30="
     },
     {
-      "id": 3,
-      "likes": 70,
+      "id": "3",
+      "likes": -7,
       "name": "Tiger",
       "scientific_name": "Panthera tigris",
       "category": "mammal",
@@ -52,7 +52,7 @@
       "image_url": "https://media.istockphoto.com/id/949472768/photo/tiger-portrait.webp?a=1&b=1&s=612x612&w=0&k=20&c=_2getKk8HZ22sg-kVly1dtSHr7EYf66_MR9Xb65iFDA="
     },
     {
-      "id": 4,
+      "id": "4",
       "likes": 70,
       "name": "Cheetah",
       "scientific_name": "Acinonyx jubatus",
@@ -69,7 +69,7 @@
       "image_url": "https://media.istockphoto.com/id/167768212/photo/cheetah-family.webp?a=1&b=1&s=612x612&w=0&k=20&c=rWWwN4T_ctmHaRNuJt1BXedwuLbweI7JuC1tVuAxBXU="
     },
     {
-      "id": 5,
+      "id": "5",
       "likes": 70,
       "name": "Leopard",
       "scientific_name": "Panthera pardus",
@@ -86,7 +86,7 @@
       "image_url": "https://media.istockphoto.com/id/2140507707/photo/leopard-lies-on-branch-looking-for-prey.webp?a=1&b=1&s=612x612&w=0&k=20&c=3S9gIg33_BVWdoBk7OahS8eqGfg_zvmsKIWP-WLZRos="
     },
     {
-      "id": 6,
+      "id": "6",
       "likes": 70,
       "name": "Giraffe",
       "scientific_name": "Giraffa camelopardalis",
@@ -103,7 +103,7 @@
       "image_url": "https://media.istockphoto.com/id/1805574810/photo/animals-in-the-wild-reticulated-giraffe-samburu-national-reserve-north-kenya.webp?a=1&b=1&s=612x612&w=0&k=20&c=VWqUISIFhBYE0hKsuvzef_WizP_J0zysYj8uId5xNbk="
     },
     {
-      "id": 7,
+      "id": "7",
       "likes": 70,
       "name": "Hippopotamus",
       "scientific_name": "Hippopotamus amphibius",
@@ -120,7 +120,7 @@
       "image_url": "https://media.istockphoto.com/id/1375718469/photo/hippopotamus-walking-with-a-cattle-egret.webp?a=1&b=1&s=612x612&w=0&k=20&c=_vIZlqTqUpfgaumUxu_6kWUssWP8TRDe_xz5WCYv4Fk="
     },
     {
-      "id": 8,
+      "id": "8",
       "likes": 70,
       "name": "Zebra",
       "scientific_name": "Equus quagga",
@@ -137,7 +137,7 @@
       "image_url": "https://media.istockphoto.com/id/2172882241/photo/portrait-of-symbiotic-zebra-and-egret-east-africa.webp?a=1&b=1&s=612x612&w=0&k=20&c=nvssjH91cssmf10XPskUQ51ECYVzAwx79DhSMgCmGWA="
     },
     {
-      "id": 9,
+      "id": "9",
       "likes": 70,
       "name": "Kangaroo",
       "scientific_name": "Macropus giganteus",
@@ -154,7 +154,7 @@
       "image_url": "https://media.istockphoto.com/id/2167623509/photo/kangaroos-in-field.webp?a=1&b=1&s=612x612&w=0&k=20&c=NUxT3M90h3MPuQ_vKpnrN1W7xy3zsLlbdrslZzodkX0="
     },
     {
-      "id": 10,
+      "id": "10",
       "likes": 70,
       "name": "Polar Bear",
       "scientific_name": "Ursus maritimus",
@@ -171,8 +171,8 @@
       "image_url": "https://media.istockphoto.com/id/2188708235/photo/polar-bear-ursus-maritimus-and-the-red-rock-mountains-of-vikinge-bay-scoresby-sund-greenland.webp?a=1&b=1&s=612x612&w=0&k=20&c=nSx2gYblB6D39bNUiISCB8awz74RX_rvC2q8EMiBsQA="
     },
     {
-      "id": 11,
-      "likes": 70,
+      "id": "11",
+      "likes": 0,
       "name": "Komodo Dragon",
       "scientific_name": "Varanus komodoensis",
       "category": "reptile",
@@ -188,7 +188,7 @@
       "image_url": "https://media.istockphoto.com/id/676518196/photo/komodo-dragon-is-on-the-ground.webp?a=1&b=1&s=612x612&w=0&k=20&c=OsWHo3syQxffJtH2G5u2IzV8Xg2IBDzuYQg6_MKajVc="
     },
     {
-      "id": 12,
+      "id": "12",
       "likes": 70,
       "name": "Monarch Butterfly",
       "scientific_name": "Danaus plexippus",
@@ -205,8 +205,8 @@
       "image_url": "https://media.istockphoto.com/id/1336791163/photo/monarch-on-a-black-eyed-susan-flower.webp?a=1&b=1&s=612x612&w=0&k=20&c=t8OmW6yNCD9FNNv2R20r_9GsqKmAqBs034VRu6fhavE="
     },
     {
-      "id": 13,
-      "likes": 70,
+      "id": "13",
+      "likes": 69,
       "name": "Blue Whale",
       "scientific_name": "Balaenoptera musculus",
       "category": "mammal",
@@ -222,8 +222,8 @@
       "image_url": "https://media.istockphoto.com/id/2170573114/photo/blue-whale-diving-deep-underwater.webp?a=1&b=1&s=612x612&w=0&k=20&c=1FWi5o1yUPAVUGCKjAoiWadprI0y8t5-3lKv8nwoyZs="
     },
     {
-      "id": 14,
-      "likes": 70,
+      "id": "14",
+      "likes": 69,
       "name": "Green Anaconda",
       "scientific_name": "Eunectes murinus",
       "category": "reptile",
@@ -239,8 +239,8 @@
       "image_url": "https://media.istockphoto.com/id/836061794/photo/amazon-creatures.webp?a=1&b=1&s=612x612&w=0&k=20&c=ApLj9hAeuSE_e6fUzMm0GgHsSYvjqFCDW4yeNVryTTU="
     },
     {
-      "id": 15,
-      "likes": 70,
+      "id": "15",
+      "likes": 69,
       "name": "Snow Leopard",
       "scientific_name": "Panthera uncia",
       "category": "mammal",
@@ -256,7 +256,7 @@
       "image_url": "https://media.istockphoto.com/id/1716065047/photo/a-rare-look-at-the-majestic-snow-leopards-captivating-beauty.webp?a=1&b=1&s=612x612&w=0&k=20&c=nXOxAzFT1aRZDYJWuHgV4fcOMEg-SUwTM7TMGSZSnwY="
     },
     {
-      "id": 16,
+      "id": "16",
       "likes": 70,
       "name": "Rhinoceros",
       "scientific_name": "Rhinocerotidae",
@@ -273,7 +273,7 @@
       "image_url": "https://media.istockphoto.com/id/1185317987/photo/mother-and-baby-rhino-getting-ready-to-drink.webp?a=1&b=1&s=612x612&w=0&k=20&c=oSQ2NAmTfEVa_YLdU818_p5aKOfaQpvALoLEQO5HCYM="
     },
     {
-      "id": 17,
+      "id": "17",
       "likes": 70,
       "name": "Gorilla",
       "scientific_name": "Gorilla gorilla",
@@ -290,7 +290,7 @@
       "image_url": "https://media.istockphoto.com/id/683300744/photo/rwanda-gorilla-still.webp?a=1&b=1&s=612x612&w=0&k=20&c=XMtJtfe73vwRGEULPaxvykBIApJ9UETfwwYAg2FRZ24="
     },
     {
-      "id": 18,
+      "id": "18",
       "likes": 70,
       "name": "Chimpanzee",
       "scientific_name": "Pan troglodytes",
@@ -307,7 +307,7 @@
       "image_url": "https://media.istockphoto.com/id/1361427581/photo/a-chimpanzee-family-mahale-mountain-national-park-tanzania.webp?a=1&b=1&s=612x612&w=0&k=20&c=g2FbSJ2cSlmTP43KadbvMXtibcHP_nwScASb6f2f0Q0="
     },
     {
-      "id": 19,
+      "id": "19",
       "likes": 70,
       "name": "Orangutan",
       "scientific_name": "Pongo pygmaeus",
@@ -324,7 +324,7 @@
       "image_url": "https://media.istockphoto.com/id/146887289/photo/young-orangutan-sitting-on-the-tree.webp?a=1&b=1&s=612x612&w=0&k=20&c=2xMcO13nxrRFE1OPynTkVf8fddIVznzFvNN8a2UKA98="
     },
     {
-      "id": 20,
+      "id": "20",
       "likes": 70,
       "name": "Koala",
       "scientific_name": "Phascolarctos cinereus",
@@ -341,7 +341,7 @@
       "image_url": "https://media.istockphoto.com/id/1326007751/photo/koala-on-eucalyptus-tree-outdoor-in-australia.webp?a=1&b=1&s=612x612&w=0&k=20&c=bLY7pm2bu3_NfDKbcNS_ACfDUOn1A2nNyCG9X_R-Cmo="
     },
     {
-      "id": 21,
+      "id": "21",
       "likes": 70,
       "name": "Panda",
       "scientific_name": "Ailuropoda melanoleuca",
@@ -358,7 +358,7 @@
       "image_url": "https://media.istockphoto.com/id/2167736864/photo/panda-sleeping-on-branch-at-zoo.webp?a=1&b=1&s=612x612&w=0&k=20&c=18NSaYIBKcxoLnbtKnPhaxTOPOU8_fb-FcXV8s_326A="
     },
     {
-      "id": 22,
+      "id": "22",
       "likes": 70,
       "name": "Brown Bear",
       "scientific_name": "Ursus arctos",
@@ -375,7 +375,7 @@
       "image_url": "https://media.istockphoto.com/id/1421052567/photo/brown-bear-on-a-rock.webp?a=1&b=1&s=612x612&w=0&k=20&c=2pl2U6cCKRzvbGr2RsUhcyay5A1WtWni2YjDgjBd0vk="
     },
     {
-      "id": 23,
+      "id": "23",
       "likes": 70,
       "name": "Wolf",
       "scientific_name": "Canis lupus",
@@ -392,7 +392,7 @@
       "image_url": "https://media.istockphoto.com/id/1768770924/photo/canadian-timberwolf.webp?a=1&b=1&s=612x612&w=0&k=20&c=PO31PcnOjX-tzfbHIUQxMFDjbwReZIr9_417jtoqHPo="
     },
     {
-      "id": 24,
+      "id": "24",
       "likes": 70,
       "name": "Fox",
       "scientific_name": "Vulpes vulpes",
@@ -409,7 +409,7 @@
       "image_url": "https://media.istockphoto.com/id/1404698627/photo/mama-fox-posing-with-her-baby-kit.webp?a=1&b=1&s=612x612&w=0&k=20&c=OnpzdVIyCMBajGIUoULeKybzGH5VafpxbOZmWeyWdm8="
     },
     {
-      "id": 25,
+      "id": "25",
       "likes": 70,
       "name": "Sloth",
       "scientific_name": "Folivora",
@@ -426,7 +426,7 @@
       "image_url": "https://media.istockphoto.com/id/1587529291/photo/brown-throated-sloth-stock-photo.webp?a=1&b=1&s=612x612&w=0&k=20&c=oV_dipi_WvebEHLI38daWnyqie202tesvYwbz91ITfQ="
     },
     {
-      "id": 26,
+      "id": "26",
       "likes": 70,
       "name": "Dolphin",
       "scientific_name": "Delphinidae",
@@ -443,7 +443,7 @@
       "image_url": "https://media.istockphoto.com/id/2170315506/photo/view-of-a-dolphin-in-the-sea.webp?a=1&b=1&s=612x612&w=0&k=20&c=RLOlIrs8g6OStJt26BaLuiXlpPl52oYUkA0Z06php64="
     },
     {
-      "id": 28,
+      "id": "28",
       "likes": 70,
       "name": "Orca (Killer Whale)",
       "scientific_name": "Orcinus orca",
@@ -460,7 +460,7 @@
       "image_url": "https://media.istockphoto.com/id/1502540292/photo/portait-of-orca-in-norway.webp?a=1&b=1&s=612x612&w=0&k=20&c=DtKZ6-Jic0pOfM7IH_colwQ1krLXOUo_nCqJ-sLlt8c="
     },
     {
-      "id": 29,
+      "id": "29",
       "likes": 70,
       "name": "Red Panda",
       "scientific_name": "Ailurus fulgens",
@@ -477,7 +477,7 @@
       "image_url": "https://media.istockphoto.com/id/147050490/photo/red-panda-in-a-tree-looking-at-the-camera.webp?a=1&b=1&s=612x612&w=0&k=20&c=8joDkS-Ucxc2ArmpouWLAmR824wJb77BGvvPo2HJhUc="
     },
     {
-      "id": 30,
+      "id": "30",
       "likes": 70,
       "name": "Arctic Fox",
       "scientific_name": "Vulpes lagopus",
@@ -494,7 +494,7 @@
       "image_url": "https://media.istockphoto.com/id/157305552/photo/polar-fox.webp?a=1&b=1&s=612x612&w=0&k=20&c=A0EQ_zJ2EVS0YPUMmFXVcjcbvEtZo_yhHF0LKMa--98="
     },
     {
-      "id": 31,
+      "id": "31",
       "likes": 70,
       "name": "Hyena",
       "scientific_name": "Hyaenidae",
@@ -511,7 +511,7 @@
       "image_url": "https://media.istockphoto.com/id/1391602527/photo/hyena-on-the-open-savannah.webp?a=1&b=1&s=612x612&w=0&k=20&c=FqLJr1dR0NdPg_pucrSR4aMVSbARnZXStIXA_XB7U8w="
     },
     {
-      "id": 32,
+      "id": "32",
       "likes": 70,
       "name": "Bison",
       "scientific_name": "Bison bison",
@@ -528,7 +528,7 @@
       "image_url": "https://media.istockphoto.com/id/2167485825/photo/a-portrait-of-a-male-bison-in-yellowstone-national-park.webp?a=1&b=1&s=612x612&w=0&k=20&c=MAB8VaOvF4tmi8X4lgnXyErD6gc3jT5YSThyh1VvY8o="
     },
     {
-      "id": 33,
+      "id": "33",
       "likes": 70,
       "name": "Otter",
       "scientific_name": "Lutrinae",
@@ -545,7 +545,7 @@
       "image_url": "https://media.istockphoto.com/id/2148757239/photo/asian-small-clawed-otter.webp?a=1&b=1&s=612x612&w=0&k=20&c=RuWhZ6RHcgSGMwba7iKrJTCTkmxN-Nk5nnxVb4IAqrs="
     },
     {
-      "id": 34,
+      "id": "34",
       "likes": 70,
       "name": "Armadillo",
       "scientific_name": "Dasypodidae",
@@ -562,7 +562,7 @@
       "image_url": "https://media.istockphoto.com/id/151919834/photo/armadillo-in-grass-field.webp?a=1&b=1&s=612x612&w=0&k=20&c=iNeaHX1vzPuFetE7I5N3GKLt49FodV-s0J_--pal8n4="
     },
     {
-      "id": 35,
+      "id": "35",
       "likes": 70,
       "name": "Capybara",
       "scientific_name": "Hydrochoerus hydrochaeris",
@@ -579,7 +579,7 @@
       "image_url": "https://media.istockphoto.com/id/1418210562/photo/brazil-wildlife-capybara-hydrochoerus-hydrochaeris-biggest-mouse-near-the-water-with-evening.webp?a=1&b=1&s=612x612&w=0&k=20&c=WGUF6EoYrz6n1tGsnKaPJSI7UxvXWe3tvM_igGpWwro="
     },
     {
-      "id": 36,
+      "id": "36",
       "likes": 70,
       "name": "Wombat",
       "scientific_name": "Vombatidae",
@@ -596,8 +596,8 @@
       "image_url": "https://media.istockphoto.com/id/527218926/photo/wombat.webp?a=1&b=1&s=612x612&w=0&k=20&c=G8zvyQF0tUxHFlgpz-TId_5sV-CVA6xOM3Mw30EHYHU="
     },
     {
-      "id": 38,
-      "likes": 70,
+      "id": "38",
+      "likes": 69,
       "name": "Peregrine Falcon",
       "scientific_name": "Falco peregrinus",
       "category": "bird",
@@ -613,7 +613,7 @@
       "image_url": "https://media.istockphoto.com/id/2151732091/photo/peregrine-falcon-wings.webp?a=1&b=1&s=612x612&w=0&k=20&c=lRGzSwPgB9aP8QLk1iCWTbT36dEFUlhJxkoF0aUX8Hw="
     },
     {
-      "id": 39,
+      "id": "39",
       "likes": 70,
       "name": "Barn Owl",
       "scientific_name": "Tyto alba",
@@ -630,8 +630,8 @@
       "image_url": "https://media.istockphoto.com/id/1391564461/photo/barn-owl-sitting-in-a-tree.webp?a=1&b=1&s=612x612&w=0&k=20&c=hTTDLK0nO0pAtb6ZJUl8x-4NQsz2PxAQqGu5Jl5zSmw="
     },
     {
-      "id": 40,
-      "likes": 70,
+      "id": "40",
+      "likes": 69,
       "name": "Snowy Owl",
       "scientific_name": "Bubo scandiacus",
       "category": "bird",
@@ -647,7 +647,7 @@
       "image_url": "https://media.istockphoto.com/id/1253654256/photo/snowy-owl-hovering-bird-in-flight.webp?a=1&b=1&s=612x612&w=0&k=20&c=gXBTN-1nNqheSr5pzIpgF3zFdHMT7bUN7phnTVIpnxg="
     },
     {
-      "id": 41,
+      "id": "41",
       "likes": 70,
       "name": "Flamingo",
       "scientific_name": "Phoenicopteridae",
@@ -664,7 +664,7 @@
       "image_url": "https://media.istockphoto.com/id/1391139667/photo/colorful-flamingos-feeding.webp?a=1&b=1&s=612x612&w=0&k=20&c=j9qKY8OAmeHn0wbtmQptBpodbh92x3zqvbBpJdL4Zlc="
     },
     {
-      "id": 42,
+      "id": "42",
       "likes": 70,
       "name": "Peacock",
       "scientific_name": "Pavo cristatus",
@@ -681,7 +681,7 @@
       "image_url": "https://media.istockphoto.com/id/180699358/photo/peacock.webp?a=1&b=1&s=612x612&w=0&k=20&c=lWS-hiJ_OQF5D628tQ-nucxhZoHQMReITo4V2ciB0K4="
     },
     {
-      "id": 43,
+      "id": "43",
       "likes": 70,
       "name": "Ostrich",
       "scientific_name": "Struthio camelus",
@@ -698,7 +698,7 @@
       "image_url": "https://media.istockphoto.com/id/1444328447/photo/female-ostrich-in-natural-habitat-kalahari-desert-south-africa.webp?a=1&b=1&s=612x612&w=0&k=20&c=dTd653izoXJrIC1lqZ3iBPWDtpKyFOx7yurUSNOj268="
     },
     {
-      "id": 44,
+      "id": "44",
       "likes": 70,
       "name": "Emu",
       "scientific_name": "Dromaius novaehollandiae",
@@ -715,7 +715,7 @@
       "image_url": "https://media.istockphoto.com/id/1332968378/photo/emu-in-the-rain.webp?a=1&b=1&s=612x612&w=0&k=20&c=VD_plTdRlqXtIUDjfuVFM7FBKYY2LATpSJqTuQFbzMc="
     },
     {
-      "id": 45,
+      "id": "45",
       "likes": 70,
       "name": "Parrot",
       "scientific_name": "Psittaciformes",
@@ -732,7 +732,7 @@
       "image_url": "https://media.istockphoto.com/id/2096624397/photo/scarlet-macaw.webp?a=1&b=1&s=612x612&w=0&k=20&c=1lH_jrtcST_rLjEjSehSZlM6p70IIArPfQaRxbffjmE="
     },
     {
-      "id": 46,
+      "id": "46",
       "likes": 70,
       "name": "Macaw",
       "scientific_name": "Ara ararauna",
@@ -749,7 +749,7 @@
       "image_url": "https://media.istockphoto.com/id/1873605186/photo/a-scarlet-macaw-bird.webp?a=1&b=1&s=612x612&w=0&k=20&c=PJAVMHFrTxf-4XWJVOQdP5Zl--7khRSFfFkcdJFI8J8="
     },
     {
-      "id": 47,
+      "id": "47",
       "likes": 70,
       "name": "Emperor Penguin",
       "scientific_name": "Aptenodytes forsteri",
@@ -766,7 +766,7 @@
       "image_url": "https://media.istockphoto.com/id/2168588460/photo/emperor-penguin.webp?a=1&b=1&s=612x612&w=0&k=20&c=SQz2MBegXuvNC2dBdGN3Z7B90uPNlDflQqezRvepTXU="
     },
     {
-      "id": 48,
+      "id": "48",
       "likes": 70,
       "name": "Hummingbird",
       "scientific_name": "Trochilidae",
@@ -783,7 +783,7 @@
       "image_url": "https://media.istockphoto.com/id/2045878579/photo/white-necked-jacobin-hummingbird-at-a-red-and-yellow-flower-in-a-garden.webp?a=1&b=1&s=612x612&w=0&k=20&c=6OhDwlLi4V_IPBcnKOSao9GfVNqoWMarbiZ4CdBX5RQ="
     },
     {
-      "id": 49,
+      "id": "49",
       "likes": 70,
       "name": "Albatross",
       "scientific_name": "Diomedeidae",
@@ -800,7 +800,7 @@
       "image_url": "https://media.istockphoto.com/id/2160762539/photo/black-browed-albatross.webp?a=1&b=1&s=612x612&w=0&k=20&c=w0xzqtQqECrKlr6pFOZZbPlZF_ij1QIO3il647QUEMY="
     },
     {
-      "id": 50,
+      "id": "50",
       "likes": 70,
       "name": "Pelican",
       "scientific_name": "Pelecanus",
@@ -817,7 +817,7 @@
       "image_url": "https://media.istockphoto.com/id/1968486198/photo/pink-backed-pelican-in-senegal.webp?a=1&b=1&s=612x612&w=0&k=20&c=rpOJVKOyoHZgMR1SvaTbCHsbm6_DrsYVLcdz8tY07_A="
     },
     {
-      "id": 51,
+      "id": "51",
       "likes": 70,
       "name": "Swan",
       "scientific_name": "Cygnus",
@@ -834,7 +834,7 @@
       "image_url": "https://media.istockphoto.com/id/1990636488/photo/swan-portrait-at-golden-hour.webp?a=1&b=1&s=612x612&w=0&k=20&c=7Hxs0kktX-VGT1srCBwND4svfaJ0tt2l_3-xbhPFnSg="
     },
     {
-      "id": 52,
+      "id": "52",
       "likes": 70,
       "name": "Raven",
       "scientific_name": "Corvus corax",
@@ -851,7 +851,7 @@
       "image_url": "https://media.istockphoto.com/id/1465474308/photo/a-beautiful-raven-corvus-corax-bird-north-poland-europe.webp?a=1&b=1&s=612x612&w=0&k=20&c=U02-_o7BCPcIr6zdlPnxj7cHG9Uy183nmP5xYKKfIT4="
     },
     {
-      "id": 53,
+      "id": "53",
       "likes": 70,
       "name": "Vulture",
       "scientific_name": "Cathartidae",
@@ -868,7 +868,7 @@
       "image_url": "https://media.istockphoto.com/id/172770614/photo/griffon-vulture.webp?a=1&b=1&s=612x612&w=0&k=20&c=G5oe589Z_-FVodyto7WUHChP7CyKMIED5kYUGDTD12E="
     },
     {
-      "id": 54,
+      "id": "54",
       "likes": 70,
       "name": "Woodpecker",
       "scientific_name": "Picidae",
@@ -885,7 +885,7 @@
       "image_url": "https://media.istockphoto.com/id/1484669652/photo/pileated-woodpecker-portrait.webp?a=1&b=1&s=612x612&w=0&k=20&c=WYgDh_FFQ8ftLmwyC9e5UMosNIEXoCkft2OFZ-awbFg="
     },
     {
-      "id": 55,
+      "id": "55",
       "likes": 70,
       "name": "Crane",
       "scientific_name": "Gruidae",
@@ -902,7 +902,7 @@
       "image_url": "https://media.istockphoto.com/id/1038126912/photo/crane.webp?a=1&b=1&s=612x612&w=0&k=20&c=glc1jav4n2VHKLKxK1SAfiD6Itat_ZiZSnNQUFBV1O0="
     },
     {
-      "id": 56,
+      "id": "56",
       "likes": 70,
       "name": "Stork",
       "scientific_name": "Ciconiidae",
@@ -919,7 +919,7 @@
       "image_url": "https://media.istockphoto.com/id/1360852198/photo/stork-stands-in-the-nest-close-up-on-a-blue-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=fGUnrxG3PYBxn3RD4lmJ5iulV_LT3JTnZ56kzMoKx9g="
     },
     {
-      "id": 57,
+      "id": "57",
       "likes": 70,
       "name": "Cockatoo",
       "scientific_name": "Cacatuidae",
@@ -936,7 +936,7 @@
       "image_url": "https://media.istockphoto.com/id/1398717957/photo/sulphur-crested-cockatoo.webp?a=1&b=1&s=612x612&w=0&k=20&c=S0OMaGPCO5z2UN9VTQGfFB0XdIieb0jka3Xz0TYCwk4="
     },
     {
-      "id": 58,
+      "id": "58",
       "likes": 70,
       "name": "King Cobra",
       "scientific_name": "Ophiophagus hannah",
@@ -953,7 +953,7 @@
       "image_url": "https://media.istockphoto.com/id/538052908/photo/king-cobra.webp?a=1&b=1&s=612x612&w=0&k=20&c=wa17tUgbKEJNvBaRncTq1XlX0jB9YxZCvpqAj8g9Kew="
     },
     {
-      "id": 59,
+      "id": "59",
       "likes": 70,
       "name": "Reticulated Python",
       "scientific_name": "Malayopython reticulatus",
@@ -970,7 +970,7 @@
       "image_url": "https://media.istockphoto.com/id/487506120/photo/reticulated-python.webp?a=1&b=1&s=612x612&w=0&k=20&c=SuLmWsP7ZnlgGNyiKvofG0k-RcTqu2aSDkwkqDaDVQo="
     },
     {
-      "id": 60,
+      "id": "60",
       "likes": 70,
       "name": "Nile Crocodile",
       "scientific_name": "Crocodylus niloticus",
@@ -987,7 +987,7 @@
       "image_url": "https://media.istockphoto.com/id/1578486838/photo/group-of-crocodiles-coming-out-of-the-water-to-eat-crocodiles-get-ready-to-attack-prey-group.webp?a=1&b=1&s=612x612&w=0&k=20&c=tKTHjnMJ58IftgLQDmlmgBcta0jNdlcB7BKRRdGCOZI="
     },
     {
-      "id": 61,
+      "id": "61",
       "likes": 70,
       "name": "Alligator",
       "scientific_name": "Alligator mississippiensis",
@@ -1004,7 +1004,7 @@
       "image_url": "https://media.istockphoto.com/id/174673392/photo/alligator-smiley.webp?a=1&b=1&s=612x612&w=0&k=20&c=M3r0WnpxQw0QKCSZY9peeLq1ql0ipurzlpJR0Tfr-BQ="
     },
     {
-      "id": 62,
+      "id": "62",
       "likes": 70,
       "name": "Chameleon",
       "scientific_name": "Chamaeleonidae",
@@ -1021,7 +1021,7 @@
       "image_url": "https://media.istockphoto.com/id/969103888/photo/chameleon.webp?a=1&b=1&s=612x612&w=0&k=20&c=5o-KZo05khv9kd3W1NrZpWLGseCXkCYEDjy91GDQ3ag="
     },
     {
-      "id": 63,
+      "id": "63",
       "likes": 70,
       "name": "Gecko",
       "scientific_name": "Gekkonidae",
@@ -1038,7 +1038,7 @@
       "image_url": "https://media.istockphoto.com/id/2157491920/photo/endemic-mauritius-ornate-day-gecko-standing-upside-down-on-leaf-of-palm-tree.webp?a=1&b=1&s=612x612&w=0&k=20&c=Via04YL7IxtSr55KSBgtvUkl3RYnDc307d_BztX4ZIs="
     },
     {
-      "id": 64,
+      "id": "64",
       "likes": 70,
       "name": "Galápagos Tortoise",
       "scientific_name": "Chelonoidis nigra",
@@ -1055,7 +1055,7 @@
       "image_url": "https://media.istockphoto.com/id/2005665994/photo/galapgos-earth-tortoise-turtle.webp?a=1&b=1&s=612x612&w=0&k=20&c=fCOihpzwmZzBEhnm8Tig4TqP_CjZRNoO6dbIj8z0bqE="
     },
     {
-      "id": 65,
+      "id": "65",
       "likes": 70,
       "name": "Green Sea Turtle",
       "scientific_name": "Chelonia mydas",
@@ -1072,7 +1072,7 @@
       "image_url": "https://media.istockphoto.com/id/1938498790/photo/green-turtle.webp?a=1&b=1&s=612x612&w=0&k=20&c=GZ-gVV866zvcSRm5xdTlk9h84StYwxkOmT0A1exT6yI="
     },
     {
-      "id": 66,
+      "id": "66",
       "likes": 70,
       "name": "Iguana",
       "scientific_name": "Iguanidae",
@@ -1089,7 +1089,7 @@
       "image_url": "https://media.istockphoto.com/id/1401966592/photo/iguana-wildlife.webp?a=1&b=1&s=612x612&w=0&k=20&c=lPpto__efl2zX5qIYBKr_llG8BcOcxOBHG8RCl0dwns="
     },
     {
-      "id": 67,
+      "id": "67",
       "likes": 70,
       "name": "Monitor Lizard",
       "scientific_name": "Varanidae",
@@ -1106,7 +1106,7 @@
       "image_url": "https://media.istockphoto.com/id/2178270630/photo/lace-monitor-goanna.webp?a=1&b=1&s=612x612&w=0&k=20&c=QDY1lhdHJgH4eJ-l4V5RaC1sj2sWbQUr024bjBvq4gk="
     },
     {
-      "id": 68,
+      "id": "68",
       "likes": 70,
       "name": "Gila Monster",
       "scientific_name": "Heloderma suspectum",
@@ -1123,7 +1123,7 @@
       "image_url": "https://media.istockphoto.com/id/1766098608/photo/the-gila-monster-heloderma-suspectum-is-a-species-of-venomous-lizard-native-to-the.webp?a=1&b=1&s=612x612&w=0&k=20&c=zTxFKlR-0UtabUrjG4Q04XDE_47tnRlcWFgCQTc5F4U="
     },
     {
-      "id": 69,
+      "id": "69",
       "likes": 70,
       "name": "Rattlesnake",
       "scientific_name": "Crotalus",
@@ -1140,8 +1140,8 @@
       "image_url": "https://media.istockphoto.com/id/1207806058/photo/desert-phase-black-tailed-rattlesnake.webp?a=1&b=1&s=612x612&w=0&k=20&c=Zci6KNJ0jr2Jmvrf66rs3E7iirQdPMMpKdlt7bN9hlE="
     },
     {
-      "id": 70,
-      "likes": 70,
+      "id": "70",
+      "likes": 69,
       "name": "Great White Shark",
       "scientific_name": "Carcharodon carcharias",
       "category": "fish",
@@ -1157,7 +1157,7 @@
       "image_url": "https://media.istockphoto.com/id/533130811/photo/great-white-shark-smile.webp?a=1&b=1&s=612x612&w=0&k=20&c=LaSNlOaR7ATgGh6HVAhOB9rbHE0iWR6z1PJV5ErwYN4="
     },
     {
-      "id": 71,
+      "id": "71",
       "likes": 70,
       "name": "Hammerhead Shark",
       "scientific_name": "Sphyrna",
@@ -1174,8 +1174,8 @@
       "image_url": "https://media.istockphoto.com/id/543687748/photo/hammerhead-shark-on-the-ocean-floor.webp?a=1&b=1&s=612x612&w=0&k=20&c=C75Wpx8MTBAVXgGTCawJv1MCURujUrVhwayZAuLqPDA="
     },
     {
-      "id": 72,
-      "likes": 70,
+      "id": "72",
+      "likes": 62,
       "name": "Clownfish",
       "scientific_name": "Amphiprioninae",
       "category": "fish",
@@ -1191,7 +1191,7 @@
       "image_url": "https://media.istockphoto.com/id/1212886661/photo/clownfish.webp?a=1&b=1&s=612x612&w=0&k=20&c=Nkleomhz3lPERuOaLjM5sTzCLAE0QbbAE84THDe7EJU="
     },
     {
-      "id": 73,
+      "id": "73",
       "likes": 70,
       "name": "Anglerfish",
       "scientific_name": "Lophiiformes",
@@ -1208,7 +1208,7 @@
       "image_url": "https://media.istockphoto.com/id/1701811448/photo/dark-deep-sea-fish.webp?a=1&b=1&s=612x612&w=0&k=20&c=ctkDD9LaBeyKH_3yAIpPN218K2PAKehi7FO62JaZR24="
     },
     {
-      "id": 74,
+      "id": "74",
       "likes": 70,
       "name": "Lionfish",
       "scientific_name": "Pterois",
@@ -1225,7 +1225,7 @@
       "image_url": "https://media.istockphoto.com/id/1787985622/photo/beautiful-lionfish-or-zebra-fish.webp?a=1&b=1&s=612x612&w=0&k=20&c=AcrSidyuFQe66wGajhjSJEyazJyoZkILdZkhNo2AjHA="
     },
     {
-      "id": 75,
+      "id": "75",
       "likes": 70,
       "name": "Goldfish",
       "scientific_name": "Carassius auratus",
@@ -1242,7 +1242,7 @@
       "image_url": "https://media.istockphoto.com/id/168627134/photo/goldfish-aquarium-a-fish-on-the-background-of-aquatic-plants.webp?a=1&b=1&s=612x612&w=0&k=20&c=7NStWPiHv-xlVIce_6mUSCFjltnyOZc8O-vD5rXdkhM="
     },
     {
-      "id": 76,
+      "id": "76",
       "likes": 70,
       "name": "Stingray",
       "scientific_name": "Dasyatidae",
@@ -1259,7 +1259,7 @@
       "image_url": "https://media.istockphoto.com/id/157732523/photo/spotted-stingray-fish.webp?a=1&b=1&s=612x612&w=0&k=20&c=yU2M1vuUXDTHFUR5-8tHi20-LyYe4CAG8wFKVuiIxmg="
     },
     {
-      "id": 77,
+      "id": "77",
       "likes": 70,
       "name": "Catfish",
       "scientific_name": "Siluriformes",
@@ -1276,7 +1276,7 @@
       "image_url": "https://media.istockphoto.com/id/2158350852/photo/a-brown-bullhead-is-a-catfish.webp?a=1&b=1&s=612x612&w=0&k=20&c=Shh-HzhNX4tFmYrpPji4EyeoXxl0MlWKY7gkI4-ylOI="
     },
     {
-      "id": 78,
+      "id": "78",
       "likes": 70,
       "name": "Tuna",
       "scientific_name": "Thunnus",
@@ -1293,7 +1293,7 @@
       "image_url": "https://media.istockphoto.com/id/1334276621/photo/bluefin-tuna-thunnus-thynnus-saltwater-fish.webp?a=1&b=1&s=612x612&w=0&k=20&c=TWb4NbpXdMFEkZ23PWTDhmZpEhwmIb4sYeTwG-_AwBs="
     },
     {
-      "id": 79,
+      "id": "79",
       "likes": 70,
       "name": "Pufferfish",
       "scientific_name": "Tetraodontidae",
@@ -1310,7 +1310,7 @@
       "image_url": "https://media.istockphoto.com/id/2153195658/photo/yellowspotted-burrfish-using-its-defense-system.webp?a=1&b=1&s=612x612&w=0&k=20&c=mwUftaoXXPn9hTYuurYDCajfi3B8HfHUYm1zot6u048="
     },
     {
-      "id": 80,
+      "id": "80",
       "likes": 70,
       "name": "Seal",
       "scientific_name": "Phocidae",
@@ -1327,7 +1327,7 @@
       "image_url": "https://media.istockphoto.com/id/496793764/photo/harbor-seal.webp?a=1&b=1&s=612x612&w=0&k=20&c=c3gMd4Jzac4yHlxFyqUA_ADze-elkNPyvGrnumsf0O4="
     },
     {
-      "id": 81,
+      "id": "81",
       "likes": 70,
       "name": "Walrus",
       "scientific_name": "Odobenus rosmarus",
@@ -1344,7 +1344,7 @@
       "image_url": "https://media.istockphoto.com/id/507243873/photo/waltus.webp?a=1&b=1&s=612x612&w=0&k=20&c=ulQAGvIbSEJrEjazSKfm4jaLa7pT-0J_yF6sP8y82mY="
     },
     {
-      "id": 82,
+      "id": "82",
       "likes": 70,
       "name": "Manatee",
       "scientific_name": "Trichechus",
@@ -1361,7 +1361,7 @@
       "image_url": "https://media.istockphoto.com/id/1360292778/photo/the-west-indian-manatee-or-sea-cow-also-known-as-north-american-manatee-is-the-largest.webp?a=1&b=1&s=612x612&w=0&k=20&c=5JAzorlMqm04AhrN3NbtXNjSZTRhtFAq9zN8Faore-0="
     },
     {
-      "id": 83,
+      "id": "83",
       "likes": 70,
       "name": "Narwhal",
       "scientific_name": "Monodon monoceros",
@@ -1378,7 +1378,7 @@
       "image_url": "https://media.istockphoto.com/id/2166801275/photo/narwhal-male-whales.webp?a=1&b=1&s=612x612&w=0&k=20&c=BFit2x3kgq9avdA11fl4nGzdcToongQqg_ufv5Ae3gw="
     },
     {
-      "id": 85,
+      "id": "85",
       "likes": 70,
       "name": "Dugong",
       "scientific_name": "Dugong dugon",
@@ -1395,7 +1395,7 @@
       "image_url": "https://media.istockphoto.com/id/1729477859/photo/dugong-in-the-red-sea.webp?a=1&b=1&s=612x612&w=0&k=20&c=o2ucGc0kYrPSaZJ5UOvOOsXxN4kMKJ18n6BX0uRopWg="
     },
     {
-      "id": 86,
+      "id": "86",
       "likes": 70,
       "name": "Hedgehog",
       "scientific_name": "Erinaceinae",
@@ -1412,7 +1412,7 @@
       "image_url": "https://media.istockphoto.com/id/2092156381/photo/european-hedgehog.webp?a=1&b=1&s=612x612&w=0&k=20&c=9uI5Uf6_WQc_hoYeOLjSOYKv8U-di8-WltI26jQ34DE="
     },
     {
-      "id": 88,
+      "id": "88",
       "likes": 70,
       "name": "Ferret",
       "scientific_name": "Mustela putorius furo",
@@ -1429,7 +1429,7 @@
       "image_url": "https://media.istockphoto.com/id/2074175062/photo/two-ferrets-walking-together-on-leash-in-summer-green-grass.webp?a=1&b=1&s=612x612&w=0&k=20&c=iJplqMEQIJwjUVieM9NwIbklgxbKxuY_S6VgEDvzweA="
     },
     {
-      "id": 89,
+      "id": "89",
       "likes": 70,
       "name": "Platypus",
       "scientific_name": "Ornithorhynchus anatinus",
@@ -1446,7 +1446,7 @@
       "image_url": "https://media.istockphoto.com/id/2152996198/photo/high-angle-shot-of-a-platypus-swimming-to-the-left-in-the-broken-river-at-eungella-national.webp?a=1&b=1&s=612x612&w=0&k=20&c=Q7cDoc0I3hsPMzZmbI3hprwX5i9RMuMbOVtu8Hyd3Sw="
     },
     {
-      "id": 90,
+      "id": "90",
       "likes": 70,
       "name": "Tapir",
       "scientific_name": "Tapiridae",
@@ -1463,7 +1463,7 @@
       "image_url": "https://media.istockphoto.com/id/1365736941/photo/bairds-tapir.webp?a=1&b=1&s=612x612&w=0&k=20&c=dyaRD9cdU_ghuuk58Kq6RWXRshZACfGugL7G6iS54zY="
     },
     {
-      "id": 91,
+      "id": "91",
       "likes": 70,
       "name": "Antelope",
       "scientific_name": "Bovidae",
@@ -1480,7 +1480,7 @@
       "image_url": "https://media.istockphoto.com/id/1401261120/photo/a-male-impala-on-an-overcast-morning-on-the-grasslands-of-central-kruger.webp?a=1&b=1&s=612x612&w=0&k=20&c=juJ-dgZed6AojPzVVHik_jDZEbGZpu5R69iNRitblpM="
     },
     {
-      "id": 92,
+      "id": "92",
       "likes": 70,
       "name": "Oryx",
       "scientific_name": "Oryx",
@@ -1497,7 +1497,7 @@
       "image_url": "https://media.istockphoto.com/id/1902089177/photo/gemsboks.webp?a=1&b=1&s=612x612&w=0&k=20&c=SiHF9zk2FFIAZseM8y2BLQBDW2bOJQJhchfuDPpTsto="
     },
     {
-      "id": 93,
+      "id": "93",
       "likes": 70,
       "name": "Kudu",
       "scientific_name": "Tragelaphus strepsiceros",
@@ -1514,7 +1514,7 @@
       "image_url": "https://media.istockphoto.com/id/2148808079/photo/large-kudu-bull-in-the-kruger-national-park-limpopo-south-africa.webp?a=1&b=1&s=612x612&w=0&k=20&c=RLeTNFbL7vrpuPD8bbNvhPStMuUaJIXQNsWbJP2E0FY="
     },
     {
-      "id": 94,
+      "id": "94",
       "likes": 70,
       "name": "Bongo",
       "scientific_name": "Tragelaphus eurycerus",
@@ -1531,7 +1531,7 @@
       "image_url": "https://media.istockphoto.com/id/2155196039/photo/bongo-antelope.webp?a=1&b=1&s=612x612&w=0&k=20&c=sTGuGTaeWm2SmmsCsCkx-A5yKZpRNz98N59ZSTF0hGU="
     },
     {
-      "id": 95,
+      "id": "95",
       "likes": 70,
       "name": "Gazelle",
       "scientific_name": "Antilopinae",
@@ -1548,7 +1548,7 @@
       "image_url": "https://media.istockphoto.com/id/616114736/photo/thomsons-gazelle-ngorongoro-tanzania-africa.webp?a=1&b=1&s=612x612&w=0&k=20&c=x7DAWdUCp_ayFt1gqLNmXUe9dKGmtRdVekDKsQu4AoU="
     },
     {
-      "id": 96,
+      "id": "96",
       "likes": 70,
       "name": "Moose",
       "scientific_name": "Alces alces",
@@ -1565,7 +1565,7 @@
       "image_url": "https://media.istockphoto.com/id/2162184533/photo/moose-on-the-loose.webp?a=1&b=1&s=612x612&w=0&k=20&c=FANw_HUkc4FnmT9fakpRsOlMi3Q_TdHIhbwWhDkT8Gk="
     },
     {
-      "id": 97,
+      "id": "97",
       "likes": 70,
       "name": "Lynx",
       "scientific_name": "Lynx",
@@ -1582,7 +1582,7 @@
       "image_url": "https://media.istockphoto.com/id/1835504091/photo/the-bobcat-also-known-as-the-red-lynx-is-a-medium-sized-cat-native-to-north-america-it-ranges.webp?a=1&b=1&s=612x612&w=0&k=20&c=JM5EhCpaT26zaW8Atu4pcQHLFVbGTA5zV9M__jj-5hk="
     },
     {
-      "id": 98,
+      "id": "98",
       "likes": 70,
       "name": "Jaguar",
       "scientific_name": "Panthera onca",
@@ -1599,7 +1599,7 @@
       "image_url": "https://media.istockphoto.com/id/546803214/photo/jaguar.webp?a=1&b=1&s=612x612&w=0&k=20&c=Phs3Vrk8mt1dWS6m7Y6KGaoPG_3jfN1nuVXE-VjRC4A="
     },
     {
-      "id": 99,
+      "id": "99",
       "likes": 70,
       "name": "Panther",
       "scientific_name": "Puma concolor",
@@ -1616,7 +1616,7 @@
       "image_url": "https://media.istockphoto.com/id/1833290413/photo/the-cougar-puma-concolor-also-known-as-the-puma-mountain-lion-catamount-or-panther-is-a-large.webp?a=1&b=1&s=612x612&w=0&k=20&c=rMBFK6UPxZlbQjAu9lv2Y_oJTjQSwmmaLv1O8-h1ftQ="
     },
     {
-      "id": 100,
+      "id": "100",
       "likes": 70,
       "name": "Squirrel",
       "scientific_name": "Sciuridae",

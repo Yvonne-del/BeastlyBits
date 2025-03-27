@@ -22,16 +22,9 @@ header {
     padding: 5px 10px;
     background-color: rgba(0, 0, 0, 0.9);
     color: rgba(218, 165, 32, 0.89);
-    position: fixed;
     width: 100%;
     top: 0;
     left: 0;
-    z-index: 1000;
-}
-
-/* 🔹 Adjust body padding to prevent content hiding behind fixed header */
-body {
-    padding-top: 30px; /* Adjust according to header height */
 }
 
 #searchicon {
@@ -70,9 +63,7 @@ body {
 /* 🔹 Center and style the welcome box */
 #welcome {
     width: 50%;
-    height: auto;
-    margin-top: 2%;
-    margin-left: 2%;
+    height: 100%;
     padding: 20px;
     border-radius: 20px;
     background: rgba(0, 0, 0, 0.6);
@@ -82,15 +73,16 @@ body {
 }
 
 #welcome h2 {
+    margin-top: 5%;
     font-size: 24px;
     font-weight: 600;
-    margin-bottom: 10px;
+    margin-bottom: 2%;
 }
 
 #welcome p {
     font-size: 16px;
     font-weight: 300;
-    line-height: 1.5;
+    line-height: 1.7;
 }
 #home-buttons{
     margin: auto;
@@ -109,8 +101,7 @@ body {
     top: 60px; /* Just below the header */
     left: 0;
     background: rgba(0, 0, 0, 0.8);
-    padding: 10px 0;
-    z-index: 999;
+    padding: 1% 0;
 }
 
 
@@ -120,21 +111,19 @@ body {
     justify-content: center;
     align-items: center;
     margin: auto;
-    margin-top: 1%;
     width: 60%;
     height: auto;
 }
 
 /* 🔹 Individual navigation buttons */
 .nav {
-    margin-top: 2%;
     width: 16%;
     height: 40px;
     text-align: center;
     padding: 10px;
     border: 0;
     border-right: 1px solid white;
-    background-color: rgba(2, 2, 2, 0.1);
+    background-color: rgba(2, 2, 2, 0.3);
     color: white;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
@@ -155,12 +144,12 @@ body {
     display: none;
 }
 
-#land, #sky, #rocks, #water, #flower { /* Section IDs */
+#land, #sky, #rocks, #water, #flower, #liked { /* Section IDs */
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: auto auto; /* 2 rows */
     gap: 20px;
-    padding: 20px;
+    padding: 15px;
     justify-content: center;
 }
 
@@ -189,6 +178,65 @@ body {
 .hidden {
     display: none;
 }
+
+/* Style the likes and like button container */
+.likes-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    padding: 0 15px;
+}
+
+/* Style the likes counter */
+.likes-count {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Style the like button */
+.likes-container {
+    display: flex; 
+    justify-content: space-between; /* Space out elements */
+    align-items: center; /* Align vertically */
+    width: 100%; 
+    padding: 10px;
+    position: relative; /* Ensure it stays within the card */
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.8); /* Light background for visibility */
+}
+
+.likes-count {
+    font-size: 14px;
+    font-weight: bold;
+    color: #333; /* Dark text */
+    margin-left: 10px;
+}
+
+.like-button {
+    background: #007bff; /* Blue color */
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.3s;
+    margin-right: 10px;
+}
+
+.like-button:hover {
+    background: #0056b3; /* Darker blue on hover */
+}
+
+.like-button.liked {
+    background: #28a745; /* Green when liked */
+}
+
+
 
 
 /* 📱 Mobile Responsiveness */
