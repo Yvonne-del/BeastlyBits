@@ -26,16 +26,41 @@ header {
     top: 0;
     left: 0;
 }
+.search-container{
+    position: relative;
 
+}
+.drop-down{
+    margin: 3% 0;
+    position: absolute;
+    width: 95%;
+    height: 300px;
+    overflow-y: auto;
+}
+.menuList{
+    background-color: rgb(0, 0, 0,0.5);
+    color: aliceblue;
+    padding: 5px 8px;
+}
+::-webkit-scrollbar{
+    width: 5px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgb(139, 100, 0);
+}
+::-webkit-scrollbar-track{
+    background-color: rgb(0, 0, 0,0.5);
+}
 #searchicon {
     display: flex;
-    align-items: center;
 }
 
 #searchbar {
     padding: 2%;
-    width: 50%;
+    width: 70%;
     border: none;
+    outline: none;
+    color: white;
     border-radius: 10px 0 0 10px;
     background-color: rgba(179, 175, 175, 0.2);
     text-align: center;

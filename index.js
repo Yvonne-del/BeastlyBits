@@ -8,7 +8,7 @@ function showSection(sectionId, event) {
 }
 
 
-document.addEventListener("DOMContentLoaded", () => {
+
     const baseURL = "https://pawprint-c702.onrender.com";
     const mammalList = document.getElementById("land");
     const birdList = document.getElementById("sky");
@@ -16,9 +16,14 @@ document.addEventListener("DOMContentLoaded", () => {
     const fishList = document.getElementById("water");
     const insectList = document.getElementById("flower");
     const likedSection = document.getElementById("liked"); // Liked animals section
+    const searchInput = document.getElementById("searchbar")
+    const menuContainer = document.getElementById("dropMenu")
+    const menu = document.getElementById("dropDownList")
 
     // Load liked animals from local storage
     let likedAnimals = JSON.parse(localStorage.getItem("likedAnimals")) || {};
+
+    let animalNames = []; // Array to store names
 
     // GET animal information
     async function getAnimals() {
@@ -26,6 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const data = await res.json();
 
         data.forEach(item => {
+            animalNames.push(item.name.toLowerCase());
             const showAnimal = createAnimalCard(item);
             
             // Append to the correct category
@@ -41,6 +47,29 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         });
     }
+    searchInput.addEventListener("input", function() {
+        let query = this.value.toLowerCase(); // Get user input
+        let filteredAnimals = animalNames.filter(name => name.includes(query)); // Filter names
+    
+        handleSearchBar(filteredAnimals, query);
+    });
+    
+    // Function to display search results
+    function handleSearchBar(results, query) {
+        menu.innerHTML = ""; // Clear previous results
+        if(query.trim()===""){
+            menu.style.display = "none";
+            return;
+        }
+        menu.style.display = "block"
+        results.forEach(name => {
+                let listItem = document.createElement("li");
+                listItem.classList.add("menuList")
+                listItem.textContent = name;
+                menu.appendChild(listItem);
+            });
+    }
+    
 
     // Function to create an animal card
     function createAnimalCard(item) {
@@ -232,6 +261,4 @@ document.addEventListener("DOMContentLoaded", () => {
         localStorage.setItem("likedAnimals", JSON.stringify(likedAnimals));
     }
 
-
     getAnimals();
-});

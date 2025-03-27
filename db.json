@@ -1,4 +1,20 @@
 {
+  "humans":[
+    {
+      "id": "h4r",
+      "likes": 5,
+      "name": "men",
+      "scientific_name": "Loxodonta",
+      "category": "mammal"
+    },
+    {
+      "id": "h4r7",
+      "likes": 10,
+      "name": "women",
+      "scientific_name": "Loxodont",
+      "category": "mammal"
+    }
+  ],
   "animals": [
     {
       "id": "1",
