@@ -57,6 +57,8 @@ Check the Liked section to see your saved animals.
 
 Unlike an animal anytime by clicking "Remove Like."
 
+To exit from the animal details page, press the ESC key
+
 # 🐞 Common Issues & Fixes
 ❌ Animal Details Not Showing?
 Make sure #animal-details exists in index.html.
