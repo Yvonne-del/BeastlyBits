@@ -2752,6 +2752,80 @@
       ],
       "population": "Common in tropical areas.",
       "image_url": "https://media.istockphoto.com/id/1069985516/photo/wild-atlas-beetles.webp?a=1&b=1&s=612x612&w=0&k=20&c=kJ-nVK1VW3WEmmb1TWvPA12mXbXXyILjVBQkaSb7Xrs="
+  },
+  {
+    "id": "169",
+    "likes": 40,
+    "name": "European Eel",
+    "scientific_name": "Anguilla anguilla",
+    "category": "fish",
+    "description": "The European Eel is a long, snake-like fish known for its migratory behavior and complex life cycle. These fascinating creatures are born in the Sargasso Sea and navigate thousands of kilometers across the Atlantic Ocean to rivers and lakes in Europe, where they spend most of their lives before returning to the Sargasso Sea to spawn. Their impressive elongated bodies can reach lengths of up to 1.5 meters (almost 5 feet), and they can weigh over 5 kilograms (11 pounds). Known for their slippery skin and a remarkable ability to camouflage, eels are both intriguing and elusive.",
+    "habitat": "European Eels inhabit a variety of environments, including coastal waters, rivers, lakes, and even brackish waters. As adults, they tend to favor freshwater environments but often return to the sea to spawn.",
+    "diet": "Carnivore - European Eels are opportunistic feeders, consuming a diet that includes crustaceans, fish, insects, and various types of detritus.",
+    "fun_facts": [
+        "European Eels have a unique life cycle. They hatch as tiny larvae called leptocephali in the Sargasso Sea and drift with the ocean currents for about a year and a half before transforming into glass eels as they approach coastal areas.",
+        "Despite their name, eels are actually more closely related to other fish such as pike and catfish than they are to snake-like creatures like the lamprey.",
+        "Eels can live for a remarkably long time—some individuals have been known to live for over 80 years! This has made them a subject of interest for scientists studying aging and longevity in animals.",
+        "Eels are capable of breathing through their skin when out of water for short periods and can even survive on land for hours as they move between bodies of water.",
+        "Culturally, the European Eel has played a significant role in folklore and mythology. In some cultures, they are considered symbols of transformation and adaptability.",
+        "The migration of European Eels is one of nature's most extraordinary journeys, with some traveling over 6,000 kilometers (about 3,700 miles) back to their spawning grounds in the Sargasso Sea. They navigate this lengthy journey using a combination of environmental cues and their acute sense of smell."
+    ],
+    "population": "The European Eel is currently classified as Critically Endangered by the International Union for Conservation of Nature (IUCN) due to overfishing, habitat loss, and barriers to migration such as dams and pollution.",
+    "image_url": "https://images.unsplash.com/photo-1516683169270-7514e272a5fc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZWVsfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "170",
+    "likes": 55,
+    "name": "Grouper",
+    "scientific_name": "Epinephelus spp.",
+    "category": "fish",
+    "description": "Groupers are a diverse family of fish known for their stout bodies, large mouths, and strong jaws. They inhabit warm waters, typically found in coral reefs and rocky habitats. Groupers are prized in both commercial and sport fishing for their delicious, firm flesh.",
+    "habitat": "Coral reefs, rocky bottoms, and deeper waters in tropical and subtropical regions around the world.",
+    "diet": "Carnivore - primarily feeds on fish, crustaceans, and cephalopods.",
+    "fun_facts": [
+        "Groupers can grow quite large, with some species reaching over 2.5 meters (8 feet) in length.",
+        "They are known for their unique ability to change sex; some species can switch from female to male.",
+        "Groupers often use a hunting strategy called 'ambush feeding,' where they hide and then quickly dart out to catch their prey.",
+        "These fish have a relatively long lifespan, with some individuals living for over 50 years."
+    ],
+    "population": "Population varies by species, but many grouper populations are threatened due to overfishing and habitat loss.",
+    "image_url": "https://media.istockphoto.com/id/108202598/photo/portrait-of-large-fat-grouper-fish-in-aquarium.webp?a=1&b=1&s=612x612&w=0&k=20&c=nPvEfZqHgg6cvEDt_lY1lQJoE6iKe1EGBlpl9rU3fd8="
+  },
+  {
+    "id": "171",
+    "likes": 75,
+    "name": "Seahorse",
+    "scientific_name": "Hippocampus spp.",
+    "category": "fish",
+    "description": "Seahorses are small marine fish notable for their horse-like appearance, with a unique structure that allows them to swim upright. They are found in shallow coastal waters and are often seen clinging to seagrasses and corals with their prehensile tails.",
+    "habitat": "Shallow waters, coral reefs, and seagrass beds in warm and temperate seas.",
+    "diet": "Carnivore - primarily feeds on small shrimp and zooplankton.",
+    "fun_facts": [
+        "Male seahorses are known for their unique reproductive role, as they carry and nurture the young in a pouch.",
+        "They can change color to blend in with their surroundings, helping them avoid predators.",
+        "Seahorses are one of the few non-penguin species that mate for life, often performing elaborate courtship dances.",
+        "Despite their name, seahorses are a type of fish and have a bony exoskeleton instead of scales."
+    ],
+    "population": "Population varies; some species are threatened due to habitat loss and overfishing.",
+    "image_url": "https://images.unsplash.com/photo-1607646710406-83d1fcfbbf94?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2VhJTIwaG9yc2V8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": "172",
+    "likes": 80,
+    "name": "Electric Eel",
+    "scientific_name": "Electrophorus electricus",
+    "category": "fish",
+    "description": "The Electric Eel is a type of knifefish known for its ability to generate powerful electric shocks to stun prey and defend itself. Despite its name, it is not a true eel but rather closely related to catfish. They can grow up to 2.5 meters (8.2 feet) and are primarily found in the rivers and swamps of the Amazon and Orinoco basins.",
+    "habitat": "Freshwater environments, particularly in slow-moving waters and swamps in South America.",
+    "diet": "Carnivore - feeds on fish, amphibians, and small invertebrates.",
+    "fun_facts": [
+        "Electric Eels can generate an electric shock of up to 600 volts, which they use for navigation, communication, and predation.",
+        "They have specialized electric organs that make up about 80% of their body, enabling them to produce electric discharges.",
+        "Electric Eels breathe air and can survive in low-oxygen environments by coming to the surface to breathe.",
+        "They use their electric fields to locate and capture prey, essentially mapping their surroundings with electricity."
+    ],
+    "population": "Population status is not well-documented, but habitat destruction is a concern in some areas.",
+    "image_url": "https://media.istockphoto.com/id/923734062/photo/electric-eel.jpg?s=612x612&w=0&k=20&c=vZsBY4CS0_1JDt1TjuF-wGMQCFEvNtunpZi0YT69coI="
   }
   ]
 }
