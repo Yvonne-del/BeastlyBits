@@ -2963,6 +2963,40 @@
     ],
     "population": "Stable in some areas but threatened by habitat loss and overfishing in others.",
     "image_url": "https://plus.unsplash.com/premium_photo-1723733104322-827186b5eb9e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b2N0b3B1c3xlbnwwfHwwfHx8MA%3D%3D"
-  }
+  },
+  {
+    "id": "181",
+    "likes": 2295,
+    "name": "Sea Otter",
+    "scientific_name": "Enhydra lutris",
+    "category": "mammal",
+    "description": "Sea Otters are small marine mammals known for their playful behavior and thick, soft fur. They play a crucial role in coastal marine ecosystems, helping to maintain kelp forest health by preying on sea urchins.",
+    "habitat": "Coastal waters of the Pacific Ocean, often found in kelp forests and near shorelines.",
+    "diet": "Carnivore - primarily feeds on sea urchins, crabs, and various fish.",
+    "fun_facts": [
+        "Sea Otters have the densest fur of any animal, with up to a million hair follicles per square inch to keep them warm.",
+        "They use tools, such as rocks, to crack open shellfish, demonstrating remarkable intelligence.",
+        "Sea Otters can hold their breath underwater for up to 5 minutes while foraging for food."
+    ],
+    "population": "Recovered from near extinction, but some populations remain threatened.",
+    "image_url": "https://media.istockphoto.com/id/1541679263/photo/watchful-and-protective-sea-otter-mother-holding-baby-on-stomach-while-swimming-in-ocean.webp?a=1&b=1&s=612x612&w=0&k=20&c=rfo1daXAvr5ubC-QCr2V8KgTWdM5Nx6jvX2zzxrmtP0="
+},
+{
+    "id": "182",
+    "likes": 1084,
+    "name": "Gray Whale",
+    "scientific_name": "Eschrichtius robustus",
+    "category": "mammal",
+    "description": "Gray Whales are large baleen whales known for their long migrations, traveling up to 12,000 miles (19,000 kilometers) round-trip each year from feeding grounds in the Arctic to breeding lagoons in Mexico.",
+    "habitat": "Coastal waters of the Pacific Ocean, primarily along the U.S. West Coast and Mexico.",
+    "diet": "Baleen feeder - primarily consumes benthic invertebrates, such as amphipods and crustaceans.",
+    "fun_facts": [
+        "Gray Whales have one of the longest migration routes of any mammal, often covering vast distances each year.",
+        "They are known for their unique bottom-feeding behavior, where they roll onto their sides and scoop up sediment from the ocean floor.",
+        "After near extinction due to whaling, Gray Whales have made a remarkable recovery and are now considered a conservation success story."
+    ],
+    "population": "Recovering population; currently considered Least Concern by the IUCN.",
+    "image_url": "https://plus.unsplash.com/premium_photo-1724199431641-a9399ccd8caa?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z3JleXdoYWxlfGVufDB8fDB8fHww"
+}
   ]
 }
