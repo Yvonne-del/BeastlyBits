@@ -2997,6 +2997,41 @@
     ],
     "population": "Recovering population; currently considered Least Concern by the IUCN.",
     "image_url": "https://plus.unsplash.com/premium_photo-1724199431641-a9399ccd8caa?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z3JleXdoYWxlfGVufDB8fDB8fHww"
+},
+{
+  "id": "183",
+  "likes": 1085,
+  "name": "Black Mamba",
+  "scientific_name": "Dendroaspis polylepis",
+  "category": "reptile",
+  "description": "The Black Mamba is one of the longest and most venomous snakes in the world, known for its striking black coloration inside its mouth and its incredible speed. It can reach lengths of up to 4.5 meters (15 feet) and is native to various habitats across sub-Saharan Africa.",
+  "habitat": "Woodlands, savannas, and rocky hillsides throughout Africa.",
+  "diet": "Carnivore - primarily feeds on small mammals and birds.",
+  "fun_facts": [
+      "Black Mambas are highly feared due to their potent venom, which can kill a human in less than an hour if untreated.",
+      "They are incredibly fast, capable of moving at speeds of up to 20 km/h (12 mph).",
+      "Unlike many other snakes, Black Mambas are known for their aggressive behavior when threatened and will defend themselves vigorously.",
+      "Their venom contains neurotoxins that affect the nervous system, leading to paralysis and respiratory failure."
+  ],
+  "population": "Generally stable; however, habitat loss and persecution can pose threats to local populations.",
+  "image_url": "https://media.istockphoto.com/id/1596136040/photo/black-mamba.webp?a=1&b=1&s=612x612&w=0&k=20&c=ENy0fA_KCgiqEbq2DYqbS9IOCS50qiKY7DdGCheOzUY="
+},
+{
+  "id": "184",
+  "likes": 1078,
+  "name": "Frilled Lizard",
+  "scientific_name": "Chlamydosaurus kingii",
+  "category": "reptile",
+  "description": "The Frilled Lizard is an arboreal reptile found in the tropical forests of Northern Australia and New Guinea. Famous for its large, striking frill that extends from its neck when threatened, it uses this unique adaptation for display and intimidation.",
+  "habitat": "Tropical rainforests and woodlands in Northern Australia and New Guinea.",
+  "diet": "Carnivore - primarily feeds on insects and small invertebrates.",
+  "fun_facts": [
+      "When threatened, the Frilled Lizard can expand its frill, making it appear larger and more intimidating to predators.",
+      "They are capable of bipedal locomotion, allowing them to run on their hind legs for short distances.",
+      "Frilled Lizards can also change color slightly, which can help with camouflage in their natural habitat."
+  ],
+  "population": "Generally stable, but habitat destruction poses potential risks.",
+  "image_url": "https://media.istockphoto.com/id/1094244788/photo/frill-necked-lizard.webp?a=1&b=1&s=612x612&w=0&k=20&c=UOklPNuqdVlWadglUf25TiWlE7Pjh4bx1eQmGWMpUPM="
 }
   ]
 }
