@@ -2755,7 +2755,7 @@
   },
   {
     "id": "169",
-    "likes": 40,
+    "likes": 2040,
     "name": "European Eel",
     "scientific_name": "Anguilla anguilla",
     "category": "fish",
@@ -2775,7 +2775,7 @@
   },
   {
     "id": "170",
-    "likes": 55,
+    "likes": 1055,
     "name": "Grouper",
     "scientific_name": "Epinephelus spp.",
     "category": "fish",
@@ -2793,7 +2793,7 @@
   },
   {
     "id": "171",
-    "likes": 75,
+    "likes": 1175,
     "name": "Seahorse",
     "scientific_name": "Hippocampus spp.",
     "category": "fish",
@@ -2811,7 +2811,7 @@
   },
   {
     "id": "172",
-    "likes": 80,
+    "likes": 2580,
     "name": "Electric Eel",
     "scientific_name": "Electrophorus electricus",
     "category": "fish",
