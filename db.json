@@ -2826,6 +2826,143 @@
     ],
     "population": "Population status is not well-documented, but habitat destruction is a concern in some areas.",
     "image_url": "https://media.istockphoto.com/id/923734062/photo/electric-eel.jpg?s=612x612&w=0&k=20&c=vZsBY4CS0_1JDt1TjuF-wGMQCFEvNtunpZi0YT69coI="
+  },
+  {
+    "id": "173",
+    "likes": 2045,
+    "name": "Orchid Praying Mantis",
+    "scientific_name": "Hymenopus coronatus",
+    "category": "insect",
+    "description": "The Orchid Praying Mantis is renowned for its stunning appearance that resembles an orchid flower, making it a master of disguise in tropical areas. It uses its camouflage to attract prey and evade predators.",
+    "habitat": "Tropical forests in Southeast Asia.",
+    "diet": "Carnivore - primarily feeds on insects, including flies and bees.",
+    "fun_facts": [
+        "Females may exhibit sexual cannibalism, where they consume the male after mating, although this is not a certainty.",
+        "They can grow up to 10 cm (4 inches) long, displaying vibrant colors and intricate patterns.",
+        "Their lifelike appearance helps them ambush prey effectively and avoid detection."
+    ],
+    "population": "Common in their habitat, though specific population numbers are not well documented.",
+    "image_url": "https://media.istockphoto.com/id/1211147752/photo/orchid-mantis.webp?a=1&b=1&s=612x612&w=0&k=20&c=znrXuXuk4nVvNsR_-QZjdUXu_ihm_gQrCVDKWgTqOwI="
+  } ,
+  {
+    "id": "174",
+    "likes": 2290,
+    "name": "Blue Morpho",
+    "scientific_name": "Morpho peleides",
+    "category": "insect",
+    "description": "The Blue Morpho is one of the largest and most striking butterflies in the world, recognized for its vibrant blue wings. Found in tropical rainforests, its coloration and size make it an iconic species.",
+    "habitat": "Tropical rainforests of South and Central America.",
+    "diet": "Herbivore - feeds primarily on the leaves of plants, fruits, and nectar.",
+    "fun_facts": [
+        "The blue color comes not from pigment, but from microscopic scales that reflect light.",
+        "Male Blue Morphos are known for their bright coloration, which they use to attract females during courtship displays.",
+        "Despite their size and beauty, they are not particularly long-lived, with adult butterflies typically living for about four to six weeks."
+    ],
+    "population": "Generally stable, but habitat destruction poses a risk.",
+    "image_url": "https://images.unsplash.com/photo-1690037704521-f614da226dac?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZSUyMG1vcnBobyUyMGJ1dHRlcmZseXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": "175",
+    "likes": 950,
+    "name": "Praying Mantis",
+    "scientific_name": "Mantodea",
+    "category": "insect",
+    "description": "Praying Mantises are predatory insects known for their distinctive posture, with forelegs folded in a 'praying' position. They are excellent hunters with a remarkable ability to camouflage themselves among vegetation.",
+    "habitat": "Found in a variety of habitats, including gardens, forests, and grasslands worldwide.",
+    "diet": "Carnivore - feeds on various insects, even small vertebrates like frogs and lizards.",
+    "fun_facts": [
+        "Some species can turn their heads to look over their shoulders, providing a wide field of vision.",
+        "Praying Mantises have excellent eyesight and can see in three dimensions.",
+        "They can jump up to three times their body length, assisting in both hunting and escaping predators."
+    ],
+    "population": "Widespread, with many species facing different levels of threat based on habitat conditions.",
+    "image_url": "https://media.istockphoto.com/id/1134030693/photo/female-european-mantis-or-praying-mantis-mantis-religiosa-green-praying-mantis.webp?a=1&b=1&s=612x612&w=0&k=20&c=TV4dJbC4-bu-xqR9EQ3VSWQtIfhqEBuvEzA2QWTHFqg="
+  },
+  {
+    "id": "176",
+    "likes": 860,
+    "name": "Stick Insect",
+    "scientific_name": "Phasmatodea",
+    "category": "insect",
+    "description": "Stick Insects are remarkable for their incredible camouflage, resembling twigs or branches to evade predators. They exhibit slow, deliberate movements, further enhancing their disguise.",
+    "habitat": "Tropical and subtropical forests around the world.",
+    "diet": "Herbivore - primarily feeds on leaves.",
+    "fun_facts": [
+        "Some species can regenerate lost limbs, allowing them to survive predation.",
+        "Females can lay up to 1,000 eggs at a time, ensuring the continuation of their species.",
+        "When threatened, they may drop to the ground and remain motionless, resembling debris."
+    ],
+    "population": "Varies widely by species; many are common, while others are threatened due to habitat loss.",
+    "image_url": "https://media.istockphoto.com/id/174947570/photo/walking-stick-on-branch.webp?a=1&b=1&s=612x612&w=0&k=20&c=Sa_RrhGst6cnuGWqMTiRfwy8v3dO5mghPLp2SAbyAKo="
+  },
+  {
+    "id": "177",
+    "likes": 1070,
+    "name": "Dung Beetle",
+    "scientific_name": "Scarabaeinae",
+    "category": "insect",
+    "description": "Dung Beetles are small beetles that play a vital role in ecosystems by recycling nutrients and facilitating soil aeration. They are known for rolling dung into balls, which they use as food or breeding sites.",
+    "habitat": "Found in a variety of environments, particularly in grasslands and forests.",
+    "diet": "Detritivore - primarily feeds on animal dung.",
+    "fun_facts": [
+        "Some Dung Beetle species can roll dung balls weighing over 50 times their body weight.",
+        "They help decompose waste matter, making nutrients available to plants, thus supporting healthy ecosystems.",
+        "Dung beetles are celebrated in various cultures; in ancient Egypt, they were considered sacred."
+    ],
+    "population": "Generally common; some species are threatened by habitat destruction and pesticide use.",
+    "image_url": "https://media.istockphoto.com/id/512176167/photo/dung-beetle.webp?a=1&b=1&s=612x612&w=0&k=20&c=OfnUggXmPaN8MvWmRk4oc1AWWW7Vc_ERpWEomo80gQo="
+  },
+  {
+    "id": "178",
+    "likes": 2185,
+    "name": "Peregrine Falcon",
+    "scientific_name": "Falco peregrinus",
+    "category": "bird",
+    "description": "The Peregrine Falcon is renowned as the fastest bird in the world, reaching speeds of over 240 mph (386 km/h) in a hunting dive. Recognized for its sleek build and distinct blue-grey feathers, it is a master of the skies and an apex predator.",
+    "habitat": "Found on every continent except Antarctica, commonly inhabiting cliffs, urban areas, and open landscapes.",
+    "diet": "Carnivore - primarily feeds on other birds, capturing them in mid-air.",
+    "fun_facts": [
+        "Peregrine Falcons have exceptional vision, allowing them to spot prey from over a mile away.",
+        "They perform a unique hunting technique known as a stoop, where they dive at high speeds to catch prey.",
+        "Peregrine Falcons are known for their migratory behavior, traveling long distances between breeding and wintering grounds.",
+        "They are also known for being the fastest birds, that an aircraft in the USA is designed like the bird"
+    ],
+    "population": "Recovering after near extinction; currently stable in many areas thanks to conservation efforts.",
+    "image_url": "https://plus.unsplash.com/premium_photo-1661909235962-12afdb447d3b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGVyZWdyaW5lJTIwZmFsY29ufGVufDB8fDB8fHww"
+  },
+  {
+    "id": "179",
+    "likes": 1095,
+    "name": "Manta Ray",
+    "scientific_name": "Manta birostris",
+    "category": "fish",
+    "description": "Manta Rays are large, gentle filter feeders that glide through the ocean with their distinctive pectoral fins. They can be found in tropical and subtropical waters worldwide.",
+    "habitat": "Open ocean and coastal waters, often near coral reefs.",
+    "diet": "Herbivore - feeds on plankton and small fish.",
+    "fun_facts": [
+        "Manta Rays can grow up to 7 meters (23 feet) in width, making them one of the largest fish in the ocean.",
+        "They are known for their unique feeding behavior, where they use their cephalic fins to funnel plankton into their mouths.",
+        "Manta Rays have a remarkable ability to detect electrical signals from prey and can swim at speeds of up to 25 km/h (15.5 mph)."
+    ],
+    "population": "Stable in some areas but threatened by overfishing and habitat loss in others.",
+    "image_url": "https://media.istockphoto.com/id/2160864453/photo/manta-rays-swimming-together-at-maldives-reef-cleaning-station.webp?a=1&b=1&s=612x612&w=0&k=20&c=dfqFFe5cF9FW09knAgLa_YFydKYM7wB2NpMJ104ARiA="
+  },
+  {
+    "id": "180",
+    "likes": 2098,
+    "name": "Octopus",
+    "scientific_name": "Octopus spp.",
+    "category": "invertebrate",
+    "description": "Octopuses are highly intelligent and adaptable creatures that are found in oceans around the world. They are known for their eight arms, camouflage abilities, and impressive problem-solving skills.",
+    "habitat": "Coastal waters, coral reefs, and open ocean.",
+    "diet": "Carnivore - feeds on crustaceans, mollusks, and small fish.",
+    "fun_facts": [
+        "Octopuses have three hearts and blue blood due to the copper-based molecule called hemocyanin.",
+        "They have excellent eyesight and can detect polarized light to navigate underwater.",
+        "Octopuses are masters of disguise and can change color to blend in with their surroundings."
+    ],
+    "population": "Stable in some areas but threatened by habitat loss and overfishing in others.",
+    "image_url": "https://plus.unsplash.com/premium_photo-1723733104322-827186b5eb9e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b2N0b3B1c3xlbnwwfHwwfHx8MA%3D%3D"
   }
   ]
 }
