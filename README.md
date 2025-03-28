@@ -1,5 +1,5 @@
-# 🐾 PawPrint - Animal Awareness Web App
-PawPrint is a fun little web app that showcases different animals categorized into mammals, birds, reptiles, fish, and insects. The goal is to create awareness about animals, their habitats, and some fun facts.
+# BeastlyBits🐾 - Animal Awareness Web App
+BeastlyBits is a fun little web app that showcases different animals categorized into mammals, birds, reptiles, fish, and insects. The goal is to create awareness about animals, their habitats, and some fun facts.
 
 You can browse through different categories, like animals, and even save your favorites! 🦁🐦🐠
 
